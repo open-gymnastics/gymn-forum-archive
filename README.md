@@ -1,15 +1,16 @@
-# Gymn Forum Archive (private)
+# Gymn Forum Archive
 
-A private preservation backup of **https://www.gymn-forum.net/**, "an electronic forum
+A public preservation backup of **https://www.gymn-forum.net/**, "an electronic forum
 for gymnastics since 1995": biographies, digests, articles, and decades of competition
 results. The site appears unmaintained, and this copy exists so the material isn't lost
 if the domain lapses.
 
-> **This repository is private and must stay private.** The site states that all
-> content is copyrighted ("All rights reserved", © Gymn 1995–2022), and most photos are
-> © Debbie Poe. This archive is a preservation copy, not a republication. Public
-> access should go through the Internet Archive (see below), or wait until a rights
-> holder grants permission.
+> **Copyright notice.** The original site states that all content is copyrighted
+> ("All rights reserved", © Gymn 1995–2022), and most photos are © Debbie Poe. This
+> repository is a good-faith preservation copy of an apparently abandoned site, not a
+> claim of ownership. All rights remain with the original authors and photographers.
+> If you are a rights holder and want content removed or credited differently, open an
+> issue or contact the maintainers and it will be handled promptly.
 
 ## What's here
 
