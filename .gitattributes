@@ -1,0 +1,4 @@
+warc/*.warc.gz filter=lfs diff=lfs merge=lfs -text
+warc/*.cdx filter=lfs diff=lfs merge=lfs -text
+# Archived pages are kept byte-for-byte; never normalize line endings.
+site/** -text
