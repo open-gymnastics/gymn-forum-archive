@@ -1,0 +1,3903 @@
+Checked 9913 HTML pages.
+
+== Missing targets (1946) ==
+Articles/Coaches Interview Profiles/1966 Shtukman Profile.html
+    linked from: Articles/Coaches Interview Profiles/Coach Articles INDEX.html
+Articles/Coaches Interview Profilex/1968 Tinterova Interview.html
+    linked from: Articles/Coaches Interview Profiles/Coach Articles INDEX.html
+Articles/Gymnast Interviews Profiles/1994_Muratovs_Interview.htl.
+    linked from: Articles/Gymnast Interviews Profiles/Gymnast Articles INDEX.html
+Articles/NBI_SparrowFilatova.html
+    linked from: library.html
+Default.htm
+    linked from: bios/men/belenky.html, bios/men/sharipov.html, bios/men/urzica.html, bios/women/boginskaya.html, bios/women/gogean.html
+Digests/Vol2/01Aug1994V2I156_files/filelist.xml
+    linked from: Digests/Vol2/01Aug1994V2I156.htm
+Digests/Vol2/01Aug1994V2I156_files/themedata.xml
+    linked from: Digests/Vol2/01Aug1994V2I156.htm
+Digests/Vol2/01Aug1994V2I157_files/filelist.xml
+    linked from: Digests/Vol2/01Aug1994V2I157.htm
+Digests/Vol2/01Aug1994V2I157_files/themedata.xml
+    linked from: Digests/Vol2/01Aug1994V2I157.htm
+Digests/Vol2/01Jun1994V2I132_files/filelist.xml
+    linked from: Digests/Vol2/01Jun1994V2I132.htm
+Digests/Vol2/01Jun1994V2I132_files/themedata.xml
+    linked from: Digests/Vol2/01Jun1994V2I132.htm
+Digests/Vol2/02Aug1994V2I158_files/filelist.xml
+    linked from: Digests/Vol2/02Aug1994V2I158.htm
+Digests/Vol2/02Aug1994V2I158_files/themedata.xml
+    linked from: Digests/Vol2/02Aug1994V2I158.htm
+Digests/Vol2/02Aug1994V2I159_files/filelist.xml
+    linked from: Digests/Vol2/02Aug1994V2I159.htm
+Digests/Vol2/02Aug1994V2I159_files/themedata.xml
+    linked from: Digests/Vol2/02Aug1994V2I159.htm
+Digests/Vol2/02Jul1994V2I142_files/filelist.xml
+    linked from: Digests/Vol2/02Jul1994V2I142.htm
+Digests/Vol2/02Jul1994V2I142_files/themedata.xml
+    linked from: Digests/Vol2/02Jul1994V2I142.htm
+Digests/Vol2/02Mar1994V2I81_files/filelist.xml
+    linked from: Digests/Vol2/02Mar1994V2I81.htm
+Digests/Vol2/02Mar1994V2I81_files/themedata.xml
+    linked from: Digests/Vol2/02Mar1994V2I81.htm
+Digests/Vol2/02May1994V2I119_files/filelist.xml
+    linked from: Digests/Vol2/02May1994V2I119.htm
+Digests/Vol2/02May1994V2I119_files/themedata.xml
+    linked from: Digests/Vol2/02May1994V2I119.htm
+Digests/Vol2/03Aug1994V2I160_files/filelist.xml
+    linked from: Digests/Vol2/03Aug1994V2I160.htm
+Digests/Vol2/03Aug1994V2I160_files/themedata.xml
+    linked from: Digests/Vol2/03Aug1994V2I160.htm
+Digests/Vol2/04Aug1994V2I161_files/filelist.xml
+    linked from: Digests/Vol2/04Aug1994V2I161.htm
+Digests/Vol2/04Aug1994V2I161_files/themedata.xml
+    linked from: Digests/Vol2/04Aug1994V2I161.htm
+Digests/Vol2/04Mar1994V2I82_files/filelist.xml
+    linked from: Digests/Vol2/04Mar1994V2I82.htm
+Digests/Vol2/04Mar1994V2I82_files/themedata.xml
+    linked from: Digests/Vol2/04Mar1994V2I82.htm
+Digests/Vol2/04May1994V2I120_files/filelist.xml
+    linked from: Digests/Vol2/04May1994V2I120.htm
+Digests/Vol2/04May1994V2I120_files/themedata.xml
+    linked from: Digests/Vol2/04May1994V2I120.htm
+Digests/Vol2/05Aug1994V2I162_files/filelist.xml
+    linked from: Digests/Vol2/05Aug1994V2I162.htm
+Digests/Vol2/05Aug1994V2I162_files/themedata.xml
+    linked from: Digests/Vol2/05Aug1994V2I162.htm
+Digests/Vol2/05Mar1994V2I83_files/filelist.xml
+    linked from: Digests/Vol2/05Mar1994V2I83.htm
+Digests/Vol2/05Mar1994V2I83_files/themedata.xml
+    linked from: Digests/Vol2/05Mar1994V2I83.htm
+Digests/Vol2/06Jul1994V2I143_files/filelist.xml
+    linked from: Digests/Vol2/06Jul1994V2I143.htm
+Digests/Vol2/06Jul1994V2I143_files/themedata.xml
+    linked from: Digests/Vol2/06Jul1994V2I143.htm
+Digests/Vol2/06May1994V2I121_files/filelist.xml
+    linked from: Digests/Vol2/06May1994V2I121.htm
+Digests/Vol2/06May1994V2I121_files/themedata.xml
+    linked from: Digests/Vol2/06May1994V2I121.htm
+Digests/Vol2/07Jul1994V2I144_files/filelist.xml
+    linked from: Digests/Vol2/07Jul1994V2I144.htm
+Digests/Vol2/07Jul1994V2I144_files/themedata.xml
+    linked from: Digests/Vol2/07Jul1994V2I144.htm
+Digests/Vol2/07Mar1994V2I84_files/filelist.xml
+    linked from: Digests/Vol2/07Mar1994V2I84.htm
+Digests/Vol2/07Mar1994V2I84_files/themedata.xml
+    linked from: Digests/Vol2/07Mar1994V2I84.htm
+Digests/Vol2/08Aug1994V2I163_files/filelist.xml
+    linked from: Digests/Vol2/08Aug1994V2I163.htm
+Digests/Vol2/08Aug1994V2I163_files/themedata.xml
+    linked from: Digests/Vol2/08Aug1994V2I163.htm
+Digests/Vol2/08Jul1994V2I145_files/filelist.xml
+    linked from: Digests/Vol2/08Jul1994V2I145.htm
+Digests/Vol2/08Jul1994V2I145_files/themedata.xml
+    linked from: Digests/Vol2/08Jul1994V2I145.htm
+Digests/Vol2/08May1994V2I122_files/filelist.xml
+    linked from: Digests/Vol2/08May1994V2I122.htm
+Digests/Vol2/08May1994V2I122_files/themedata.xml
+    linked from: Digests/Vol2/08May1994V2I122.htm
+Digests/Vol2/10Apr1994V2I101_files/filelist.xml
+    linked from: Digests/Vol2/10Apr1994V2I101.htm
+Digests/Vol2/10Apr1994V2I101_files/themedata.xml
+    linked from: Digests/Vol2/10Apr1994V2I101.htm
+Digests/Vol2/10Aug1994V2I164_files/filelist.xml
+    linked from: Digests/Vol2/10Aug1994V2I164.htm
+Digests/Vol2/10Aug1994V2I164_files/themedata.xml
+    linked from: Digests/Vol2/10Aug1994V2I164.htm
+Digests/Vol2/10Feb1994V2I72_files/filelist.xml
+    linked from: Digests/Vol2/10Feb1994V2I72.htm
+Digests/Vol2/10Feb1994V2I72_files/themedata.xml
+    linked from: Digests/Vol2/10Feb1994V2I72.htm
+Digests/Vol2/10Feb1994V2I73_files/filelist.xml
+    linked from: Digests/Vol2/10Feb1994V2I73.htm
+Digests/Vol2/10Feb1994V2I73_files/themedata.xml
+    linked from: Digests/Vol2/10Feb1994V2I73.htm
+Digests/Vol2/10Jan1994V2I56_files/filelist.xml
+    linked from: Digests/Vol2/10Jan1994V2I56.htm
+Digests/Vol2/10Jan1994V2I56_files/themedata.xml
+    linked from: Digests/Vol2/10Jan1994V2I56.htm
+Digests/Vol2/10Jul1994V2I146_files/filelist.xml
+    linked from: Digests/Vol2/10Jul1994V2I146.htm
+Digests/Vol2/10Jul1994V2I146_files/themedata.xml
+    linked from: Digests/Vol2/10Jul1994V2I146.htm
+Digests/Vol2/10Mar1994V2I85_files/filelist.xml
+    linked from: Digests/Vol2/10Mar1994V2I85.htm
+Digests/Vol2/10Mar1994V2I85_files/themedata.xml
+    linked from: Digests/Vol2/10Mar1994V2I85.htm
+Digests/Vol2/10Mar1994V2I86_files/filelist.xml
+    linked from: Digests/Vol2/10Mar1994V2I86.htm
+Digests/Vol2/10Mar1994V2I86_files/themedata.xml
+    linked from: Digests/Vol2/10Mar1994V2I86.htm
+Digests/Vol2/11Jul1994V2I147_files/filelist.xml
+    linked from: Digests/Vol2/11Jul1994V2I147.htm
+Digests/Vol2/11Jul1994V2I147_files/themedata.xml
+    linked from: Digests/Vol2/11Jul1994V2I147.htm
+Digests/Vol2/12Apr1994V2I102_files/filelist.xml
+    linked from: Digests/Vol2/12Apr1994V2I102.htm
+Digests/Vol2/12Apr1994V2I102_files/themedata.xml
+    linked from: Digests/Vol2/12Apr1994V2I102.htm
+Digests/Vol2/12Jan1994V2I57_files/filelist.xml
+    linked from: Digests/Vol2/12Jan1994V2I57.htm
+Digests/Vol2/12Jan1994V2I57_files/themedata.xml
+    linked from: Digests/Vol2/12Jan1994V2I57.htm
+Digests/Vol2/12Jul1994V2I148_files/filelist.xml
+    linked from: Digests/Vol2/12Jul1994V2I148.htm
+Digests/Vol2/12Jul1994V2I148_files/themedata.xml
+    linked from: Digests/Vol2/12Jul1994V2I148.htm
+Digests/Vol2/12Jun1994V2I135_files/filelist.xml
+    linked from: Digests/Vol2/12Jun1994V2I135.htm
+Digests/Vol2/12Jun1994V2I135_files/themedata.xml
+    linked from: Digests/Vol2/12Jun1994V2I135.htm
+Digests/Vol2/12May1994V2I123_files/filelist.xml
+    linked from: Digests/Vol2/12May1994V2I123.htm
+Digests/Vol2/12May1994V2I123_files/themedata.xml
+    linked from: Digests/Vol2/12May1994V2I123.htm
+Digests/Vol2/13Apr1994V2I103_files/filelist.xml
+    linked from: Digests/Vol2/13Apr1994V2I103.htm
+Digests/Vol2/13Apr1994V2I103_files/themedata.xml
+    linked from: Digests/Vol2/13Apr1994V2I103.htm
+Digests/Vol2/13Aug1994V2I165_files/filelist.xml
+    linked from: Digests/Vol2/13Aug1994V2I165.htm
+Digests/Vol2/13Aug1994V2I165_files/themedata.xml
+    linked from: Digests/Vol2/13Aug1994V2I165.htm
+Digests/Vol2/13Jul1994V2I149_files/filelist.xml
+    linked from: Digests/Vol2/13Jul1994V2I149.htm
+Digests/Vol2/13Jul1994V2I149_files/themedata.xml
+    linked from: Digests/Vol2/13Jul1994V2I149.htm
+Digests/Vol2/14Apr1994V2I104_files/filelist.xml
+    linked from: Digests/Vol2/14Apr1994V2I104.htm
+Digests/Vol2/14Apr1994V2I104_files/themedata.xml
+    linked from: Digests/Vol2/14Apr1994V2I104.htm
+Digests/Vol2/14Jan1994V2I58_files/filelist.xml
+    linked from: Digests/Vol2/14Jan1994V2I58.htm
+Digests/Vol2/14Jan1994V2I58_files/themedata.xml
+    linked from: Digests/Vol2/14Jan1994V2I58.htm
+Digests/Vol2/14Jun1994V2I136_files/filelist.xml
+    linked from: Digests/Vol2/14Jun1994V2I136.htm
+Digests/Vol2/14Jun1994V2I136_files/themedata.xml
+    linked from: Digests/Vol2/14Jun1994V2I136.htm
+Digests/Vol2/14Mar1994V2I87_files/filelist.xml
+    linked from: Digests/Vol2/14Mar1994V2I87.htm
+Digests/Vol2/14Mar1994V2I87_files/themedata.xml
+    linked from: Digests/Vol2/14Mar1994V2I87.htm
+Digests/Vol2/14May1994V2I124_files/filelist.xml
+    linked from: Digests/Vol2/14May1994V2I124.htm
+Digests/Vol2/14May1994V2I124_files/themedata.xml
+    linked from: Digests/Vol2/14May1994V2I124.htm
+Digests/Vol2/15Feb1994V2I74_files/filelist.xml
+    linked from: Digests/Vol2/15Feb1994V2I74.htm
+Digests/Vol2/15Feb1994V2I74_files/themedata.xml
+    linked from: Digests/Vol2/15Feb1994V2I74.htm
+Digests/Vol2/16Feb1994V2I75_files/filelist.xml
+    linked from: Digests/Vol2/16Feb1994V2I75.htm
+Digests/Vol2/16Feb1994V2I75_files/themedata.xml
+    linked from: Digests/Vol2/16Feb1994V2I75.htm
+Digests/Vol2/16Jan1994V2I59_files/filelist.xml
+    linked from: Digests/Vol2/16Jan1994V2I59.htm
+Digests/Vol2/16Jan1994V2I59_files/themedata.xml
+    linked from: Digests/Vol2/16Jan1994V2I59.htm
+Digests/Vol2/16May1994V2I125_files/filelist.xml
+    linked from: Digests/Vol2/16May1994V2I125.htm
+Digests/Vol2/16May1994V2I125_files/themedata.xml
+    linked from: Digests/Vol2/16May1994V2I125.htm
+Digests/Vol2/17Apr1994V2I105_files/filelist.xml
+    linked from: Digests/Vol2/17Apr1994V2I105.htm
+Digests/Vol2/17Apr1994V2I105_files/themedata.xml
+    linked from: Digests/Vol2/17Apr1994V2I105.htm
+Digests/Vol2/17Feb1994V2I76_files/filelist.xml
+    linked from: Digests/Vol2/17Feb1994V2I76.htm
+Digests/Vol2/17Feb1994V2I76_files/themedata.xml
+    linked from: Digests/Vol2/17Feb1994V2I76.htm
+Digests/Vol2/17Jan1994V2I60_files/filelist.xml
+    linked from: Digests/Vol2/17Jan1994V2I60.htm
+Digests/Vol2/17Jan1994V2I60_files/themedata.xml
+    linked from: Digests/Vol2/17Jan1994V2I60.htm
+Digests/Vol2/18Feb1994V2I77_files/filelist.xml
+    linked from: Digests/Vol2/18Feb1994V2I77.htm
+Digests/Vol2/18Feb1994V2I77_files/themedata.xml
+    linked from: Digests/Vol2/18Feb1994V2I77.htm
+Digests/Vol2/18Jul1994V2I150_files/filelist.xml
+    linked from: Digests/Vol2/18Jul1994V2I150.htm
+Digests/Vol2/18Jul1994V2I150_files/themedata.xml
+    linked from: Digests/Vol2/18Jul1994V2I150.htm
+Digests/Vol2/18May1994V2I126_files/filelist.xml
+    linked from: Digests/Vol2/18May1994V2I126.htm
+Digests/Vol2/18May1994V2I126_files/themedata.xml
+    linked from: Digests/Vol2/18May1994V2I126.htm
+Digests/Vol2/19Apr1994V2I106_files/filelist.xml
+    linked from: Digests/Vol2/19Apr1994V2I106.htm
+Digests/Vol2/19Apr1994V2I106_files/themedata.xml
+    linked from: Digests/Vol2/19Apr1994V2I106.htm
+Digests/Vol2/19Jan1994V2I61_files/filelist.xml
+    linked from: Digests/Vol2/19Jan1994V2I61.htm
+Digests/Vol2/19Jan1994V2I61_files/themedata.xml
+    linked from: Digests/Vol2/19Jan1994V2I61.htm
+Digests/Vol2/19Jul1994V2I151_files/filelist.xml
+    linked from: Digests/Vol2/19Jul1994V2I151.htm
+Digests/Vol2/19Jul1994V2I151_files/themedata.xml
+    linked from: Digests/Vol2/19Jul1994V2I151.htm
+Digests/Vol2/19Jun1994V2I137_files/filelist.xml
+    linked from: Digests/Vol2/19Jun1994V2I137.htm
+Digests/Vol2/19Jun1994V2I137_files/themedata.xml
+    linked from: Digests/Vol2/19Jun1994V2I137.htm
+Digests/Vol2/19Mar1994V2I88_files/filelist.xml
+    linked from: Digests/Vol2/19Mar1994V2I88.htm
+Digests/Vol2/19Mar1994V2I88_files/themedata.xml
+    linked from: Digests/Vol2/19Mar1994V2I88.htm
+Digests/Vol2/20Apr1994V2I107_files/filelist.xml
+    linked from: Digests/Vol2/20Apr1994V2I107.htm
+Digests/Vol2/20Apr1994V2I107_files/themedata.xml
+    linked from: Digests/Vol2/20Apr1994V2I107.htm
+Digests/Vol2/20May1994V2I127_files/filelist.xml
+    linked from: Digests/Vol2/20May1994V2I127.htm
+Digests/Vol2/20May1994V2I127_files/themedata.xml
+    linked from: Digests/Vol2/20May1994V2I127.htm
+Digests/Vol2/20May1994V2I128_files/filelist.xml
+    linked from: Digests/Vol2/20May1994V2I128.htm
+Digests/Vol2/20May1994V2I128_files/themedata.xml
+    linked from: Digests/Vol2/20May1994V2I128.htm
+Digests/Vol2/21Apr1994V2I108_files/filelist.xml
+    linked from: Digests/Vol2/21Apr1994V2I108.htm
+Digests/Vol2/21Apr1994V2I108_files/themedata.xml
+    linked from: Digests/Vol2/21Apr1994V2I108.htm
+Digests/Vol2/21Apr1994V2I109_files/filelist.xml
+    linked from: Digests/Vol2/21Apr1994V2I109.htm
+Digests/Vol2/21Apr1994V2I109_files/themedata.xml
+    linked from: Digests/Vol2/21Apr1994V2I109.htm
+Digests/Vol2/21Jan1994V2I62_files/filelist.xml
+    linked from: Digests/Vol2/21Jan1994V2I62.htm
+Digests/Vol2/21Jan1994V2I62_files/themedata.xml
+    linked from: Digests/Vol2/21Jan1994V2I62.htm
+Digests/Vol2/21Jul1994V2I152_files/filelist.xml
+    linked from: Digests/Vol2/21Jul1994V2I152.htm
+Digests/Vol2/21Jul1994V2I152_files/themedata.xml
+    linked from: Digests/Vol2/21Jul1994V2I152.htm
+Digests/Vol2/21Mar1994V2I89_files/filelist.xml
+    linked from: Digests/Vol2/21Mar1994V2I89.htm
+Digests/Vol2/21Mar1994V2I89_files/themedata.xml
+    linked from: Digests/Vol2/21Mar1994V2I89.htm
+Digests/Vol2/22Apr1994V2I110_files/filelist.xml
+    linked from: Digests/Vol2/22Apr1994V2I110.htm
+Digests/Vol2/22Apr1994V2I110_files/themedata.xml
+    linked from: Digests/Vol2/22Apr1994V2I110.htm
+Digests/Vol2/22Jun1994V2I138_files/filelist.xml
+    linked from: Digests/Vol2/22Jun1994V2I138.htm
+Digests/Vol2/22Jun1994V2I138_files/themedata.xml
+    linked from: Digests/Vol2/22Jun1994V2I138.htm
+Digests/Vol2/23Apr1994V2I111_files/filelist.xml
+    linked from: Digests/Vol2/23Apr1994V2I111.htm
+Digests/Vol2/23Apr1994V2I111_files/themedata.xml
+    linked from: Digests/Vol2/23Apr1994V2I111.htm
+Digests/Vol2/23Feb1994V2I78_files/filelist.xml
+    linked from: Digests/Vol2/23Feb1994V2I78.htm
+Digests/Vol2/23Feb1994V2I78_files/themedata.xml
+    linked from: Digests/Vol2/23Feb1994V2I78.htm
+Digests/Vol2/23Mar1994V2I90_files/filelist.xml
+    linked from: Digests/Vol2/23Mar1994V2I90.htm
+Digests/Vol2/23Mar1994V2I90_files/themedata.xml
+    linked from: Digests/Vol2/23Mar1994V2I90.htm
+Digests/Vol2/23Mar1994V2I91_files/filelist.xml
+    linked from: Digests/Vol2/23Mar1994V2I91.htm
+Digests/Vol2/23Mar1994V2I91_files/themedata.xml
+    linked from: Digests/Vol2/23Mar1994V2I91.htm
+Digests/Vol2/23Mar1994V2I92_files/filelist.xml
+    linked from: Digests/Vol2/23Mar1994V2I92.htm
+Digests/Vol2/23Mar1994V2I92_files/themedata.xml
+    linked from: Digests/Vol2/23Mar1994V2I92.htm
+Digests/Vol2/24Apr1994V2I112_files/filelist.xml
+    linked from: Digests/Vol2/24Apr1994V2I112.htm
+Digests/Vol2/24Apr1994V2I112_files/themedata.xml
+    linked from: Digests/Vol2/24Apr1994V2I112.htm
+Digests/Vol2/24Apr1994V2I113_files/filelist.xml
+    linked from: Digests/Vol2/24Apr1994V2I113.htm
+Digests/Vol2/24Apr1994V2I113_files/themedata.xml
+    linked from: Digests/Vol2/24Apr1994V2I113.htm
+Digests/Vol2/24Feb1994V2I79_files/filelist.xml
+    linked from: Digests/Vol2/24Feb1994V2I79.htm
+Digests/Vol2/24Feb1994V2I79_files/themedata.xml
+    linked from: Digests/Vol2/24Feb1994V2I79.htm
+Digests/Vol2/24Jan1994V2I63_files/filelist.xml
+    linked from: Digests/Vol2/24Jan1994V2I63.htm
+Digests/Vol2/24Jan1994V2I63_files/themedata.xml
+    linked from: Digests/Vol2/24Jan1994V2I63.htm
+Digests/Vol2/24Mar1994V2I93_files/filelist.xml
+    linked from: Digests/Vol2/24Mar1994V2I93.htm
+Digests/Vol2/24Mar1994V2I93_files/themedata.xml
+    linked from: Digests/Vol2/24Mar1994V2I93.htm
+Digests/Vol2/24May1994V2I129_files/filelist.xml
+    linked from: Digests/Vol2/24May1994V2I129.htm
+Digests/Vol2/24May1994V2I129_files/themedata.xml
+    linked from: Digests/Vol2/24May1994V2I129.htm
+Digests/Vol2/25Apr1994V2I114_files/filelist.xml
+    linked from: Digests/Vol2/25Apr1994V2I114.htm
+Digests/Vol2/25Apr1994V2I114_files/themedata.xml
+    linked from: Digests/Vol2/25Apr1994V2I114.htm
+Digests/Vol2/25Jun1994V2I139_files/filelist.xml
+    linked from: Digests/Vol2/25Jun1994V2I139.htm
+Digests/Vol2/25Jun1994V2I139_files/themedata.xml
+    linked from: Digests/Vol2/25Jun1994V2I139.htm
+Digests/Vol2/25May1994V2I130_files/filelist.xml
+    linked from: Digests/Vol2/25May1994V2I130.htm
+Digests/Vol2/25May1994V2I130_files/themedata.xml
+    linked from: Digests/Vol2/25May1994V2I130.htm
+Digests/Vol2/26Apr1994V2I115_files/filelist.xml
+    linked from: Digests/Vol2/26Apr1994V2I115.htm
+Digests/Vol2/26Apr1994V2I115_files/themedata.xml
+    linked from: Digests/Vol2/26Apr1994V2I115.htm
+Digests/Vol2/27Apr1994V2I116_files/filelist.xml
+    linked from: Digests/Vol2/27Apr1994V2I116.htm
+Digests/Vol2/27Apr1994V2I116_files/themedata.xml
+    linked from: Digests/Vol2/27Apr1994V2I116.htm
+Digests/Vol2/27Jan1994V2I64_files/filelist.xml
+    linked from: Digests/Vol2/27Jan1994V2I64.htm
+Digests/Vol2/27Jan1994V2I64_files/themedata.xml
+    linked from: Digests/Vol2/27Jan1994V2I64.htm
+Digests/Vol2/27Jul1994V2I153_files/filelist.xml
+    linked from: Digests/Vol2/27Jul1994V2I153.htm
+Digests/Vol2/27Jul1994V2I153_files/themedata.xml
+    linked from: Digests/Vol2/27Jul1994V2I153.htm
+Digests/Vol2/27Jun1994V2I140_files/filelist.xml
+    linked from: Digests/Vol2/27Jun1994V2I140.htm
+Digests/Vol2/27Jun1994V2I140_files/themedata.xml
+    linked from: Digests/Vol2/27Jun1994V2I140.htm
+Digests/Vol2/27May1994V2I131_files/filelist.xml
+    linked from: Digests/Vol2/27May1994V2I131.htm
+Digests/Vol2/27May1994V2I131_files/themedata.xml
+    linked from: Digests/Vol2/27May1994V2I131.htm
+Digests/Vol2/28Apr1994V2I117_files/filelist.xml
+    linked from: Digests/Vol2/28Apr1994V2I117.htm
+Digests/Vol2/28Apr1994V2I117_files/themedata.xml
+    linked from: Digests/Vol2/28Apr1994V2I117.htm
+Digests/Vol2/28Feb1994V2I80_files/filelist.xml
+    linked from: Digests/Vol2/28Feb1994V2I80.htm
+Digests/Vol2/28Feb1994V2I80_files/themedata.xml
+    linked from: Digests/Vol2/28Feb1994V2I80.htm
+Digests/Vol2/28Jan1994V2I65_files/filelist.xml
+    linked from: Digests/Vol2/28Jan1994V2I65.htm
+Digests/Vol2/28Jan1994V2I65_files/themedata.xml
+    linked from: Digests/Vol2/28Jan1994V2I65.htm
+Digests/Vol2/29Apr1994V2I119_files/filelist.xml
+    linked from: Digests/Vol2/29Apr1994V2I119.htm
+Digests/Vol2/29Apr1994V2I119_files/themedata.xml
+    linked from: Digests/Vol2/29Apr1994V2I119.htm
+Digests/Vol2/29Jul1994V2I154_files/filelist.xml
+    linked from: Digests/Vol2/29Jul1994V2I154.htm
+Digests/Vol2/29Jul1994V2I154_files/themedata.xml
+    linked from: Digests/Vol2/29Jul1994V2I154.htm
+Digests/Vol2/29Jun1994V2I141_files/filelist.xml
+    linked from: Digests/Vol2/29Jun1994V2I141.htm
+Digests/Vol2/29Jun1994V2I141_files/themedata.xml
+    linked from: Digests/Vol2/29Jun1994V2I141.htm
+Digests/Vol2/2Feb1994V2I67_files/filelist.xml
+    linked from: Digests/Vol2/2Feb1994V2I67.htm
+Digests/Vol2/2Feb1994V2I67_files/themedata.xml
+    linked from: Digests/Vol2/2Feb1994V2I67.htm
+Digests/Vol2/30Mar1994V2I94_files/filelist.xml
+    linked from: Digests/Vol2/30Mar1994V2I94.htm
+Digests/Vol2/30Mar1994V2I94_files/themedata.xml
+    linked from: Digests/Vol2/30Mar1994V2I94.htm
+Digests/Vol2/30Mar1994V2I95_files/filelist.xml
+    linked from: Digests/Vol2/30Mar1994V2I95.htm
+Digests/Vol2/30Mar1994V2I95_files/themedata.xml
+    linked from: Digests/Vol2/30Mar1994V2I95.htm
+Digests/Vol2/30Mar1994V2I96_files/filelist.xml
+    linked from: Digests/Vol2/30Mar1994V2I96.htm
+Digests/Vol2/30Mar1994V2I96_files/themedata.xml
+    linked from: Digests/Vol2/30Mar1994V2I96.htm
+Digests/Vol2/31Jan1994V2I66_files/filelist.xml
+    linked from: Digests/Vol2/31Jan1994V2I66.htm
+Digests/Vol2/31Jan1994V2I66_files/themedata.xml
+    linked from: Digests/Vol2/31Jan1994V2I66.htm
+Digests/Vol2/31Jul1994V2I155_files/filelist.xml
+    linked from: Digests/Vol2/31Jul1994V2I155.htm
+Digests/Vol2/31Jul1994V2I155_files/themedata.xml
+    linked from: Digests/Vol2/31Jul1994V2I155.htm
+Digests/Vol2/3Apr1994V2I97_files/filelist.xml
+    linked from: Digests/Vol2/3Apr1994V2I97.htm
+Digests/Vol2/3Apr1994V2I97_files/themedata.xml
+    linked from: Digests/Vol2/3Apr1994V2I97.htm
+Digests/Vol2/3Feb1994V2I68_files/filelist.xml
+    linked from: Digests/Vol2/3Feb1994V2I68.htm
+Digests/Vol2/3Feb1994V2I68_files/themedata.xml
+    linked from: Digests/Vol2/3Feb1994V2I68.htm
+Digests/Vol2/3Feb1994V2I69_files/filelist.xml
+    linked from: Digests/Vol2/3Feb1994V2I69.htm
+Digests/Vol2/3Feb1994V2I69_files/themedata.xml
+    linked from: Digests/Vol2/3Feb1994V2I69.htm
+Digests/Vol2/3Feb1994V2I70_files/filelist.xml
+    linked from: Digests/Vol2/3Feb1994V2I70.htm
+Digests/Vol2/3Feb1994V2I70_files/themedata.xml
+    linked from: Digests/Vol2/3Feb1994V2I70.htm
+Digests/Vol2/3Jan1994V2I54_files/filelist.xml
+    linked from: Digests/Vol2/3Jan1994V2I54.htm
+Digests/Vol2/3Jan1994V2I54_files/themedata.xml
+    linked from: Digests/Vol2/3Jan1994V2I54.htm
+Digests/Vol2/4Jan1994V2I55_files/filelist.xml
+    linked from: Digests/Vol2/4Jan1994V2I55.htm
+Digests/Vol2/4Jan1994V2I55_files/themedata.xml
+    linked from: Digests/Vol2/4Jan1994V2I55.htm
+Digests/Vol2/4Jun1994V2I193_files/filelist.xml
+    linked from: Digests/Vol2/4Jun1994V2I193.htm
+Digests/Vol2/4Jun1994V2I193_files/themedata.xml
+    linked from: Digests/Vol2/4Jun1994V2I193.htm
+Digests/Vol2/6Apr1994V2I98_files/filelist.xml
+    linked from: Digests/Vol2/6Apr1994V2I98.htm
+Digests/Vol2/6Apr1994V2I98_files/themedata.xml
+    linked from: Digests/Vol2/6Apr1994V2I98.htm
+Digests/Vol2/6Apr1994V2I99_files/filelist.xml
+    linked from: Digests/Vol2/6Apr1994V2I99.htm
+Digests/Vol2/6Apr1994V2I99_files/themedata.xml
+    linked from: Digests/Vol2/6Apr1994V2I99.htm
+Digests/Vol2/6Jun1994V2I134_files/filelist.xml
+    linked from: Digests/Vol2/6Jun1994V2I134.htm
+Digests/Vol2/6Jun1994V2I134_files/themedata.xml
+    linked from: Digests/Vol2/6Jun1994V2I134.htm
+Digests/Vol2/7Feb1994V2I71_files/filelist.xml
+    linked from: Digests/Vol2/7Feb1994V2I71.htm
+Digests/Vol2/7Feb1994V2I71_files/themedata.xml
+    linked from: Digests/Vol2/7Feb1994V2I71.htm
+Digests/Vol2/8Apr1994V2I100_files/filelist.xml
+    linked from: Digests/Vol2/8Apr1994V2I100.htm
+Digests/Vol2/8Apr1994V2I100_files/themedata.xml
+    linked from: Digests/Vol2/8Apr1994V2I100.htm
+Digests/Vol2/8Aug1994V2I163_files/filelist.xml
+    linked from: Digests/Vol2/8Aug1994V2I163.htm
+Digests/Vol2/8Aug1994V2I163_files/themedata.xml
+    linked from: Digests/Vol2/8Aug1994V2I163.htm
+Digests/Vol3/01Apr1995V3I105_files/filelist.xml
+    linked from: Digests/Vol3/01Apr1995V3I105.htm
+Digests/Vol3/01Apr1995V3I105_files/themedata.xml
+    linked from: Digests/Vol3/01Apr1995V3I105.htm
+Digests/Vol3/01Dec1994V3I42_files/filelist.xml
+    linked from: Digests/Vol3/01Dec1994V3I42.htm
+Digests/Vol3/01Dec1994V3I42_files/themedata.xml
+    linked from: Digests/Vol3/01Dec1994V3I42.htm
+Digests/Vol3/01Jan1995V3I55_files/filelist.xml
+    linked from: Digests/Vol3/01Jan1995V3I55.htm
+Digests/Vol3/01Jan1995V3I55_files/themedata.xml
+    linked from: Digests/Vol3/01Jan1995V3I55.htm
+Digests/Vol3/01Jul1995V3I195_files/filelist.xml
+    linked from: Digests/Vol3/01Jul1995V3I195.htm
+Digests/Vol3/01Jul1995V3I195_files/themedata.xml
+    linked from: Digests/Vol3/01Jul1995V3I195.htm
+Digests/Vol3/01Jun1995V3I166_files/filelist.xml
+    linked from: Digests/Vol3/01Jun1995V3I166.htm
+Digests/Vol3/01Jun1995V3I166_files/themedata.xml
+    linked from: Digests/Vol3/01Jun1995V3I166.htm
+Digests/Vol3/01May1995V3I136_files/filelist.xml
+    linked from: Digests/Vol3/01May1995V3I136.htm
+Digests/Vol3/01May1995V3I136_files/themedata.xml
+    linked from: Digests/Vol3/01May1995V3I136.htm
+Digests/Vol3/01Nov1994V3I33_files/filelist.xml
+    linked from: Digests/Vol3/01Nov1994V3I33.htm
+Digests/Vol3/01Nov1994V3I33_files/themedata.xml
+    linked from: Digests/Vol3/01Nov1994V3I33.htm
+Digests/Vol3/01Nov1994V3I34_files/filelist.xml
+    linked from: Digests/Vol3/01Nov1994V3I34.htm
+Digests/Vol3/01Nov1994V3I34_files/themedata.xml
+    linked from: Digests/Vol3/01Nov1994V3I34.htm
+Digests/Vol3/01Oct1994V3I26 _files/filelist.xml
+    linked from: Digests/Vol3/01Oct1994V3I26 .htm
+Digests/Vol3/01Oct1994V3I26 _files/themedata.xml
+    linked from: Digests/Vol3/01Oct1994V3I26 .htm
+Digests/Vol3/01Sep1994V3I10_files/filelist.xml
+    linked from: Digests/Vol3/01Sep1994V3I10.htm
+Digests/Vol3/01Sep1994V3I10_files/themedata.xml
+    linked from: Digests/Vol3/01Sep1994V3I10.htm
+Digests/Vol3/02Apr1995V3I106_files/filelist.xml
+    linked from: Digests/Vol3/02Apr1995V3I106.htm
+Digests/Vol3/02Apr1995V3I106_files/themedata.xml
+    linked from: Digests/Vol3/02Apr1995V3I106.htm
+Digests/Vol3/02Jul1995V3I196_files/filelist.xml
+    linked from: Digests/Vol3/02Jul1995V3I196.htm
+Digests/Vol3/02Jul1995V3I196_files/themedata.xml
+    linked from: Digests/Vol3/02Jul1995V3I196.htm
+Digests/Vol3/02Jun1995V3I167_files/filelist.xml
+    linked from: Digests/Vol3/02Jun1995V3I167.htm
+Digests/Vol3/02Jun1995V3I167_files/themedata.xml
+    linked from: Digests/Vol3/02Jun1995V3I167.htm
+Digests/Vol3/02May1995V3I136_files/filelist.xml
+    linked from: Digests/Vol3/02May1995V3I136.htm
+Digests/Vol3/02May1995V3I136_files/themedata.xml
+    linked from: Digests/Vol3/02May1995V3I136.htm
+Digests/Vol3/02Sep1994V3I12_files/filelist.xml
+    linked from: Digests/Vol3/02Sep1994V3I12.htm
+Digests/Vol3/02Sep1994V3I12_files/themedata.xml
+    linked from: Digests/Vol3/02Sep1994V3I12.htm
+Digests/Vol3/02Sept1994V3I11_files/filelist.xml
+    linked from: Digests/Vol3/02Sept1994V3I11.htm
+Digests/Vol3/02Sept1994V3I11_files/themedata.xml
+    linked from: Digests/Vol3/02Sept1994V3I11.htm
+Digests/Vol3/03Apr1995V3I103_files/filelist.xml
+    linked from: Digests/Vol3/03Apr1995V3I103.htm
+Digests/Vol3/03Apr1995V3I103_files/themedata.xml
+    linked from: Digests/Vol3/03Apr1995V3I103.htm
+Digests/Vol3/03Apr1995V3I107_files/filelist.xml
+    linked from: Digests/Vol3/03Apr1995V3I107.htm
+Digests/Vol3/03Apr1995V3I107_files/themedata.xml
+    linked from: Digests/Vol3/03Apr1995V3I107.htm
+Digests/Vol3/03Jul1995V3I197_files/filelist.xml
+    linked from: Digests/Vol3/03Jul1995V3I197.htm
+Digests/Vol3/03Jul1995V3I197_files/themedata.xml
+    linked from: Digests/Vol3/03Jul1995V3I197.htm
+Digests/Vol3/03Jun1995V3I168_files/filelist.xml
+    linked from: Digests/Vol3/03Jun1995V3I168.htm
+Digests/Vol3/03Jun1995V3I168_files/themedata.xml
+    linked from: Digests/Vol3/03Jun1995V3I168.htm
+Digests/Vol3/03May1995V3I137_files/filelist.xml
+    linked from: Digests/Vol3/03May1995V3I137.htm
+Digests/Vol3/03May1995V3I137_files/themedata.xml
+    linked from: Digests/Vol3/03May1995V3I137.htm
+Digests/Vol3/04Apr1995V3I108_files/filelist.xml
+    linked from: Digests/Vol3/04Apr1995V3I108.htm
+Digests/Vol3/04Apr1995V3I108_files/themedata.xml
+    linked from: Digests/Vol3/04Apr1995V3I108.htm
+Digests/Vol3/04Jul1995V3I198_files/filelist.xml
+    linked from: Digests/Vol3/04Jul1995V3I198.htm
+Digests/Vol3/04Jul1995V3I198_files/themedata.xml
+    linked from: Digests/Vol3/04Jul1995V3I198.htm
+Digests/Vol3/04Jun1995V3169_files/filelist.xml
+    linked from: Digests/Vol3/04Jun1995V3169.htm
+Digests/Vol3/04Jun1995V3169_files/themedata.xml
+    linked from: Digests/Vol3/04Jun1995V3169.htm
+Digests/Vol3/04Mar1995V3I75_files/filelist.xml
+    linked from: Digests/Vol3/04Mar1995V3I75.htm
+Digests/Vol3/04Mar1995V3I75_files/themedata.xml
+    linked from: Digests/Vol3/04Mar1995V3I75.htm
+Digests/Vol3/04May1995V3I138_files/filelist.xml
+    linked from: Digests/Vol3/04May1995V3I138.htm
+Digests/Vol3/04May1995V3I138_files/themedata.xml
+    linked from: Digests/Vol3/04May1995V3I138.htm
+Digests/Vol3/04Nov1994V3I35_files/filelist.xml
+    linked from: Digests/Vol3/04Nov1994V3I35.htm
+Digests/Vol3/04Nov1994V3I35_files/themedata.xml
+    linked from: Digests/Vol3/04Nov1994V3I35.htm
+Digests/Vol3/04Nov1994V3I36_files/filelist.xml
+    linked from: Digests/Vol3/04Nov1994V3I36.htm
+Digests/Vol3/04Nov1994V3I36_files/themedata.xml
+    linked from: Digests/Vol3/04Nov1994V3I36.htm
+Digests/Vol3/05Apr1995V3I109_files/filelist.xml
+    linked from: Digests/Vol3/05Apr1995V3I109.htm
+Digests/Vol3/05Apr1995V3I109_files/themedata.xml
+    linked from: Digests/Vol3/05Apr1995V3I109.htm
+Digests/Vol3/05Feb1995V3I64_files/filelist.xml
+    linked from: Digests/Vol3/05Feb1995V3I64.htm
+Digests/Vol3/05Feb1995V3I64_files/themedata.xml
+    linked from: Digests/Vol3/05Feb1995V3I64.htm
+Digests/Vol3/05Jan1995V3I56_files/filelist.xml
+    linked from: Digests/Vol3/05Jan1995V3I56.htm
+Digests/Vol3/05Jan1995V3I56_files/themedata.xml
+    linked from: Digests/Vol3/05Jan1995V3I56.htm
+Digests/Vol3/05Jul1995V3I199_files/filelist.xml
+    linked from: Digests/Vol3/05Jul1995V3I199.htm
+Digests/Vol3/05Jul1995V3I199_files/themedata.xml
+    linked from: Digests/Vol3/05Jul1995V3I199.htm
+Digests/Vol3/05Jun1995V3I170_files/filelist.xml
+    linked from: Digests/Vol3/05Jun1995V3I170.htm
+Digests/Vol3/05Jun1995V3I170_files/themedata.xml
+    linked from: Digests/Vol3/05Jun1995V3I170.htm
+Digests/Vol3/05Mar1995V3I76_files/filelist.xml
+    linked from: Digests/Vol3/05Mar1995V3I76.htm
+Digests/Vol3/05Mar1995V3I76_files/themedata.xml
+    linked from: Digests/Vol3/05Mar1995V3I76.htm
+Digests/Vol3/05May1995V3I139_files/filelist.xml
+    linked from: Digests/Vol3/05May1995V3I139.htm
+Digests/Vol3/05May1995V3I139_files/themedata.xml
+    linked from: Digests/Vol3/05May1995V3I139.htm
+Digests/Vol3/05Nov1994V3I37_files/filelist.xml
+    linked from: Digests/Vol3/05Nov1994V3I37.htm
+Digests/Vol3/05Nov1994V3I37_files/themedata.xml
+    linked from: Digests/Vol3/05Nov1994V3I37.htm
+Digests/Vol3/05Oct1994V3I27_files/filelist.xml
+    linked from: Digests/Vol3/05Oct1994V3I27.htm
+Digests/Vol3/05Oct1994V3I27_files/themedata.xml
+    linked from: Digests/Vol3/05Oct1994V3I27.htm
+Digests/Vol3/05Sep1994V3I14_files/filelist.xml
+    linked from: Digests/Vol3/05Sep1994V3I13.htm
+Digests/Vol3/05Sep1994V3I14_files/themedata.xml
+    linked from: Digests/Vol3/05Sep1994V3I13.htm
+Digests/Vol3/06Apr1995V3I110_files/filelist.xml
+    linked from: Digests/Vol3/06Apr1995V3I110.htm
+Digests/Vol3/06Apr1995V3I110_files/themedata.xml
+    linked from: Digests/Vol3/06Apr1995V3I110.htm
+Digests/Vol3/06Apr1995V3I111_files/filelist.xml
+    linked from: Digests/Vol3/06Apr1995V3I111.htm
+Digests/Vol3/06Apr1995V3I111_files/themedata.xml
+    linked from: Digests/Vol3/06Apr1995V3I111.htm
+Digests/Vol3/06Dec1994V3I43_files/filelist.xml
+    linked from: Digests/Vol3/06Dec1994V3I43.htm
+Digests/Vol3/06Dec1994V3I43_files/themedata.xml
+    linked from: Digests/Vol3/06Dec1994V3I43.htm
+Digests/Vol3/06Feb1995V3I65_files/filelist.xml
+    linked from: Digests/Vol3/06Feb1995V3I65.htm
+Digests/Vol3/06Feb1995V3I65_files/themedata.xml
+    linked from: Digests/Vol3/06Feb1995V3I65.htm
+Digests/Vol3/06Jul1995V3I200_files/filelist.xml
+    linked from: Digests/Vol3/06Jul1995V3I200.htm
+Digests/Vol3/06Jul1995V3I200_files/themedata.xml
+    linked from: Digests/Vol3/06Jul1995V3I200.htm
+Digests/Vol3/06Jun1995V3I171_files/filelist.xml
+    linked from: Digests/Vol3/06Jun1995V3I171.htm
+Digests/Vol3/06Jun1995V3I171_files/themedata.xml
+    linked from: Digests/Vol3/06Jun1995V3I171.htm
+Digests/Vol3/06Mar1995V3I77a_files/filelist.xml
+    linked from: Digests/Vol3/06Mar1995V3I77a.htm
+Digests/Vol3/06Mar1995V3I77a_files/themedata.xml
+    linked from: Digests/Vol3/06Mar1995V3I77a.htm
+Digests/Vol3/06Mar1995V3I77b_files/filelist.xml
+    linked from: Digests/Vol3/06Mar1995V3I77b.htm
+Digests/Vol3/06Mar1995V3I77b_files/themedata.xml
+    linked from: Digests/Vol3/06Mar1995V3I77b.htm
+Digests/Vol3/06May1995V3I140_files/filelist.xml
+    linked from: Digests/Vol3/06May1995V3I140.htm
+Digests/Vol3/06May1995V3I140_files/themedata.xml
+    linked from: Digests/Vol3/06May1995V3I140.htm
+Digests/Vol3/07Apr1995V3I112_files/filelist.xml
+    linked from: Digests/Vol3/07Apr1995V3I112.htm
+Digests/Vol3/07Apr1995V3I112_files/themedata.xml
+    linked from: Digests/Vol3/07Apr1995V3I112.htm
+Digests/Vol3/07Jan1995V3I57_files/filelist.xml
+    linked from: Digests/Vol3/07Jan1995V3I57.htm
+Digests/Vol3/07Jan1995V3I57_files/themedata.xml
+    linked from: Digests/Vol3/07Jan1995V3I57.htm
+Digests/Vol3/07Jul1995V3I201_files/filelist.xml
+    linked from: Digests/Vol3/07Jul1995V3I201.htm
+Digests/Vol3/07Jul1995V3I201_files/themedata.xml
+    linked from: Digests/Vol3/07Jul1995V3I201.htm
+Digests/Vol3/07Jun1995V3I172_files/filelist.xml
+    linked from: Digests/Vol3/07Jun1995V3I172.htm
+Digests/Vol3/07Jun1995V3I172_files/themedata.xml
+    linked from: Digests/Vol3/07Jun1995V3I172.htm
+Digests/Vol3/07Mar1995V3I78_files/filelist.xml
+    linked from: Digests/Vol3/07Mar1995V3I78.htm
+Digests/Vol3/07Mar1995V3I78_files/themedata.xml
+    linked from: Digests/Vol3/07Mar1995V3I78.htm
+Digests/Vol3/07Mar1995V3I79_files/filelist.xml
+    linked from: Digests/Vol3/07Mar1995V3I79.htm
+Digests/Vol3/07Mar1995V3I79_files/themedata.xml
+    linked from: Digests/Vol3/07Mar1995V3I79.htm
+Digests/Vol3/07Mar1995V3I80_files/filelist.xml
+    linked from: Digests/Vol3/07Mar1995V3I80.htm
+Digests/Vol3/07Mar1995V3I80_files/themedata.xml
+    linked from: Digests/Vol3/07Mar1995V3I80.htm
+Digests/Vol3/07May1995V3I141_files/filelist.xml
+    linked from: Digests/Vol3/07May1995V3I141.htm
+Digests/Vol3/07May1995V3I141_files/themedata.xml
+    linked from: Digests/Vol3/07May1995V3I141.htm
+Digests/Vol3/07Oct1994V3I28_files/filelist.xml
+    linked from: Digests/Vol3/07Oct1994V3I28.htm
+Digests/Vol3/07Oct1994V3I28_files/themedata.xml
+    linked from: Digests/Vol3/07Oct1994V3I28.htm
+Digests/Vol3/08Apr1995V3I113_files/filelist.xml
+    linked from: Digests/Vol3/08Apr1995V3I113.htm
+Digests/Vol3/08Apr1995V3I113_files/themedata.xml
+    linked from: Digests/Vol3/08Apr1995V3I113.htm
+Digests/Vol3/08Jul1995V3I202_files/filelist.xml
+    linked from: Digests/Vol3/08Jul1995V3I202.htm
+Digests/Vol3/08Jul1995V3I202_files/themedata.xml
+    linked from: Digests/Vol3/08Jul1995V3I202.htm
+Digests/Vol3/08Jun1995V3I173_files/filelist.xml
+    linked from: Digests/Vol3/08Jun1995V3I173.htm
+Digests/Vol3/08Jun1995V3I173_files/themedata.xml
+    linked from: Digests/Vol3/08Jun1995V3I173.htm
+Digests/Vol3/08Mar1995V3I81_files/filelist.xml
+    linked from: Digests/Vol3/08Mar1995V3I81.htm
+Digests/Vol3/08Mar1995V3I81_files/themedata.xml
+    linked from: Digests/Vol3/08Mar1995V3I81.htm
+Digests/Vol3/08May1995V3I142_files/filelist.xml
+    linked from: Digests/Vol3/08May1995V3I142.htm
+Digests/Vol3/08May1995V3I142_files/themedata.xml
+    linked from: Digests/Vol3/08May1995V3I142.htm
+Digests/Vol3/08Nov1994V3I38_files/filelist.xml
+    linked from: Digests/Vol3/08Nov1994V3I38.htm
+Digests/Vol3/08Nov1994V3I38_files/themedata.xml
+    linked from: Digests/Vol3/08Nov1994V3I38.htm
+Digests/Vol3/09Apr1995V3I114_files/filelist.xml
+    linked from: Digests/Vol3/09Apr1995V3I114.htm
+Digests/Vol3/09Apr1995V3I114_files/themedata.xml
+    linked from: Digests/Vol3/09Apr1995V3I114.htm
+Digests/Vol3/09Jul1995V3I203_files/filelist.xml
+    linked from: Digests/Vol3/09Jul1995V3I203.htm
+Digests/Vol3/09Jul1995V3I203_files/themedata.xml
+    linked from: Digests/Vol3/09Jul1995V3I203.htm
+Digests/Vol3/09Jun1995V3I174_files/filelist.xml
+    linked from: Digests/Vol3/09Jun1995V3I174.htm
+Digests/Vol3/09Jun1995V3I174_files/themedata.xml
+    linked from: Digests/Vol3/09Jun1995V3I174.htm
+Digests/Vol3/09Mar1995V3I82_files/filelist.xml
+    linked from: Digests/Vol3/09Mar1995V3I82.htm
+Digests/Vol3/09Mar1995V3I82_files/themedata.xml
+    linked from: Digests/Vol3/09Mar1995V3I82.htm
+Digests/Vol3/09May1995V3I143_files/filelist.xml
+    linked from: Digests/Vol3/09May1995V3I143.htm
+Digests/Vol3/09May1995V3I143_files/themedata.xml
+    linked from: Digests/Vol3/09May1995V3I143.htm
+Digests/Vol3/09Sep1994V3I14_files/filelist.xml
+    linked from: Digests/Vol3/09Sep1994V3I14.htm
+Digests/Vol3/09Sep1994V3I14_files/themedata.xml
+    linked from: Digests/Vol3/09Sep1994V3I14.htm
+Digests/Vol3/10Apr1995V3I115_files/filelist.xml
+    linked from: Digests/Vol3/10Apr1995V3I115.htm
+Digests/Vol3/10Apr1995V3I115_files/themedata.xml
+    linked from: Digests/Vol3/10Apr1995V3I115.htm
+Digests/Vol3/10Feb1995V3I66_files/filelist.xml
+    linked from: Digests/Vol3/10Feb1995V3I66.htm
+Digests/Vol3/10Feb1995V3I66_files/themedata.xml
+    linked from: Digests/Vol3/10Feb1995V3I66.htm
+Digests/Vol3/10Jul1995V3I205_files/filelist.xml
+    linked from: Digests/Vol3/10Jul1995V3I205.htm
+Digests/Vol3/10Jul1995V3I205_files/themedata.xml
+    linked from: Digests/Vol3/10Jul1995V3I205.htm
+Digests/Vol3/10Jun1995V3I185_files/filelist.xml
+    linked from: Digests/Vol3/10Jun1995V3I185.htm
+Digests/Vol3/10Jun1995V3I185_files/themedata.xml
+    linked from: Digests/Vol3/10Jun1995V3I185.htm
+Digests/Vol3/10Mar1995V3I83_files/filelist.xml
+    linked from: Digests/Vol3/10Mar1995V3I83.htm
+Digests/Vol3/10Mar1995V3I83_files/themedata.xml
+    linked from: Digests/Vol3/10Mar1995V3I83.htm
+Digests/Vol3/10May1995V3I144_files/filelist.xml
+    linked from: Digests/Vol3/10May1995V3I144.htm
+Digests/Vol3/10May1995V3I144_files/themedata.xml
+    linked from: Digests/Vol3/10May1995V3I144.htm
+Digests/Vol3/10Sep1994V3I15_files/filelist.xml
+    linked from: Digests/Vol3/10Sep1994V3I15.htm
+Digests/Vol3/10Sep1994V3I15_files/themedata.xml
+    linked from: Digests/Vol3/10Sep1994V3I15.htm
+Digests/Vol3/11Apr1995V3I116_files/filelist.xml
+    linked from: Digests/Vol3/11Apr1995V3I116.htm
+Digests/Vol3/11Apr1995V3I116_files/themedata.xml
+    linked from: Digests/Vol3/11Apr1995V3I116.htm
+Digests/Vol3/11Dec1994V3I44_files/filelist.xml
+    linked from: Digests/Vol3/11Dec1994V3I44.htm
+Digests/Vol3/11Dec1994V3I44_files/themedata.xml
+    linked from: Digests/Vol3/11Dec1994V3I44.htm
+Digests/Vol3/11Jul1995V3I206_files/filelist.xml
+    linked from: Digests/Vol3/11Jul1995V3I206.htm
+Digests/Vol3/11Jul1995V3I206_files/themedata.xml
+    linked from: Digests/Vol3/11Jul1995V3I206.htm
+Digests/Vol3/11Jun1995V3I176_files/filelist.xml
+    linked from: Digests/Vol3/11Jun1995V3I176.htm
+Digests/Vol3/11Jun1995V3I176_files/themedata.xml
+    linked from: Digests/Vol3/11Jun1995V3I176.htm
+Digests/Vol3/11Mar1995V3I85_files/filelist.xml
+    linked from: Digests/Vol3/11Mar1995V3I85.htm
+Digests/Vol3/11Mar1995V3I85_files/themedata.xml
+    linked from: Digests/Vol3/11Mar1995V3I85.htm
+Digests/Vol3/11May1995V3I145_files/filelist.xml
+    linked from: Digests/Vol3/11May1995V3I145.htm
+Digests/Vol3/11May1995V3I145_files/themedata.xml
+    linked from: Digests/Vol3/11May1995V3I145.htm
+Digests/Vol3/12Apr1995V3I117_files/filelist.xml
+    linked from: Digests/Vol3/12Apr1995V3I117.htm
+Digests/Vol3/12Apr1995V3I117_files/themedata.xml
+    linked from: Digests/Vol3/12Apr1995V3I117.htm
+Digests/Vol3/12Jul1995V3I207_files/filelist.xml
+    linked from: Digests/Vol3/12Jul1995V3I207.htm
+Digests/Vol3/12Jul1995V3I207_files/themedata.xml
+    linked from: Digests/Vol3/12Jul1995V3I207.htm
+Digests/Vol3/12Jun1995V3I177_files/filelist.xml
+    linked from: Digests/Vol3/12Jun1995V3I177.htm
+Digests/Vol3/12Jun1995V3I177_files/themedata.xml
+    linked from: Digests/Vol3/12Jun1995V3I177.htm
+Digests/Vol3/12Mar1995V3I86_files/filelist.xml
+    linked from: Digests/Vol3/12Mar1995V3I86.htm
+Digests/Vol3/12Mar1995V3I86_files/themedata.xml
+    linked from: Digests/Vol3/12Mar1995V3I86.htm
+Digests/Vol3/12May1995V3I146_files/filelist.xml
+    linked from: Digests/Vol3/12May1995V3I146.htm
+Digests/Vol3/12May1995V3I146_files/themedata.xml
+    linked from: Digests/Vol3/12May1995V3I146.htm
+Digests/Vol3/13Apr1995V3I118_files/filelist.xml
+    linked from: Digests/Vol3/13Apr1995V3I118.htm
+Digests/Vol3/13Apr1995V3I118_files/themedata.xml
+    linked from: Digests/Vol3/13Apr1995V3I118.htm
+Digests/Vol3/13Dec1994V3I45_files/filelist.xml
+    linked from: Digests/Vol3/13Dec1994V3I45.htm
+Digests/Vol3/13Dec1994V3I45_files/themedata.xml
+    linked from: Digests/Vol3/13Dec1994V3I45.htm
+Digests/Vol3/13Jan1995V3I58_files/filelist.xml
+    linked from: Digests/Vol3/13Jan1995V3I58.htm
+Digests/Vol3/13Jan1995V3I58_files/themedata.xml
+    linked from: Digests/Vol3/13Jan1995V3I58.htm
+Digests/Vol3/13Jan1995V3I59_files/filelist.xml
+    linked from: Digests/Vol3/13Jan1995V3I59.htm
+Digests/Vol3/13Jan1995V3I59_files/themedata.xml
+    linked from: Digests/Vol3/13Jan1995V3I59.htm
+Digests/Vol3/13Jun1995V3I178_files/filelist.xml
+    linked from: Digests/Vol3/13Jun1995V3I178.htm
+Digests/Vol3/13Jun1995V3I178_files/themedata.xml
+    linked from: Digests/Vol3/13Jun1995V3I178.htm
+Digests/Vol3/13Mar1995V3I87_files/filelist.xml
+    linked from: Digests/Vol3/13Mar1995V3I87.htm
+Digests/Vol3/13Mar1995V3I87_files/themedata.xml
+    linked from: Digests/Vol3/13Mar1995V3I87.htm
+Digests/Vol3/13May1995V3I147_files/filelist.xml
+    linked from: Digests/Vol3/13May1995V3I147.htm
+Digests/Vol3/13May1995V3I147_files/themedata.xml
+    linked from: Digests/Vol3/13May1995V3I147.htm
+Digests/Vol3/13Sep1994V3I16_files/filelist.xml
+    linked from: Digests/Vol3/13Sep1994V3I16.htm
+Digests/Vol3/13Sep1994V3I16_files/themedata.xml
+    linked from: Digests/Vol3/13Sep1994V3I16.htm
+Digests/Vol3/14Apr1995V3I119_files/filelist.xml
+    linked from: Digests/Vol3/14Apr1995V3I119.htm
+Digests/Vol3/14Apr1995V3I119_files/themedata.xml
+    linked from: Digests/Vol3/14Apr1995V3I119.htm
+Digests/Vol3/14Dec1994V3I46_files/filelist.xml
+    linked from: Digests/Vol3/14Dec1994V3I46.htm
+Digests/Vol3/14Dec1994V3I46_files/themedata.xml
+    linked from: Digests/Vol3/14Dec1994V3I46.htm
+Digests/Vol3/14Jul1995V3I208_files/filelist.xml
+    linked from: Digests/Vol3/14Jul1995V3I208.htm
+Digests/Vol3/14Jul1995V3I208_files/themedata.xml
+    linked from: Digests/Vol3/14Jul1995V3I208.htm
+Digests/Vol3/14Jun1995V3I179_files/filelist.xml
+    linked from: Digests/Vol3/14Jun1995V3I179.htm
+Digests/Vol3/14Jun1995V3I179_files/themedata.xml
+    linked from: Digests/Vol3/14Jun1995V3I179.htm
+Digests/Vol3/14Mar1995V3I88_files/filelist.xml
+    linked from: Digests/Vol3/14Mar1995V3I88.htm
+Digests/Vol3/14Mar1995V3I88_files/themedata.xml
+    linked from: Digests/Vol3/14Mar1995V3I88.htm
+Digests/Vol3/14May1995V3I148_files/filelist.xml
+    linked from: Digests/Vol3/14May1995V3I148.htm
+Digests/Vol3/14May1995V3I148_files/themedata.xml
+    linked from: Digests/Vol3/14May1995V3I148.htm
+Digests/Vol3/14Oct1994V3I29_files/filelist.xml
+    linked from: Digests/Vol3/14Oct1994V3I29.htm
+Digests/Vol3/14Oct1994V3I29_files/themedata.xml
+    linked from: Digests/Vol3/14Oct1994V3I29.htm
+Digests/Vol3/15Apr1995V3I120_files/filelist.xml
+    linked from: Digests/Vol3/15Apr1995V3I120.htm
+Digests/Vol3/15Apr1995V3I120_files/themedata.xml
+    linked from: Digests/Vol3/15Apr1995V3I120.htm
+Digests/Vol3/15Dec1994V3I47_files/filelist.xml
+    linked from: Digests/Vol3/15Dec1994V3I47.htm
+Digests/Vol3/15Dec1994V3I47_files/themedata.xml
+    linked from: Digests/Vol3/15Dec1994V3I47.htm
+Digests/Vol3/15Jul1995V3I209_files/filelist.xml
+    linked from: Digests/Vol3/15Jul1995V3I209.htm
+Digests/Vol3/15Jul1995V3I209_files/themedata.xml
+    linked from: Digests/Vol3/15Jul1995V3I209.htm
+Digests/Vol3/15Jun1995V3I180_files/filelist.xml
+    linked from: Digests/Vol3/15Jun1995V3I180.htm
+Digests/Vol3/15Jun1995V3I180_files/themedata.xml
+    linked from: Digests/Vol3/15Jun1995V3I180.htm
+Digests/Vol3/15Mar1995V3I89_files/filelist.xml
+    linked from: Digests/Vol3/15Mar1995V3I89.htm
+Digests/Vol3/15Mar1995V3I89_files/themedata.xml
+    linked from: Digests/Vol3/15Mar1995V3I89.htm
+Digests/Vol3/15May1995V3I149_files/filelist.xml
+    linked from: Digests/Vol3/15May1995V3I149.htm
+Digests/Vol3/15May1995V3I149_files/themedata.xml
+    linked from: Digests/Vol3/15May1995V3I149.htm
+Digests/Vol3/16Apr1995V3I121_files/filelist.xml
+    linked from: Digests/Vol3/16Apr1995V3I121.htm
+Digests/Vol3/16Apr1995V3I121_files/themedata.xml
+    linked from: Digests/Vol3/16Apr1995V3I121.htm
+Digests/Vol3/16Dec1994V3I48_files/filelist.xml
+    linked from: Digests/Vol3/16Dec1994V3I48.htm
+Digests/Vol3/16Dec1994V3I48_files/themedata.xml
+    linked from: Digests/Vol3/16Dec1994V3I48.htm
+Digests/Vol3/16Feb1995V3I67_files/filelist.xml
+    linked from: Digests/Vol3/16Feb1995V3I67.htm
+Digests/Vol3/16Feb1995V3I67_files/themedata.xml
+    linked from: Digests/Vol3/16Feb1995V3I67.htm
+Digests/Vol3/16Jul1995V3I210_files/filelist.xml
+    linked from: Digests/Vol3/16Jul1995V3I210.htm
+Digests/Vol3/16Jul1995V3I210_files/themedata.xml
+    linked from: Digests/Vol3/16Jul1995V3I210.htm
+Digests/Vol3/16Jun1995V3I181_files/filelist.xml
+    linked from: Digests/Vol3/16Jun1995V3I181.htm
+Digests/Vol3/16Jun1995V3I181_files/themedata.xml
+    linked from: Digests/Vol3/16Jun1995V3I181.htm
+Digests/Vol3/16Mar1996V3I90_files/filelist.xml
+    linked from: Digests/Vol3/16Mar1996V3I90.htm
+Digests/Vol3/16Mar1996V3I90_files/themedata.xml
+    linked from: Digests/Vol3/16Mar1996V3I90.htm
+Digests/Vol3/16May1995V3I150_files/filelist.xml
+    linked from: Digests/Vol3/16May1995V3I150.htm
+Digests/Vol3/16May1995V3I150_files/themedata.xml
+    linked from: Digests/Vol3/16May1995V3I150.htm
+Digests/Vol3/16Nov1994V3I39_files/filelist.xml
+    linked from: Digests/Vol3/16Nov1994V3I39.htm
+Digests/Vol3/16Nov1994V3I39_files/themedata.xml
+    linked from: Digests/Vol3/16Nov1994V3I39.htm
+Digests/Vol3/16Oct1994V3I30_files/filelist.xml
+    linked from: Digests/Vol3/16Oct1994V3I30.htm
+Digests/Vol3/16Oct1994V3I30_files/themedata.xml
+    linked from: Digests/Vol3/16Oct1994V3I30.htm
+Digests/Vol3/16Sep1994V3I17_files/filelist.xml
+    linked from: Digests/Vol3/16Sep1994V3I17.htm
+Digests/Vol3/16Sep1994V3I17_files/themedata.xml
+    linked from: Digests/Vol3/16Sep1994V3I17.htm
+Digests/Vol3/17Apr1995V3I122_files/filelist.xml
+    linked from: Digests/Vol3/17Apr1995V3I122.htm
+Digests/Vol3/17Apr1995V3I122_files/themedata.xml
+    linked from: Digests/Vol3/17Apr1995V3I122.htm
+Digests/Vol3/17Aug1994V3I1_files/filelist.xml
+    linked from: Digests/Vol3/17Aug1994V3I1.htm
+Digests/Vol3/17Aug1994V3I1_files/themedata.xml
+    linked from: Digests/Vol3/17Aug1994V3I1.htm
+Digests/Vol3/17Jan1995V3I60_files/filelist.xml
+    linked from: Digests/Vol3/17Jan1995V3I60.htm
+Digests/Vol3/17Jan1995V3I60_files/themedata.xml
+    linked from: Digests/Vol3/17Jan1995V3I60.htm
+Digests/Vol3/17Jul1995V3I211_files/filelist.xml
+    linked from: Digests/Vol3/17Jul1995V3I211.htm
+Digests/Vol3/17Jul1995V3I211_files/themedata.xml
+    linked from: Digests/Vol3/17Jul1995V3I211.htm
+Digests/Vol3/17Jun1995V3I182_files/filelist.xml
+    linked from: Digests/Vol3/17Jun1995V3I182.htm
+Digests/Vol3/17Jun1995V3I182_files/themedata.xml
+    linked from: Digests/Vol3/17Jun1995V3I182.htm
+Digests/Vol3/17Mar1995V3I91_files/filelist.xml
+    linked from: Digests/Vol3/17Mar1995V3I91.htm
+Digests/Vol3/17Mar1995V3I91_files/themedata.xml
+    linked from: Digests/Vol3/17Mar1995V3I91.htm
+Digests/Vol3/17May1995V3I151_files/filelist.xml
+    linked from: Digests/Vol3/17May1995V3I151.htm
+Digests/Vol3/17May1995V3I151_files/themedata.xml
+    linked from: Digests/Vol3/17May1995V3I151.htm
+Digests/Vol3/18Apr1995V3I123_files/filelist.xml
+    linked from: Digests/Vol3/18Apr1995V3I123.htm
+Digests/Vol3/18Apr1995V3I123_files/themedata.xml
+    linked from: Digests/Vol3/18Apr1995V3I123.htm
+Digests/Vol3/18Dec1994V3I52_files/filelist.xml
+    linked from: Digests/Vol3/18Dec1994V3I52.htm
+Digests/Vol3/18Dec1994V3I52_files/themedata.xml
+    linked from: Digests/Vol3/18Dec1994V3I52.htm
+Digests/Vol3/18Jul1995V3I212_files/filelist.xml
+    linked from: Digests/Vol3/18Jul1995V3I212.htm
+Digests/Vol3/18Jul1995V3I212_files/themedata.xml
+    linked from: Digests/Vol3/18Jul1995V3I212.htm
+Digests/Vol3/18Jun1995V3I183_files/filelist.xml
+    linked from: Digests/Vol3/18Jun1995V3I183.htm
+Digests/Vol3/18Jun1995V3I183_files/themedata.xml
+    linked from: Digests/Vol3/18Jun1995V3I183.htm
+Digests/Vol3/18Mar1995V3I92_files/filelist.xml
+    linked from: Digests/Vol3/18Mar1995V3I92.htm
+Digests/Vol3/18Mar1995V3I92_files/themedata.xml
+    linked from: Digests/Vol3/18Mar1995V3I92.htm
+Digests/Vol3/18May1995V3I152_files/filelist.xml
+    linked from: Digests/Vol3/18May1995V3I152.htm
+Digests/Vol3/18May1995V3I152_files/themedata.xml
+    linked from: Digests/Vol3/18May1995V3I152.htm
+Digests/Vol3/19Apr1995V3I124_files/filelist.xml
+    linked from: Digests/Vol3/19Apr1995V3I124.htm
+Digests/Vol3/19Apr1995V3I124_files/themedata.xml
+    linked from: Digests/Vol3/19Apr1995V3I124.htm
+Digests/Vol3/19Feb1995V3I71_files/filelist.xml
+    linked from: Digests/Vol3/19Feb1995V3I71.htm
+Digests/Vol3/19Feb1995V3I71_files/themedata.xml
+    linked from: Digests/Vol3/19Feb1995V3I71.htm
+Digests/Vol3/19Jul1995V3I213_files/filelist.xml
+    linked from: Digests/Vol3/19Jul1995V3I213.htm
+Digests/Vol3/19Jul1995V3I213_files/themedata.xml
+    linked from: Digests/Vol3/19Jul1995V3I213.htm
+Digests/Vol3/19Jun1995V3I184_files/filelist.xml
+    linked from: Digests/Vol3/19Jun1995V3I184.htm
+Digests/Vol3/19Jun1995V3I184_files/themedata.xml
+    linked from: Digests/Vol3/19Jun1995V3I184.htm
+Digests/Vol3/19Mar1995V3I93_files/filelist.xml
+    linked from: Digests/Vol3/19Mar1995V3I93.htm
+Digests/Vol3/19Mar1995V3I93_files/themedata.xml
+    linked from: Digests/Vol3/19Mar1995V3I93.htm
+Digests/Vol3/19May1995V3I153_files/filelist.xml
+    linked from: Digests/Vol3/19May1995V3I153.htm
+Digests/Vol3/19May1995V3I153_files/themedata.xml
+    linked from: Digests/Vol3/19May1995V3I153.htm
+Digests/Vol3/19Nov1994V3I40_files/filelist.xml
+    linked from: Digests/Vol3/19Nov1994V3I40.htm
+Digests/Vol3/19Nov1994V3I40_files/themedata.xml
+    linked from: Digests/Vol3/19Nov1994V3I40.htm
+Digests/Vol3/20Apr1995V3I125_files/filelist.xml
+    linked from: Digests/Vol3/20Apr1995V3I125.htm
+Digests/Vol3/20Apr1995V3I125_files/themedata.xml
+    linked from: Digests/Vol3/20Apr1995V3I125.htm
+Digests/Vol3/20Jul1995V3I214_files/filelist.xml
+    linked from: Digests/Vol3/20Jul1995V3I214.htm
+Digests/Vol3/20Jul1995V3I214_files/themedata.xml
+    linked from: Digests/Vol3/20Jul1995V3I214.htm
+Digests/Vol3/20Jun1995V3I185_files/filelist.xml
+    linked from: Digests/Vol3/20Jun1995V3I185.htm
+Digests/Vol3/20Jun1995V3I185_files/themedata.xml
+    linked from: Digests/Vol3/20Jun1995V3I185.htm
+Digests/Vol3/20Mar1995V3I94_files/filelist.xml
+    linked from: Digests/Vol3/20Mar1995V3I94.htm
+Digests/Vol3/20Mar1995V3I94_files/themedata.xml
+    linked from: Digests/Vol3/20Mar1995V3I94.htm
+Digests/Vol3/20May1995V3I154_files/filelist.xml
+    linked from: Digests/Vol3/20May1995V3I154.htm
+Digests/Vol3/20May1995V3I154_files/themedata.xml
+    linked from: Digests/Vol3/20May1995V3I154.htm
+Digests/Vol3/21Apr1995V3I126_files/filelist.xml
+    linked from: Digests/Vol3/21Apr1995V3I126.htm
+Digests/Vol3/21Apr1995V3I126_files/themedata.xml
+    linked from: Digests/Vol3/21Apr1995V3I126.htm
+Digests/Vol3/21Apr1995V3I127_files/filelist.xml
+    linked from: Digests/Vol3/21Apr1995V3I127.htm
+Digests/Vol3/21Apr1995V3I127_files/themedata.xml
+    linked from: Digests/Vol3/21Apr1995V3I127.htm
+Digests/Vol3/21Aug1994V3I2_files/filelist.xml
+    linked from: Digests/Vol3/21Aug1994V3I2.htm
+Digests/Vol3/21Aug1994V3I2_files/themedata.xml
+    linked from: Digests/Vol3/21Aug1994V3I2.htm
+Digests/Vol3/21Jan1995V3I61_files/filelist.xml
+    linked from: Digests/Vol3/21Jan1995V3I61.htm
+Digests/Vol3/21Jan1995V3I61_files/themedata.xml
+    linked from: Digests/Vol3/21Jan1995V3I61.htm
+Digests/Vol3/21Jul1995V3I215_files/filelist.xml
+    linked from: Digests/Vol3/21Jul1995V3I215.htm
+Digests/Vol3/21Jul1995V3I215_files/themedata.xml
+    linked from: Digests/Vol3/21Jul1995V3I215.htm
+Digests/Vol3/21Jun1995V3I186_files/filelist.xml
+    linked from: Digests/Vol3/21Jun1995V3I186.htm
+Digests/Vol3/21Jun1995V3I186_files/themedata.xml
+    linked from: Digests/Vol3/21Jun1995V3I186.htm
+Digests/Vol3/21Mar1995V3I95_files/filelist.xml
+    linked from: Digests/Vol3/21Mar1995V3I95.htm
+Digests/Vol3/21Mar1995V3I95_files/themedata.xml
+    linked from: Digests/Vol3/21Mar1995V3I95.htm
+Digests/Vol3/21May1995V3I155_files/filelist.xml
+    linked from: Digests/Vol3/21May1995V3I155.htm
+Digests/Vol3/21May1995V3I155_files/themedata.xml
+    linked from: Digests/Vol3/21May1995V3I155.htm
+Digests/Vol3/22Apr1995V3I128_files/filelist.xml
+    linked from: Digests/Vol3/22Apr1995V3I128.htm
+Digests/Vol3/22Apr1995V3I128_files/themedata.xml
+    linked from: Digests/Vol3/22Apr1995V3I128.htm
+Digests/Vol3/22Aug1994V3I3_files/filelist.xml
+    linked from: Digests/Vol3/22Aug1994V3I3.htm
+Digests/Vol3/22Aug1994V3I3_files/themedata.xml
+    linked from: Digests/Vol3/22Aug1994V3I3.htm
+Digests/Vol3/22Jul1995V3I216_files/filelist.xml
+    linked from: Digests/Vol3/22Jul1995V3I216.htm
+Digests/Vol3/22Jul1995V3I216_files/themedata.xml
+    linked from: Digests/Vol3/22Jul1995V3I216.htm
+Digests/Vol3/22Jun1995V3I187_files/filelist.xml
+    linked from: Digests/Vol3/22Jun1995V3I187.htm
+Digests/Vol3/22Jun1995V3I187_files/themedata.xml
+    linked from: Digests/Vol3/22Jun1995V3I187.htm
+Digests/Vol3/22Mar1995V3I96_files/filelist.xml
+    linked from: Digests/Vol3/22Mar1995V3I96.htm
+Digests/Vol3/22Mar1995V3I96_files/themedata.xml
+    linked from: Digests/Vol3/22Mar1995V3I96.htm
+Digests/Vol3/22May1995V3I156_files/filelist.xml
+    linked from: Digests/Vol3/22May1995V3I156.htm
+Digests/Vol3/22May1995V3I156_files/themedata.xml
+    linked from: Digests/Vol3/22May1995V3I156.htm
+Digests/Vol3/23Apr1995V3I129_files/filelist.xml
+    linked from: Digests/Vol3/23Apr1995V3I129.htm
+Digests/Vol3/23Apr1995V3I129_files/themedata.xml
+    linked from: Digests/Vol3/23Apr1995V3I129.htm
+Digests/Vol3/23Dec1994V3I53_files/filelist.xml
+    linked from: Digests/Vol3/23Dec1994V3I53.htm
+Digests/Vol3/23Dec1994V3I53_files/themedata.xml
+    linked from: Digests/Vol3/23Dec1994V3I53.htm
+Digests/Vol3/23Feb1995V3I73_files/filelist.xml
+    linked from: Digests/Vol3/23Feb1995V3I73.htm
+Digests/Vol3/23Feb1995V3I73_files/themedata.xml
+    linked from: Digests/Vol3/23Feb1995V3I73.htm
+Digests/Vol3/23Jul1995V3I217_files/filelist.xml
+    linked from: Digests/Vol3/23Jul1995V3I217.htm
+Digests/Vol3/23Jul1995V3I217_files/themedata.xml
+    linked from: Digests/Vol3/23Jul1995V3I217.htm
+Digests/Vol3/23Jun1995V3I188_files/filelist.xml
+    linked from: Digests/Vol3/23Jun1995V3I188.htm
+Digests/Vol3/23Jun1995V3I188_files/themedata.xml
+    linked from: Digests/Vol3/23Jun1995V3I188.htm
+Digests/Vol3/23Mar1995V3I97_files/filelist.xml
+    linked from: Digests/Vol3/23Mar1995V3I97.htm
+Digests/Vol3/23Mar1995V3I97_files/themedata.xml
+    linked from: Digests/Vol3/23Mar1995V3I97.htm
+Digests/Vol3/23May1995V3I157_files/filelist.xml
+    linked from: Digests/Vol3/23May1995V3I157.htm
+Digests/Vol3/23May1995V3I157_files/themedata.xml
+    linked from: Digests/Vol3/23May1995V3I157.htm
+Digests/Vol3/23Nov1994V3I41_files/filelist.xml
+    linked from: Digests/Vol3/23Nov1994V3I41.htm
+Digests/Vol3/23Nov1994V3I41_files/themedata.xml
+    linked from: Digests/Vol3/23Nov1994V3I41.htm
+Digests/Vol3/23Oct1994V3I31_files/filelist.xml
+    linked from: Digests/Vol3/23Oct1994V3I31.htm
+Digests/Vol3/23Oct1994V3I31_files/themedata.xml
+    linked from: Digests/Vol3/23Oct1994V3I31.htm
+Digests/Vol3/23Sep1994V3I18_files/filelist.xml
+    linked from: Digests/Vol3/23Sep1994V3I18.htm
+Digests/Vol3/23Sep1994V3I18_files/themedata.xml
+    linked from: Digests/Vol3/23Sep1994V3I18.htm
+Digests/Vol3/23Sep1994V3I19_files/filelist.xml
+    linked from: Digests/Vol3/23Sep1994V3I19.htm
+Digests/Vol3/23Sep1994V3I19_files/themedata.xml
+    linked from: Digests/Vol3/23Sep1994V3I19.htm
+Digests/Vol3/24Apr1995V3I130_files/filelist.xml
+    linked from: Digests/Vol3/24Apr1995V3I130.htm
+Digests/Vol3/24Apr1995V3I130_files/themedata.xml
+    linked from: Digests/Vol3/24Apr1995V3I130.htm
+Digests/Vol3/24Jul1995V3I218_files/filelist.xml
+    linked from: Digests/Vol3/24Jul1995V3I218.htm
+Digests/Vol3/24Jul1995V3I218_files/themedata.xml
+    linked from: Digests/Vol3/24Jul1995V3I218.htm
+Digests/Vol3/24Mar1995V3I97_files/filelist.xml
+    linked from: Digests/Vol3/24Mar1995V3I97.htm
+Digests/Vol3/24Mar1995V3I97_files/themedata.xml
+    linked from: Digests/Vol3/24Mar1995V3I97.htm
+Digests/Vol3/24May1995V3I158_files/filelist.xml
+    linked from: Digests/Vol3/24May1995V3I158.htm
+Digests/Vol3/24May1995V3I158_files/themedata.xml
+    linked from: Digests/Vol3/24May1995V3I158.htm
+Digests/Vol3/24Sep1994V3I20_files/filelist.xml
+    linked from: Digests/Vol3/24Sep1994V3I20.htm
+Digests/Vol3/24Sep1994V3I20_files/themedata.xml
+    linked from: Digests/Vol3/24Sep1994V3I20.htm
+Digests/Vol3/25Apr1995V3I131_files/filelist.xml
+    linked from: Digests/Vol3/25Apr1995V3I131.htm
+Digests/Vol3/25Apr1995V3I131_files/themedata.xml
+    linked from: Digests/Vol3/25Apr1995V3I131.htm
+Digests/Vol3/25Jul1995V3I219_files/filelist.xml
+    linked from: Digests/Vol3/25Jul1995V3I219.htm
+Digests/Vol3/25Jul1995V3I219_files/themedata.xml
+    linked from: Digests/Vol3/25Jul1995V3I219.htm
+Digests/Vol3/25Jun1995V3I189_files/filelist.xml
+    linked from: Digests/Vol3/25Jun1995V3I189.htm
+Digests/Vol3/25Jun1995V3I189_files/themedata.xml
+    linked from: Digests/Vol3/25Jun1995V3I189.htm
+Digests/Vol3/25Mar1995V3I98_files/filelist.xml
+    linked from: Digests/Vol3/25Mar1995V3I98.htm
+Digests/Vol3/25Mar1995V3I98_files/themedata.xml
+    linked from: Digests/Vol3/25Mar1995V3I98.htm
+Digests/Vol3/25May1995V3I159_files/filelist.xml
+    linked from: Digests/Vol3/25May1995V3I159.htm
+Digests/Vol3/25May1995V3I159_files/themedata.xml
+    linked from: Digests/Vol3/25May1995V3I159.htm
+Digests/Vol3/26Apr1995V3I132_files/filelist.xml
+    linked from: Digests/Vol3/26Apr1995V3I132.htm
+Digests/Vol3/26Apr1995V3I132_files/themedata.xml
+    linked from: Digests/Vol3/26Apr1995V3I132.htm
+Digests/Vol3/26Aug1994V3I4_files/filelist.xml
+    linked from: Digests/Vol3/26Aug1994V3I4.htm
+Digests/Vol3/26Aug1994V3I4_files/themedata.xml
+    linked from: Digests/Vol3/26Aug1994V3I4.htm
+Digests/Vol3/26Feb1995V3I74_files/filelist.xml
+    linked from: Digests/Vol3/26Feb1995V3I74.htm
+Digests/Vol3/26Feb1995V3I74_files/themedata.xml
+    linked from: Digests/Vol3/26Feb1995V3I74.htm
+Digests/Vol3/26Jul1995V3I220_files/filelist.xml
+    linked from: Digests/Vol3/26Jul1995V3I220.htm
+Digests/Vol3/26Jul1995V3I220_files/themedata.xml
+    linked from: Digests/Vol3/26Jul1995V3I220.htm
+Digests/Vol3/26Jun1995V3I190_files/filelist.xml
+    linked from: Digests/Vol3/26Jun1995V3I190.htm
+Digests/Vol3/26Jun1995V3I190_files/themedata.xml
+    linked from: Digests/Vol3/26Jun1995V3I190.htm
+Digests/Vol3/26Mar1995V3I99_files/filelist.xml
+    linked from: Digests/Vol3/26Mar1995V3I99.htm
+Digests/Vol3/26Mar1995V3I99_files/themedata.xml
+    linked from: Digests/Vol3/26Mar1995V3I99.htm
+Digests/Vol3/26May1995V3I160_files/filelist.xml
+    linked from: Digests/Vol3/26May1995V3I160.htm
+Digests/Vol3/26May1995V3I160_files/themedata.xml
+    linked from: Digests/Vol3/26May1995V3I160.htm
+Digests/Vol3/26Sep1994V3I21_files/filelist.xml
+    linked from: Digests/Vol3/26Sep1994V3I21.htm
+Digests/Vol3/26Sep1994V3I21_files/themedata.xml
+    linked from: Digests/Vol3/26Sep1994V3I21.htm
+Digests/Vol3/27Apr1995V3I133_files/filelist.xml
+    linked from: Digests/Vol3/27Apr1995V3I133.htm
+Digests/Vol3/27Apr1995V3I133_files/themedata.xml
+    linked from: Digests/Vol3/27Apr1995V3I133.htm
+Digests/Vol3/27Jul1995V3I221_files/filelist.xml
+    linked from: Digests/Vol3/27Jul1995V3I221.htm
+Digests/Vol3/27Jul1995V3I221_files/themedata.xml
+    linked from: Digests/Vol3/27Jul1995V3I221.htm
+Digests/Vol3/27Jun1995V3I191_files/filelist.xml
+    linked from: Digests/Vol3/27Jun1995V3I191.htm
+Digests/Vol3/27Jun1995V3I191_files/themedata.xml
+    linked from: Digests/Vol3/27Jun1995V3I191.htm
+Digests/Vol3/27Mar1995V3I100_files/filelist.xml
+    linked from: Digests/Vol3/27Mar1995V3I100.htm
+Digests/Vol3/27Mar1995V3I100_files/themedata.xml
+    linked from: Digests/Vol3/27Mar1995V3I100.htm
+Digests/Vol3/27May1995V3I161_files/filelist.xml
+    linked from: Digests/Vol3/27May1995V3I161.htm
+Digests/Vol3/27May1995V3I161_files/themedata.xml
+    linked from: Digests/Vol3/27May1995V3I161.htm
+Digests/Vol3/27Sep1994V3I22_files/filelist.xml
+    linked from: Digests/Vol3/27Sep1994V3I22.htm
+Digests/Vol3/27Sep1994V3I22_files/themedata.xml
+    linked from: Digests/Vol3/27Sep1994V3I22.htm
+Digests/Vol3/27Sep1994V3I23_files/filelist.xml
+    linked from: Digests/Vol3/27Sep1994V3I23.htm
+Digests/Vol3/27Sep1994V3I23_files/themedata.xml
+    linked from: Digests/Vol3/27Sep1994V3I23.htm
+Digests/Vol3/28Aug1994V3I5_files/filelist.xml
+    linked from: Digests/Vol3/28Aug1994V3I5.htm
+Digests/Vol3/28Aug1994V3I5_files/themedata.xml
+    linked from: Digests/Vol3/28Aug1994V3I5.htm
+Digests/Vol3/28Dec1994V3I54_files/filelist.xml
+    linked from: Digests/Vol3/28Dec1994V3I54.htm
+Digests/Vol3/28Dec1994V3I54_files/themedata.xml
+    linked from: Digests/Vol3/28Dec1994V3I54.htm
+Digests/Vol3/28Jan1995V3I62_files/filelist.xml
+    linked from: Digests/Vol3/28Jan1995V3I62.htm
+Digests/Vol3/28Jan1995V3I62_files/themedata.xml
+    linked from: Digests/Vol3/28Jan1995V3I62.htm
+Digests/Vol3/28Jul1995V3I222_files/filelist.xml
+    linked from: Digests/Vol3/28Jul1995V3I222.htm
+Digests/Vol3/28Jul1995V3I222_files/themedata.xml
+    linked from: Digests/Vol3/28Jul1995V3I222.htm
+Digests/Vol3/28Jun1995V3I192_files/filelist.xml
+    linked from: Digests/Vol3/28Jun1995V3I192.htm
+Digests/Vol3/28Jun1995V3I192_files/themedata.xml
+    linked from: Digests/Vol3/28Jun1995V3I192.htm
+Digests/Vol3/28Mar1995V3I101_files/filelist.xml
+    linked from: Digests/Vol3/28Mar1995V3I101.htm
+Digests/Vol3/28Mar1995V3I101_files/themedata.xml
+    linked from: Digests/Vol3/28Mar1995V3I101.htm
+Digests/Vol3/28May1995V3I162_files/filelist.xml
+    linked from: Digests/Vol3/28May1995V3I162.htm
+Digests/Vol3/28May1995V3I162_files/themedata.xml
+    linked from: Digests/Vol3/28May1995V3I162.htm
+Digests/Vol3/29Aug1994V3I6_files/filelist.xml
+    linked from: Digests/Vol3/29Aug1994V3I6.htm
+Digests/Vol3/29Aug1994V3I6_files/themedata.xml
+    linked from: Digests/Vol3/29Aug1994V3I6.htm
+Digests/Vol3/29Aug1994V3I8_files/filelist.xml
+    linked from: Digests/Vol3/29Aug1994V3I7.htm
+Digests/Vol3/29Aug1994V3I8_files/themedata.xml
+    linked from: Digests/Vol3/29Aug1994V3I7.htm
+Digests/Vol3/29Jan1995V3I63_files/filelist.xml
+    linked from: Digests/Vol3/29Jan1995V3I63.htm
+Digests/Vol3/29Jan1995V3I63_files/themedata.xml
+    linked from: Digests/Vol3/29Jan1995V3I63.htm
+Digests/Vol3/29Jul1995V3I223_files/filelist.xml
+    linked from: Digests/Vol3/29Jul1995V3I223.htm
+Digests/Vol3/29Jul1995V3I223_files/themedata.xml
+    linked from: Digests/Vol3/29Jul1995V3I223.htm
+Digests/Vol3/29Jun1995V3I193_files/filelist.xml
+    linked from: Digests/Vol3/29Jun1995V3I193.htm
+Digests/Vol3/29Jun1995V3I193_files/themedata.xml
+    linked from: Digests/Vol3/29Jun1995V3I193.htm
+Digests/Vol3/29Mar1995V3I102_files/filelist.xml
+    linked from: Digests/Vol3/29Mar1995V3I102.htm
+Digests/Vol3/29Mar1995V3I102_files/themedata.xml
+    linked from: Digests/Vol3/29Mar1995V3I102.htm
+Digests/Vol3/29May1995V3I163_files/filelist.xml
+    linked from: Digests/Vol3/29May1995V3I163.htm
+Digests/Vol3/29May1995V3I163_files/themedata.xml
+    linked from: Digests/Vol3/29May1995V3I163.htm
+Digests/Vol3/29Sep1994V3I25_files/filelist.xml
+    linked from: Digests/Vol3/29Sep1994V3I25.htm
+Digests/Vol3/29Sep1994V3I25_files/themedata.xml
+    linked from: Digests/Vol3/29Sep1994V3I25.htm
+Digests/Vol3/30Apr1995V3I134_files/filelist.xml
+    linked from: Digests/Vol3/30Apr1995V3I134.htm
+Digests/Vol3/30Apr1995V3I134_files/themedata.xml
+    linked from: Digests/Vol3/30Apr1995V3I134.htm
+Digests/Vol3/30Apr1995V3I135_files/filelist.xml
+    linked from: Digests/Vol3/30Apr1995V3I135.htm
+Digests/Vol3/30Apr1995V3I135_files/themedata.xml
+    linked from: Digests/Vol3/30Apr1995V3I135.htm
+Digests/Vol3/30Aug1994V3I8_files/filelist.xml
+    linked from: Digests/Vol3/30Aug1994V3I8.htm
+Digests/Vol3/30Aug1994V3I8_files/themedata.xml
+    linked from: Digests/Vol3/30Aug1994V3I8.htm
+Digests/Vol3/30Jul1995V3I224_files/filelist.xml
+    linked from: Digests/Vol3/30Jul1995V3I224.htm
+Digests/Vol3/30Jul1995V3I224_files/themedata.xml
+    linked from: Digests/Vol3/30Jul1995V3I224.htm
+Digests/Vol3/30Jun1995V3I194_files/filelist.xml
+    linked from: Digests/Vol3/30Jun1995V3I194.htm
+Digests/Vol3/30Jun1995V3I194_files/themedata.xml
+    linked from: Digests/Vol3/30Jun1995V3I194.htm
+Digests/Vol3/30Mar1995V3I103_files/filelist.xml
+    linked from: Digests/Vol3/30Mar1995V3I103.htm
+Digests/Vol3/30Mar1995V3I103_files/themedata.xml
+    linked from: Digests/Vol3/30Mar1995V3I103.htm
+Digests/Vol3/30May1995V3I164_files/filelist.xml
+    linked from: Digests/Vol3/30May1995V3I164.htm
+Digests/Vol3/30May1995V3I164_files/themedata.xml
+    linked from: Digests/Vol3/30May1995V3I164.htm
+Digests/Vol3/30Oct1994V3I32_files/filelist.xml
+    linked from: Digests/Vol3/30Oct1994V3I32.htm
+Digests/Vol3/30Oct1994V3I32_files/themedata.xml
+    linked from: Digests/Vol3/30Oct1994V3I32.htm
+Digests/Vol3/31Aug1994V3I9_files/filelist.xml
+    linked from: Digests/Vol3/31Aug1994V3I9.htm
+Digests/Vol3/31Aug1994V3I9_files/themedata.xml
+    linked from: Digests/Vol3/31Aug1994V3I9.htm
+Digests/Vol3/31Jul1995V3I125.htm
+    linked from: Digests/Digests_Vol3.html
+Digests/Vol3/31Mar1995V3I104_files/filelist.xml
+    linked from: Digests/Vol3/31Mar1995V3I104.htm
+Digests/Vol3/31Mar1995V3I104_files/themedata.xml
+    linked from: Digests/Vol3/31Mar1995V3I104.htm
+Digests/Vol3/31May1995V3I165_files/filelist.xml
+    linked from: Digests/Vol3/31May1995V3I165.htm
+Digests/Vol3/31May1995V3I165_files/themedata.xml
+    linked from: Digests/Vol3/31May1995V3I165.htm
+Digests/Vol4/01Apr1996V4I320_files/filelist.xml
+    linked from: Digests/Vol4/01Apr1996V4I320.htm
+Digests/Vol4/01Apr1996V4I320_files/themedata.xml
+    linked from: Digests/Vol4/01Apr1996V4I320.htm
+Digests/Vol4/01Apr1996V4I321_files/filelist.xml
+    linked from: Digests/Vol4/01Apr1996V4I321.htm
+Digests/Vol4/01Apr1996V4I321_files/themedata.xml
+    linked from: Digests/Vol4/01Apr1996V4I321.htm
+Digests/Vol4/01Apr1996V4I322_files/filelist.xml
+    linked from: Digests/Vol4/01Apr1996V4I322.htm
+Digests/Vol4/01Apr1996V4I322_files/themedata.xml
+    linked from: Digests/Vol4/01Apr1996V4I322.htm
+Digests/Vol4/01Aug1995V3I126_files/filelist.xml
+    linked from: Digests/Vol4/01Aug1995V3I126.htm
+Digests/Vol4/01Aug1995V3I126_files/themedata.xml
+    linked from: Digests/Vol4/01Aug1995V3I126.htm
+Digests/Vol4/01Aug1995V3I127_files/filelist.xml
+    linked from: Digests/Vol4/01Aug1995V3I127.htm
+Digests/Vol4/01Aug1995V3I127_files/themedata.xml
+    linked from: Digests/Vol4/01Aug1995V3I127.htm
+Digests/Vol4/01Dec1995V4I161_files/filelist.xml
+    linked from: Digests/Vol4/01Dec1995V4I161.htm
+Digests/Vol4/01Dec1995V4I161_files/themedata.xml
+    linked from: Digests/Vol4/01Dec1995V4I161.htm
+Digests/Vol4/01Feb1996V4I226_files/filelist.xml
+    linked from: Digests/Vol4/01Feb1996V4I226.htm
+Digests/Vol4/01Feb1996V4I226_files/themedata.xml
+    linked from: Digests/Vol4/01Feb1996V4I226.htm
+Digests/Vol4/01Jan1996V4I194_files/filelist.xml
+    linked from: Digests/Vol4/01Jan1996V4I194.htm
+Digests/Vol4/01Jan1996V4I194_files/themedata.xml
+    linked from: Digests/Vol4/01Jan1996V4I194.htm
+Digests/Vol4/01Jul1996V4I469_files/filelist.xml
+    linked from: Digests/Vol4/01Jul1996V4I469.htm
+Digests/Vol4/01Jul1996V4I469_files/themedata.xml
+    linked from: Digests/Vol4/01Jul1996V4I469.htm
+Digests/Vol4/01Jul1996V4I470_files/filelist.xml
+    linked from: Digests/Vol4/01Jul1996V4I470.htm
+Digests/Vol4/01Jul1996V4I470_files/themedata.xml
+    linked from: Digests/Vol4/01Jul1996V4I470.htm
+Digests/Vol4/01Jul1996V4I471_files/filelist.xml
+    linked from: Digests/Vol4/01Jul1996V4I471.htm
+Digests/Vol4/01Jul1996V4I471_files/themedata.xml
+    linked from: Digests/Vol4/01Jul1996V4I471.htm
+Digests/Vol4/01Jul1996V4I472_files/filelist.xml
+    linked from: Digests/Vol4/01Jul1996V4I472.htm
+Digests/Vol4/01Jul1996V4I472_files/themedata.xml
+    linked from: Digests/Vol4/01Jul1996V4I472.htm
+Digests/Vol4/01Jun1996V4I420_files/filelist.xml
+    linked from: Digests/Vol4/01Jun1996V4I420.htm
+Digests/Vol4/01Jun1996V4I420_files/themedata.xml
+    linked from: Digests/Vol4/01Jun1996V4I420.htm
+Digests/Vol4/01Mar1996V4I261_files/filelist.xml
+    linked from: Digests/Vol4/01Mar1996V4I261.htm
+Digests/Vol4/01Mar1996V4I261_files/themedata.xml
+    linked from: Digests/Vol4/01Mar1996V4I261.htm
+Digests/Vol4/01May1996V4I376_files/filelist.xml
+    linked from: Digests/Vol4/01May1996V4I376.htm
+Digests/Vol4/01May1996V4I376_files/themedata.xml
+    linked from: Digests/Vol4/01May1996V4I376.htm
+Digests/Vol4/01Nov1995V4I217_files/filelist.xml
+    linked from: Digests/Vol4/01Nov1995V4I217.htm
+Digests/Vol4/01Nov1995V4I217_files/themedata.xml
+    linked from: Digests/Vol4/01Nov1995V4I217.htm
+Digests/Vol4/01Nov1995V4I218_files/filelist.xml
+    linked from: Digests/Vol4/01Nov1995V4I218.htm
+Digests/Vol4/01Nov1995V4I218_files/themedata.xml
+    linked from: Digests/Vol4/01Nov1995V4I218.htm
+Digests/Vol4/01Nov1995V4I219_files/filelist.xml
+    linked from: Digests/Vol4/01Nov1995V4I219.htm
+Digests/Vol4/01Nov1995V4I219_files/themedata.xml
+    linked from: Digests/Vol4/01Nov1995V4I219.htm
+Digests/Vol4/01Oct1995V4I57_files/filelist.xml
+    linked from: Digests/Vol4/01Oct1995V4I57.htm
+Digests/Vol4/01Oct1995V4I57_files/themedata.xml
+    linked from: Digests/Vol4/01Oct1995V4I57.htm
+Digests/Vol4/01Oct1995V4I58_files/filelist.xml
+    linked from: Digests/Vol4/01Oct1995V4I58.htm
+Digests/Vol4/01Oct1995V4I58_files/themedata.xml
+    linked from: Digests/Vol4/01Oct1995V4I58.htm
+Digests/Vol4/01Sep1995V4I24_files/filelist.xml
+    linked from: Digests/Vol4/01Sep1995V4I24.htm
+Digests/Vol4/01Sep1995V4I24_files/themedata.xml
+    linked from: Digests/Vol4/01Sep1995V4I24.htm
+Digests/Vol4/02Apr1996V4I323_files/filelist.xml
+    linked from: Digests/Vol4/02Apr1996V4I323.htm
+Digests/Vol4/02Apr1996V4I323_files/themedata.xml
+    linked from: Digests/Vol4/02Apr1996V4I323.htm
+Digests/Vol4/02Apr1996V4I324_files/filelist.xml
+    linked from: Digests/Vol4/02Apr1996V4I324.htm
+Digests/Vol4/02Apr1996V4I324_files/themedata.xml
+    linked from: Digests/Vol4/02Apr1996V4I324.htm
+Digests/Vol4/02Apr1996V4I325_files/filelist.xml
+    linked from: Digests/Vol4/02Apr1996V4I325.htm
+Digests/Vol4/02Apr1996V4I325_files/themedata.xml
+    linked from: Digests/Vol4/02Apr1996V4I325.htm
+Digests/Vol4/02Aug1995V3I128_files/filelist.xml
+    linked from: Digests/Vol4/02Aug1995V3I128.htm
+Digests/Vol4/02Aug1995V3I128_files/themedata.xml
+    linked from: Digests/Vol4/02Aug1995V3I128.htm
+Digests/Vol4/02Dec1995V4I162_files/filelist.xml
+    linked from: Digests/Vol4/02Dec1995V4I162.htm
+Digests/Vol4/02Dec1995V4I162_files/themedata.xml
+    linked from: Digests/Vol4/02Dec1995V4I162.htm
+Digests/Vol4/02Feb1996V4I227_files/filelist.xml
+    linked from: Digests/Vol4/02Feb1996V4I227.htm
+Digests/Vol4/02Feb1996V4I227_files/themedata.xml
+    linked from: Digests/Vol4/02Feb1996V4I227.htm
+Digests/Vol4/02Jan1996V4I195_files/filelist.xml
+    linked from: Digests/Vol4/02Jan1996V4I195.htm
+Digests/Vol4/02Jan1996V4I195_files/themedata.xml
+    linked from: Digests/Vol4/02Jan1996V4I195.htm
+Digests/Vol4/02Jul1996V4I473_files/filelist.xml
+    linked from: Digests/Vol4/02Jul1996V4I473.htm
+Digests/Vol4/02Jul1996V4I473_files/themedata.xml
+    linked from: Digests/Vol4/02Jul1996V4I473.htm
+Digests/Vol4/02Jul1996V4I474_files/filelist.xml
+    linked from: Digests/Vol4/02Jul1996V4I474.htm
+Digests/Vol4/02Jul1996V4I474_files/themedata.xml
+    linked from: Digests/Vol4/02Jul1996V4I474.htm
+Digests/Vol4/02Jul1996V4I475_files/filelist.xml
+    linked from: Digests/Vol4/02Jul1996V4I475.htm
+Digests/Vol4/02Jul1996V4I475_files/themedata.xml
+    linked from: Digests/Vol4/02Jul1996V4I475.htm
+Digests/Vol4/02Jun1996V4I421_files/filelist.xml
+    linked from: Digests/Vol4/02Jun1996V4I421.htm
+Digests/Vol4/02Jun1996V4I421_files/themedata.xml
+    linked from: Digests/Vol4/02Jun1996V4I421.htm
+Digests/Vol4/02Mar1996V4I262_files/filelist.xml
+    linked from: Digests/Vol4/02Mar1996V4I262.htm
+Digests/Vol4/02Mar1996V4I262_files/themedata.xml
+    linked from: Digests/Vol4/02Mar1996V4I262.htm
+Digests/Vol4/02May1996V4I377_files/filelist.xml
+    linked from: Digests/Vol4/02May1996V4I377.htm
+Digests/Vol4/02May1996V4I377_files/themedata.xml
+    linked from: Digests/Vol4/02May1996V4I377.htm
+Digests/Vol4/02May1996V4I378_files/filelist.xml
+    linked from: Digests/Vol4/02May1996V4I378.htm
+Digests/Vol4/02May1996V4I378_files/themedata.xml
+    linked from: Digests/Vol4/02May1996V4I378.htm
+Digests/Vol4/02Nov1995V4I220_files/filelist.xml
+    linked from: Digests/Vol4/02Nov1995V4I220.htm
+Digests/Vol4/02Nov1995V4I220_files/themedata.xml
+    linked from: Digests/Vol4/02Nov1995V4I220.htm
+Digests/Vol4/02Nov1995V4I221_files/filelist.xml
+    linked from: Digests/Vol4/02Nov1995V4I221.htm
+Digests/Vol4/02Nov1995V4I221_files/themedata.xml
+    linked from: Digests/Vol4/02Nov1995V4I221.htm
+Digests/Vol4/02Oct1995V4I59_files/filelist.xml
+    linked from: Digests/Vol4/02Oct1995V4I59.htm
+Digests/Vol4/02Oct1995V4I59_files/themedata.xml
+    linked from: Digests/Vol4/02Oct1995V4I59.htm
+Digests/Vol4/02Oct1995V4N2_files/filelist.xml
+    linked from: Digests/Vol4/02Oct1995V4N2.htm
+Digests/Vol4/02Oct1995V4N2_files/themedata.xml
+    linked from: Digests/Vol4/02Oct1995V4N2.htm
+Digests/Vol4/02Sep1995V4I25_files/filelist.xml
+    linked from: Digests/Vol4/02Sep1995V4I25.htm
+Digests/Vol4/02Sep1995V4I25_files/themedata.xml
+    linked from: Digests/Vol4/02Sep1995V4I25.htm
+Digests/Vol4/03Apr1996V4I326_files/filelist.xml
+    linked from: Digests/Vol4/03Apr1996V4I326.htm
+Digests/Vol4/03Apr1996V4I326_files/themedata.xml
+    linked from: Digests/Vol4/03Apr1996V4I326.htm
+Digests/Vol4/03Aug1995V3I129_files/filelist.xml
+    linked from: Digests/Vol4/03Aug1995V3I129.htm
+Digests/Vol4/03Aug1995V3I129_files/themedata.xml
+    linked from: Digests/Vol4/03Aug1995V3I129.htm
+Digests/Vol4/03Dec1995V4I163_files/filelist.xml
+    linked from: Digests/Vol4/03Dec1995V4I163.htm
+Digests/Vol4/03Dec1995V4I163_files/themedata.xml
+    linked from: Digests/Vol4/03Dec1995V4I163.htm
+Digests/Vol4/03Feb1996V4I228_files/filelist.xml
+    linked from: Digests/Vol4/03Feb1996V4I228.htm
+Digests/Vol4/03Feb1996V4I228_files/themedata.xml
+    linked from: Digests/Vol4/03Feb1996V4I228.htm
+Digests/Vol4/03Jan1996V4I196_files/filelist.xml
+    linked from: Digests/Vol4/03Jan1996V4I196.htm
+Digests/Vol4/03Jan1996V4I196_files/themedata.xml
+    linked from: Digests/Vol4/03Jan1996V4I196.htm
+Digests/Vol4/03Jul1996V4I476_files/filelist.xml
+    linked from: Digests/Vol4/03Jul1996V4I476.htm
+Digests/Vol4/03Jul1996V4I476_files/themedata.xml
+    linked from: Digests/Vol4/03Jul1996V4I476.htm
+Digests/Vol4/03Jul1996V4I477_files/filelist.xml
+    linked from: Digests/Vol4/03Jul1996V4I477.htm
+Digests/Vol4/03Jul1996V4I477_files/themedata.xml
+    linked from: Digests/Vol4/03Jul1996V4I477.htm
+Digests/Vol4/03Jul1996V4I478_files/filelist.xml
+    linked from: Digests/Vol4/03Jul1996V4I478.htm
+Digests/Vol4/03Jul1996V4I478_files/themedata.xml
+    linked from: Digests/Vol4/03Jul1996V4I478.htm
+Digests/Vol4/03Jun1996V4I422_files/filelist.xml
+    linked from: Digests/Vol4/03Jun1996V4I422.htm
+Digests/Vol4/03Jun1996V4I422_files/themedata.xml
+    linked from: Digests/Vol4/03Jun1996V4I422.htm
+Digests/Vol4/03Mar1996V4I263.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/03Mar1996V4I264_files/filelist.xml
+    linked from: Digests/Vol4/03Mar1996V4I264.htm
+Digests/Vol4/03Mar1996V4I264_files/themedata.xml
+    linked from: Digests/Vol4/03Mar1996V4I264.htm
+Digests/Vol4/03Mar1996V4I286_files/filelist.xml
+    linked from: Digests/Vol4/03Mar1996V4I286.htm
+Digests/Vol4/03Mar1996V4I286_files/themedata.xml
+    linked from: Digests/Vol4/03Mar1996V4I286.htm
+Digests/Vol4/03May1996V4I379_files/filelist.xml
+    linked from: Digests/Vol4/03May1996V4I379.htm
+Digests/Vol4/03May1996V4I379_files/themedata.xml
+    linked from: Digests/Vol4/03May1996V4I379.htm
+Digests/Vol4/03Nov1995V4I222_files/filelist.xml
+    linked from: Digests/Vol4/03Nov1995V4I222.htm
+Digests/Vol4/03Nov1995V4I222_files/themedata.xml
+    linked from: Digests/Vol4/03Nov1995V4I222.htm
+Digests/Vol4/03Oct1995V4I160_files/filelist.xml
+    linked from: Digests/Vol4/03Oct1995V4I160.htm
+Digests/Vol4/03Oct1995V4I160_files/themedata.xml
+    linked from: Digests/Vol4/03Oct1995V4I160.htm
+Digests/Vol4/03Oct1995V4I161_files/filelist.xml
+    linked from: Digests/Vol4/03Oct1995V4I161.htm
+Digests/Vol4/03Oct1995V4I161_files/themedata.xml
+    linked from: Digests/Vol4/03Oct1995V4I161.htm
+Digests/Vol4/03Sep1995V4I26_files/filelist.xml
+    linked from: Digests/Vol4/03Sep1995V4I26.htm
+Digests/Vol4/03Sep1995V4I26_files/themedata.xml
+    linked from: Digests/Vol4/03Sep1995V4I26.htm
+Digests/Vol4/04Apr1996V4I327_files/filelist.xml
+    linked from: Digests/Vol4/04Apr1996V4I327.htm
+Digests/Vol4/04Apr1996V4I327_files/themedata.xml
+    linked from: Digests/Vol4/04Apr1996V4I327.htm
+Digests/Vol4/04Apr1996V4I328_files/filelist.xml
+    linked from: Digests/Vol4/04Apr1996V4I328.htm
+Digests/Vol4/04Apr1996V4I328_files/themedata.xml
+    linked from: Digests/Vol4/04Apr1996V4I328.htm
+Digests/Vol4/04Apr1996V4I329_files/filelist.xml
+    linked from: Digests/Vol4/04Apr1996V4I329.htm
+Digests/Vol4/04Apr1996V4I329_files/themedata.xml
+    linked from: Digests/Vol4/04Apr1996V4I329.htm
+Digests/Vol4/04Apr1996V4I330_files/filelist.xml
+    linked from: Digests/Vol4/04Apr1996V4I330.htm
+Digests/Vol4/04Apr1996V4I330_files/themedata.xml
+    linked from: Digests/Vol4/04Apr1996V4I330.htm
+Digests/Vol4/04Aug1995V3I130_files/filelist.xml
+    linked from: Digests/Vol4/04Aug1995V3I130.htm
+Digests/Vol4/04Aug1995V3I130_files/themedata.xml
+    linked from: Digests/Vol4/04Aug1995V3I130.htm
+Digests/Vol4/04Dec1995V4I164_files/filelist.xml
+    linked from: Digests/Vol4/04Dec1995V4I164.htm
+Digests/Vol4/04Dec1995V4I164_files/themedata.xml
+    linked from: Digests/Vol4/04Dec1995V4I164.htm
+Digests/Vol4/04Feb1996V4I229_files/filelist.xml
+    linked from: Digests/Vol4/04Feb1996V4I229.htm
+Digests/Vol4/04Feb1996V4I229_files/themedata.xml
+    linked from: Digests/Vol4/04Feb1996V4I229.htm
+Digests/Vol4/04Jan1996V4I197_files/filelist.xml
+    linked from: Digests/Vol4/04Jan1996V4I197.htm
+Digests/Vol4/04Jan1996V4I197_files/themedata.xml
+    linked from: Digests/Vol4/04Jan1996V4I197.htm
+Digests/Vol4/04Jul1996V4I479_files/filelist.xml
+    linked from: Digests/Vol4/04Jul1996V4I479.htm
+Digests/Vol4/04Jul1996V4I479_files/themedata.xml
+    linked from: Digests/Vol4/04Jul1996V4I479.htm
+Digests/Vol4/04Jun1996V4I423_files/filelist.xml
+    linked from: Digests/Vol4/04Jun1996V4I423.htm
+Digests/Vol4/04Jun1996V4I423_files/themedata.xml
+    linked from: Digests/Vol4/04Jun1996V4I423.htm
+Digests/Vol4/04Jun1996V4I424_files/filelist.xml
+    linked from: Digests/Vol4/04Jun1996V4I424.htm
+Digests/Vol4/04Jun1996V4I424_files/themedata.xml
+    linked from: Digests/Vol4/04Jun1996V4I424.htm
+Digests/Vol4/04Jun1996V4I425_files/filelist.xml
+    linked from: Digests/Vol4/04Jun1996V4I425.htm
+Digests/Vol4/04Jun1996V4I425_files/themedata.xml
+    linked from: Digests/Vol4/04Jun1996V4I425.htm
+Digests/Vol4/04Mar1996V4I265_files/filelist.xml
+    linked from: Digests/Vol4/04Mar1996V4I265.htm
+Digests/Vol4/04Mar1996V4I265_files/themedata.xml
+    linked from: Digests/Vol4/04Mar1996V4I265.htm
+Digests/Vol4/04Mar1996V4I266_files/filelist.xml
+    linked from: Digests/Vol4/04Mar1996V4I266.htm
+Digests/Vol4/04Mar1996V4I266_files/themedata.xml
+    linked from: Digests/Vol4/04Mar1996V4I266.htm
+Digests/Vol4/04May1996V4I380_files/filelist.xml
+    linked from: Digests/Vol4/04May1996V4I380.htm
+Digests/Vol4/04May1996V4I380_files/themedata.xml
+    linked from: Digests/Vol4/04May1996V4I380.htm
+Digests/Vol4/04May1996V4I381_files/filelist.xml
+    linked from: Digests/Vol4/04May1996V4I381.htm
+Digests/Vol4/04May1996V4I381_files/themedata.xml
+    linked from: Digests/Vol4/04May1996V4I381.htm
+Digests/Vol4/04May1996V4I382_files/filelist.xml
+    linked from: Digests/Vol4/04May1996V4I382.htm
+Digests/Vol4/04May1996V4I382_files/themedata.xml
+    linked from: Digests/Vol4/04May1996V4I382.htm
+Digests/Vol4/04Nov1995V4I223_files/filelist.xml
+    linked from: Digests/Vol4/04Nov1995V4I223.htm
+Digests/Vol4/04Nov1995V4I223_files/themedata.xml
+    linked from: Digests/Vol4/04Nov1995V4I223.htm
+Digests/Vol4/04Oct1995V4I162_files/filelist.xml
+    linked from: Digests/Vol4/04Oct1995V4I162.htm
+Digests/Vol4/04Oct1995V4I162_files/themedata.xml
+    linked from: Digests/Vol4/04Oct1995V4I162.htm
+Digests/Vol4/04Oct1995V4I163_files/filelist.xml
+    linked from: Digests/Vol4/04Oct1995V4I163.htm
+Digests/Vol4/04Oct1995V4I163_files/themedata.xml
+    linked from: Digests/Vol4/04Oct1995V4I163.htm
+Digests/Vol4/04Oct1995V4I164_files/filelist.xml
+    linked from: Digests/Vol4/04Oct1995V4I164.htm
+Digests/Vol4/04Oct1995V4I164_files/themedata.xml
+    linked from: Digests/Vol4/04Oct1995V4I164.htm
+Digests/Vol4/04Sep1995V4I27_files/filelist.xml
+    linked from: Digests/Vol4/04Sep1995V4I27.htm
+Digests/Vol4/04Sep1995V4I27_files/themedata.xml
+    linked from: Digests/Vol4/04Sep1995V4I27.htm
+Digests/Vol4/05Apr1996V4I331_files/filelist.xml
+    linked from: Digests/Vol4/05Apr1996V4I331.htm
+Digests/Vol4/05Apr1996V4I331_files/themedata.xml
+    linked from: Digests/Vol4/05Apr1996V4I331.htm
+Digests/Vol4/05Apr1996V4I332_files/filelist.xml
+    linked from: Digests/Vol4/05Apr1996V4I332.htm
+Digests/Vol4/05Apr1996V4I332_files/themedata.xml
+    linked from: Digests/Vol4/05Apr1996V4I332.htm
+Digests/Vol4/05Aug1995V3I131_files/filelist.xml
+    linked from: Digests/Vol4/05Aug1995V3I131.htm
+Digests/Vol4/05Aug1995V3I131_files/themedata.xml
+    linked from: Digests/Vol4/05Aug1995V3I131.htm
+Digests/Vol4/05Dec1995V4I165_files/filelist.xml
+    linked from: Digests/Vol4/05Dec1995V4I165.htm
+Digests/Vol4/05Dec1995V4I165_files/themedata.xml
+    linked from: Digests/Vol4/05Dec1995V4I165.htm
+Digests/Vol4/05Feb1996V4I230_files/filelist.xml
+    linked from: Digests/Vol4/05Feb1996V4I230.htm
+Digests/Vol4/05Feb1996V4I230_files/themedata.xml
+    linked from: Digests/Vol4/05Feb1996V4I230.htm
+Digests/Vol4/05Jan1996V4I198_files/filelist.xml
+    linked from: Digests/Vol4/05Jan1996V4I198.htm
+Digests/Vol4/05Jan1996V4I198_files/themedata.xml
+    linked from: Digests/Vol4/05Jan1996V4I198.htm
+Digests/Vol4/05Jul1996V4I480_files/filelist.xml
+    linked from: Digests/Vol4/05Jul1996V4I480.htm
+Digests/Vol4/05Jul1996V4I480_files/themedata.xml
+    linked from: Digests/Vol4/05Jul1996V4I480.htm
+Digests/Vol4/05Jun1996V4I426_files/filelist.xml
+    linked from: Digests/Vol4/05Jun1996V4I426.htm
+Digests/Vol4/05Jun1996V4I426_files/themedata.xml
+    linked from: Digests/Vol4/05Jun1996V4I426.htm
+Digests/Vol4/05Mar1996V4I267_files/filelist.xml
+    linked from: Digests/Vol4/05Mar1996V4I267.htm
+Digests/Vol4/05Mar1996V4I267_files/themedata.xml
+    linked from: Digests/Vol4/05Mar1996V4I267.htm
+Digests/Vol4/05May1996V4I376_files/filelist.xml
+    linked from: Digests/Vol4/05May1996V4I376.htm
+Digests/Vol4/05May1996V4I376_files/themedata.xml
+    linked from: Digests/Vol4/05May1996V4I376.htm
+Digests/Vol4/05May1996V4I383_files/filelist.xml
+    linked from: Digests/Vol4/05May1996V4I383.htm
+Digests/Vol4/05May1996V4I383_files/themedata.xml
+    linked from: Digests/Vol4/05May1996V4I383.htm
+Digests/Vol4/05Nov1995V4I124_files/filelist.xml
+    linked from: Digests/Vol4/05Nov1995V4I124.htm
+Digests/Vol4/05Nov1995V4I124_files/themedata.xml
+    linked from: Digests/Vol4/05Nov1995V4I124.htm
+Digests/Vol4/05Nov1995V4I125_files/filelist.xml
+    linked from: Digests/Vol4/05Nov1995V4I125.htm
+Digests/Vol4/05Nov1995V4I125_files/themedata.xml
+    linked from: Digests/Vol4/05Nov1995V4I125.htm
+Digests/Vol4/05Oct1995V4I165_files/filelist.xml
+    linked from: Digests/Vol4/05Oct1995V4I165.htm
+Digests/Vol4/05Oct1995V4I165_files/themedata.xml
+    linked from: Digests/Vol4/05Oct1995V4I165.htm
+Digests/Vol4/05Oct1995V4I166_files/filelist.xml
+    linked from: Digests/Vol4/05Oct1995V4I166.htm
+Digests/Vol4/05Oct1995V4I166_files/themedata.xml
+    linked from: Digests/Vol4/05Oct1995V4I166.htm
+Digests/Vol4/05Sep995V4I28_files/filelist.xml
+    linked from: Digests/Vol4/05Sep995V4I28.htm
+Digests/Vol4/05Sep995V4I28_files/themedata.xml
+    linked from: Digests/Vol4/05Sep995V4I28.htm
+Digests/Vol4/06Apr1996V4I333_files/filelist.xml
+    linked from: Digests/Vol4/06Apr1996V4I333.htm
+Digests/Vol4/06Apr1996V4I333_files/themedata.xml
+    linked from: Digests/Vol4/06Apr1996V4I333.htm
+Digests/Vol4/06Apr1996V4I334_files/filelist.xml
+    linked from: Digests/Vol4/06Apr1996V4I334.htm
+Digests/Vol4/06Apr1996V4I334_files/themedata.xml
+    linked from: Digests/Vol4/06Apr1996V4I334.htm
+Digests/Vol4/06Aug1995V3I132_files/filelist.xml
+    linked from: Digests/Vol4/06Aug1995V3I132.htm
+Digests/Vol4/06Aug1995V3I132_files/themedata.xml
+    linked from: Digests/Vol4/06Aug1995V3I132.htm
+Digests/Vol4/06Aug1995V3I133_files/filelist.xml
+    linked from: Digests/Vol4/06Aug1995V3I133.htm
+Digests/Vol4/06Aug1995V3I133_files/themedata.xml
+    linked from: Digests/Vol4/06Aug1995V3I133.htm
+Digests/Vol4/06Dec1995V4I166_files/filelist.xml
+    linked from: Digests/Vol4/06Dec1995V4I166.htm
+Digests/Vol4/06Dec1995V4I166_files/themedata.xml
+    linked from: Digests/Vol4/06Dec1995V4I166.htm
+Digests/Vol4/06Feb1996V4I231_files/filelist.xml
+    linked from: Digests/Vol4/06Feb1996V4I231.htm
+Digests/Vol4/06Feb1996V4I231_files/themedata.xml
+    linked from: Digests/Vol4/06Feb1996V4I231.htm
+Digests/Vol4/06Jan1996V4I199_files/filelist.xml
+    linked from: Digests/Vol4/06Jan1996V4I199.htm
+Digests/Vol4/06Jan1996V4I199_files/themedata.xml
+    linked from: Digests/Vol4/06Jan1996V4I199.htm
+Digests/Vol4/06Jul1996V4I481_files/filelist.xml
+    linked from: Digests/Vol4/06Jul1996V4I481.htm
+Digests/Vol4/06Jul1996V4I481_files/themedata.xml
+    linked from: Digests/Vol4/06Jul1996V4I481.htm
+Digests/Vol4/06Jul1996V4I482_files/filelist.xml
+    linked from: Digests/Vol4/06Jul1996V4I482.htm
+Digests/Vol4/06Jul1996V4I482_files/themedata.xml
+    linked from: Digests/Vol4/06Jul1996V4I482.htm
+Digests/Vol4/06Jun1996V4I427_files/filelist.xml
+    linked from: Digests/Vol4/06Jun1996V4I427.htm
+Digests/Vol4/06Jun1996V4I427_files/themedata.xml
+    linked from: Digests/Vol4/06Jun1996V4I427.htm
+Digests/Vol4/06Jun1996V4I428_files/filelist.xml
+    linked from: Digests/Vol4/06Jun1996V4I428.htm
+Digests/Vol4/06Jun1996V4I428_files/themedata.xml
+    linked from: Digests/Vol4/06Jun1996V4I428.htm
+Digests/Vol4/06Mar1996V4I268_files/filelist.xml
+    linked from: Digests/Vol4/06Mar1996V4I268.htm
+Digests/Vol4/06Mar1996V4I268_files/themedata.xml
+    linked from: Digests/Vol4/06Mar1996V4I268.htm
+Digests/Vol4/06May1996V45I385_files/filelist.xml
+    linked from: Digests/Vol4/06May1996V45I385.htm
+Digests/Vol4/06May1996V45I385_files/themedata.xml
+    linked from: Digests/Vol4/06May1996V45I385.htm
+Digests/Vol4/06May1996V4I384_files/filelist.xml
+    linked from: Digests/Vol4/06May1996V4I384.htm
+Digests/Vol4/06May1996V4I384_files/themedata.xml
+    linked from: Digests/Vol4/06May1996V4I384.htm
+Digests/Vol4/06Nov1995V4I126_files/filelist.xml
+    linked from: Digests/Vol4/06Nov1995V4I126.htm
+Digests/Vol4/06Nov1995V4I126_files/themedata.xml
+    linked from: Digests/Vol4/06Nov1995V4I126.htm
+Digests/Vol4/06Oct1995V4I167_files/filelist.xml
+    linked from: Digests/Vol4/06Oct1995V4I167.htm
+Digests/Vol4/06Oct1995V4I167_files/themedata.xml
+    linked from: Digests/Vol4/06Oct1995V4I167.htm
+Digests/Vol4/06Oct1995V4I168_files/filelist.xml
+    linked from: Digests/Vol4/06Oct1995V4I168.htm
+Digests/Vol4/06Oct1995V4I168_files/themedata.xml
+    linked from: Digests/Vol4/06Oct1995V4I168.htm
+Digests/Vol4/06Oct1995V4I169_files/filelist.xml
+    linked from: Digests/Vol4/06Oct1995V4I169.htm
+Digests/Vol4/06Oct1995V4I169_files/themedata.xml
+    linked from: Digests/Vol4/06Oct1995V4I169.htm
+Digests/Vol4/06Sep1995V4I29_files/filelist.xml
+    linked from: Digests/Vol4/06Sep1995V4I29.htm
+Digests/Vol4/06Sep1995V4I29_files/themedata.xml
+    linked from: Digests/Vol4/06Sep1995V4I29.htm
+Digests/Vol4/07Apr1996V4I335_files/filelist.xml
+    linked from: Digests/Vol4/07Apr1996V4I335.htm
+Digests/Vol4/07Apr1996V4I335_files/themedata.xml
+    linked from: Digests/Vol4/07Apr1996V4I335.htm
+Digests/Vol4/07Aug1995V3I134_files/filelist.xml
+    linked from: Digests/Vol4/07Aug1995V3I134.htm
+Digests/Vol4/07Aug1995V3I134_files/themedata.xml
+    linked from: Digests/Vol4/07Aug1995V3I134.htm
+Digests/Vol4/07Aug1995V3I135_files/filelist.xml
+    linked from: Digests/Vol4/07Aug1995V3I135.htm
+Digests/Vol4/07Aug1995V3I135_files/themedata.xml
+    linked from: Digests/Vol4/07Aug1995V3I135.htm
+Digests/Vol4/07Aug1995V3I136_files/filelist.xml
+    linked from: Digests/Vol4/07Aug1995V3I136.htm
+Digests/Vol4/07Aug1995V3I136_files/themedata.xml
+    linked from: Digests/Vol4/07Aug1995V3I136.htm
+Digests/Vol4/07Dec1995V4I167_files/filelist.xml
+    linked from: Digests/Vol4/07Dec1995V4I167.htm
+Digests/Vol4/07Dec1995V4I167_files/themedata.xml
+    linked from: Digests/Vol4/07Dec1995V4I167.htm
+Digests/Vol4/07Feb1996V4I232_files/filelist.xml
+    linked from: Digests/Vol4/07Feb1996V4I232.htm
+Digests/Vol4/07Feb1996V4I232_files/themedata.xml
+    linked from: Digests/Vol4/07Feb1996V4I232.htm
+Digests/Vol4/07Jan1996V4I200_files/filelist.xml
+    linked from: Digests/Vol4/07Jan1996V4I200.htm
+Digests/Vol4/07Jan1996V4I200_files/themedata.xml
+    linked from: Digests/Vol4/07Jan1996V4I200.htm
+Digests/Vol4/07Jul1996V4I483_files/filelist.xml
+    linked from: Digests/Vol4/07Jul1996V4I483.htm
+Digests/Vol4/07Jul1996V4I483_files/themedata.xml
+    linked from: Digests/Vol4/07Jul1996V4I483.htm
+Digests/Vol4/07Jul1996V4I484_files/filelist.xml
+    linked from: Digests/Vol4/07Jul1996V4I484.htm
+Digests/Vol4/07Jul1996V4I484_files/themedata.xml
+    linked from: Digests/Vol4/07Jul1996V4I484.htm
+Digests/Vol4/07Jun1996V4I429_files/filelist.xml
+    linked from: Digests/Vol4/07Jun1996V4I429.htm
+Digests/Vol4/07Jun1996V4I429_files/themedata.xml
+    linked from: Digests/Vol4/07Jun1996V4I429.htm
+Digests/Vol4/07Mar1996V4I269_files/filelist.xml
+    linked from: Digests/Vol4/07Mar1996V4I269.htm
+Digests/Vol4/07Mar1996V4I269_files/themedata.xml
+    linked from: Digests/Vol4/07Mar1996V4I269.htm
+Digests/Vol4/07May1996V4I386_files/filelist.xml
+    linked from: Digests/Vol4/07May1996V4I386.htm
+Digests/Vol4/07May1996V4I386_files/themedata.xml
+    linked from: Digests/Vol4/07May1996V4I386.htm
+Digests/Vol4/07Nov1995V4I127_files/filelist.xml
+    linked from: Digests/Vol4/07Nov1995V4I127.htm
+Digests/Vol4/07Nov1995V4I127_files/themedata.xml
+    linked from: Digests/Vol4/07Nov1995V4I127.htm
+Digests/Vol4/07Oct1995V4I170_files/filelist.xml
+    linked from: Digests/Vol4/07Oct1995V4I170.htm
+Digests/Vol4/07Oct1995V4I170_files/themedata.xml
+    linked from: Digests/Vol4/07Oct1995V4I170.htm
+Digests/Vol4/07Oct1995V4I171_files/filelist.xml
+    linked from: Digests/Vol4/07Oct1995V4I171.htm
+Digests/Vol4/07Oct1995V4I171_files/themedata.xml
+    linked from: Digests/Vol4/07Oct1995V4I171.htm
+Digests/Vol4/07Sep1995V4I30_files/filelist.xml
+    linked from: Digests/Vol4/07Sep1995V4I30.htm
+Digests/Vol4/07Sep1995V4I30_files/themedata.xml
+    linked from: Digests/Vol4/07Sep1995V4I30.htm
+Digests/Vol4/08Apr1996V4I336_files/filelist.xml
+    linked from: Digests/Vol4/08Apr1996V4I336.htm
+Digests/Vol4/08Apr1996V4I336_files/themedata.xml
+    linked from: Digests/Vol4/08Apr1996V4I336.htm
+Digests/Vol4/08Apr1996V4I337_files/filelist.xml
+    linked from: Digests/Vol4/08Apr1996V4I337.htm
+Digests/Vol4/08Apr1996V4I337_files/themedata.xml
+    linked from: Digests/Vol4/08Apr1996V4I337.htm
+Digests/Vol4/08Dec1995V4I168_files/filelist.xml
+    linked from: Digests/Vol4/08Dec1995V4I168.htm
+Digests/Vol4/08Dec1995V4I168_files/themedata.xml
+    linked from: Digests/Vol4/08Dec1995V4I168.htm
+Digests/Vol4/08Dec1995V4I169_files/filelist.xml
+    linked from: Digests/Vol4/08Dec1995V4I169.htm
+Digests/Vol4/08Dec1995V4I169_files/themedata.xml
+    linked from: Digests/Vol4/08Dec1995V4I169.htm
+Digests/Vol4/08Feb1996V4I233_files/filelist.xml
+    linked from: Digests/Vol4/08Feb1996V4I233.htm
+Digests/Vol4/08Feb1996V4I233_files/themedata.xml
+    linked from: Digests/Vol4/08Feb1996V4I233.htm
+Digests/Vol4/08Jan1996V4I201_files/filelist.xml
+    linked from: Digests/Vol4/08Jan1996V4I201.htm
+Digests/Vol4/08Jan1996V4I201_files/themedata.xml
+    linked from: Digests/Vol4/08Jan1996V4I201.htm
+Digests/Vol4/08Jul1996V4I487_files/filelist.xml
+    linked from: Digests/Vol4/08Jul1996V4I487.htm
+Digests/Vol4/08Jul1996V4I487_files/themedata.xml
+    linked from: Digests/Vol4/08Jul1996V4I487.htm
+Digests/Vol4/08Jul1996V4I488_files/filelist.xml
+    linked from: Digests/Vol4/08Jul1996V4I488.htm
+Digests/Vol4/08Jul1996V4I488_files/themedata.xml
+    linked from: Digests/Vol4/08Jul1996V4I488.htm
+Digests/Vol4/08Jun1996V49431_files/filelist.xml
+    linked from: Digests/Vol4/08Jun1996V49431.htm
+Digests/Vol4/08Jun1996V49431_files/themedata.xml
+    linked from: Digests/Vol4/08Jun1996V49431.htm
+Digests/Vol4/08Jun1996V4I430_files/filelist.xml
+    linked from: Digests/Vol4/08Jun1996V4I430.htm
+Digests/Vol4/08Jun1996V4I430_files/themedata.xml
+    linked from: Digests/Vol4/08Jun1996V4I430.htm
+Digests/Vol4/08Mar1996V4I270.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/08May1996V4I387_files/filelist.xml
+    linked from: Digests/Vol4/08May1996V4I387.htm
+Digests/Vol4/08May1996V4I387_files/themedata.xml
+    linked from: Digests/Vol4/08May1996V4I387.htm
+Digests/Vol4/08Nov1995V4I128_files/filelist.xml
+    linked from: Digests/Vol4/08Nov1995V4I128.htm
+Digests/Vol4/08Nov1995V4I128_files/themedata.xml
+    linked from: Digests/Vol4/08Nov1995V4I128.htm
+Digests/Vol4/08Oct1995V4I172_files/filelist.xml
+    linked from: Digests/Vol4/08Oct1995V4I172.htm
+Digests/Vol4/08Oct1995V4I172_files/themedata.xml
+    linked from: Digests/Vol4/08Oct1995V4I172.htm
+Digests/Vol4/08Oct1995V4I173_files/filelist.xml
+    linked from: Digests/Vol4/08Oct1995V4I173.htm
+Digests/Vol4/08Oct1995V4I173_files/themedata.xml
+    linked from: Digests/Vol4/08Oct1995V4I173.htm
+Digests/Vol4/08Oct1995V4I174_files/filelist.xml
+    linked from: Digests/Vol4/08Oct1995V4I174.htm
+Digests/Vol4/08Oct1995V4I174_files/themedata.xml
+    linked from: Digests/Vol4/08Oct1995V4I174.htm
+Digests/Vol4/08Sep1995V3I136_files/filelist.xml
+    linked from: Digests/Vol4/08Aug1995V3I136.htm
+Digests/Vol4/08Sep1995V3I136_files/themedata.xml
+    linked from: Digests/Vol4/08Aug1995V3I136.htm
+Digests/Vol4/08Sep1995V4I31_files/filelist.xml
+    linked from: Digests/Vol4/08Sep1995V4I31.htm
+Digests/Vol4/08Sep1995V4I31_files/themedata.xml
+    linked from: Digests/Vol4/08Sep1995V4I31.htm
+Digests/Vol4/09Apr1996V4I338_files/filelist.xml
+    linked from: Digests/Vol4/09Apr1996V4I338.htm
+Digests/Vol4/09Apr1996V4I338_files/themedata.xml
+    linked from: Digests/Vol4/09Apr1996V4I338.htm
+Digests/Vol4/09Aug1995V3I137_files/filelist.xml
+    linked from: Digests/Vol4/09Aug1995V3I137.htm
+Digests/Vol4/09Aug1995V3I137_files/themedata.xml
+    linked from: Digests/Vol4/09Aug1995V3I137.htm
+Digests/Vol4/09Dec1995V4I170_files/filelist.xml
+    linked from: Digests/Vol4/09Dec1995V4I170.htm
+Digests/Vol4/09Dec1995V4I170_files/themedata.xml
+    linked from: Digests/Vol4/09Dec1995V4I170.htm
+Digests/Vol4/09Feb1996V4I234_files/filelist.xml
+    linked from: Digests/Vol4/09Feb1996V4I234.htm
+Digests/Vol4/09Feb1996V4I234_files/themedata.xml
+    linked from: Digests/Vol4/09Feb1996V4I234.htm
+Digests/Vol4/09Jan1996V4I202_files/filelist.xml
+    linked from: Digests/Vol4/09Jan1996V4I202.htm
+Digests/Vol4/09Jan1996V4I202_files/themedata.xml
+    linked from: Digests/Vol4/09Jan1996V4I202.htm
+Digests/Vol4/09Jul1996V4I489_files/filelist.xml
+    linked from: Digests/Vol4/09Jul1996V4I489.htm
+Digests/Vol4/09Jul1996V4I489_files/themedata.xml
+    linked from: Digests/Vol4/09Jul1996V4I489.htm
+Digests/Vol4/09Jun1996V4I243_files/filelist.xml
+    linked from: Digests/Vol4/09Jun1996V4I432.htm
+Digests/Vol4/09Jun1996V4I243_files/themedata.xml
+    linked from: Digests/Vol4/09Jun1996V4I432.htm
+Digests/Vol4/09Jun1996V4I244_files/filelist.xml
+    linked from: Digests/Vol4/09Jun1996V4I244.htm
+Digests/Vol4/09Jun1996V4I244_files/themedata.xml
+    linked from: Digests/Vol4/09Jun1996V4I244.htm
+Digests/Vol4/09Mar1996V4I271_files/filelist.xml
+    linked from: Digests/Vol4/09Mar1996V4I271.htm
+Digests/Vol4/09Mar1996V4I271_files/themedata.xml
+    linked from: Digests/Vol4/09Mar1996V4I271.htm
+Digests/Vol4/09May1996V4I388_files/filelist.xml
+    linked from: Digests/Vol4/09May1996V4I388.htm
+Digests/Vol4/09May1996V4I388_files/themedata.xml
+    linked from: Digests/Vol4/09May1996V4I388.htm
+Digests/Vol4/09Nov1995V4I129_files/filelist.xml
+    linked from: Digests/Vol4/09Nov1995V4I129.htm
+Digests/Vol4/09Nov1995V4I129_files/themedata.xml
+    linked from: Digests/Vol4/09Nov1995V4I129.htm
+Digests/Vol4/09Oct1995V4I175_files/filelist.xml
+    linked from: Digests/Vol4/09Oct1995V4I175.htm
+Digests/Vol4/09Oct1995V4I175_files/themedata.xml
+    linked from: Digests/Vol4/09Oct1995V4I175.htm
+Digests/Vol4/09Oct1995V4I176_files/filelist.xml
+    linked from: Digests/Vol4/09Oct1995V4I176.htm
+Digests/Vol4/09Oct1995V4I176_files/themedata.xml
+    linked from: Digests/Vol4/09Oct1995V4I176.htm
+Digests/Vol4/09Oct1995V4I177_files/filelist.xml
+    linked from: Digests/Vol4/09Oct1995V4I177.htm
+Digests/Vol4/09Oct1995V4I177_files/themedata.xml
+    linked from: Digests/Vol4/09Oct1995V4I177.htm
+Digests/Vol4/09Sep1995V4I32_files/filelist.xml
+    linked from: Digests/Vol4/09Sep1995V4I32.htm
+Digests/Vol4/09Sep1995V4I32_files/themedata.xml
+    linked from: Digests/Vol4/09Sep1995V4I32.htm
+Digests/Vol4/10Apr1996V4I339_files/filelist.xml
+    linked from: Digests/Vol4/10Apr1996V4I339.htm
+Digests/Vol4/10Apr1996V4I339_files/themedata.xml
+    linked from: Digests/Vol4/10Apr1996V4I339.htm
+Digests/Vol4/10Apr1996V4I340_files/filelist.xml
+    linked from: Digests/Vol4/10Apr1996V4I340.htm
+Digests/Vol4/10Apr1996V4I340_files/themedata.xml
+    linked from: Digests/Vol4/10Apr1996V4I340.htm
+Digests/Vol4/10Aug1995V3I138_files/filelist.xml
+    linked from: Digests/Vol4/10Aug1995V3I138.htm
+Digests/Vol4/10Aug1995V3I138_files/themedata.xml
+    linked from: Digests/Vol4/10Aug1995V3I138.htm
+Digests/Vol4/10Dec1995V4I171_files/filelist.xml
+    linked from: Digests/Vol4/10Dec1995V4I171.htm
+Digests/Vol4/10Dec1995V4I171_files/themedata.xml
+    linked from: Digests/Vol4/10Dec1995V4I171.htm
+Digests/Vol4/10Feb1996V4I235_files/filelist.xml
+    linked from: Digests/Vol4/10Feb1996V4I235.htm
+Digests/Vol4/10Feb1996V4I235_files/themedata.xml
+    linked from: Digests/Vol4/10Feb1996V4I235.htm
+Digests/Vol4/10Jan1996V4I203_files/filelist.xml
+    linked from: Digests/Vol4/10Jan1996V4I203.htm
+Digests/Vol4/10Jan1996V4I203_files/themedata.xml
+    linked from: Digests/Vol4/10Jan1996V4I203.htm
+Digests/Vol4/10Jul1996V4I490_files/filelist.xml
+    linked from: Digests/Vol4/10Jul1996V4I490.htm
+Digests/Vol4/10Jul1996V4I490_files/themedata.xml
+    linked from: Digests/Vol4/10Jul1996V4I490.htm
+Digests/Vol4/10Jul1996V4I491_files/filelist.xml
+    linked from: Digests/Vol4/10Jul1996V4I491.htm
+Digests/Vol4/10Jul1996V4I491_files/themedata.xml
+    linked from: Digests/Vol4/10Jul1996V4I491.htm
+Digests/Vol4/10Jun1996V4I245_files/filelist.xml
+    linked from: Digests/Vol4/10Jun1996V4I433.htm
+Digests/Vol4/10Jun1996V4I245_files/themedata.xml
+    linked from: Digests/Vol4/10Jun1996V4I433.htm
+Digests/Vol4/10Jun1996V4I434_files/filelist.xml
+    linked from: Digests/Vol4/10Jun1996V4I434.htm
+Digests/Vol4/10Jun1996V4I434_files/themedata.xml
+    linked from: Digests/Vol4/10Jun1996V4I434.htm
+Digests/Vol4/10Jun1996V4I436_files/filelist.xml
+    linked from: Digests/Vol4/10Jun1996V4I436.htm
+Digests/Vol4/10Jun1996V4I436_files/themedata.xml
+    linked from: Digests/Vol4/10Jun1996V4I436.htm
+Digests/Vol4/10Mar1996V4I282_files/filelist.xml
+    linked from: Digests/Vol4/10Mar1996V4I282.htm
+Digests/Vol4/10Mar1996V4I282_files/themedata.xml
+    linked from: Digests/Vol4/10Mar1996V4I282.htm
+Digests/Vol4/10May1996V4I389_files/filelist.xml
+    linked from: Digests/Vol4/10May1996V4I389.htm
+Digests/Vol4/10May1996V4I389_files/themedata.xml
+    linked from: Digests/Vol4/10May1996V4I389.htm
+Digests/Vol4/10Nov1995V4I130_files/filelist.xml
+    linked from: Digests/Vol4/10Nov1995V4I130.htm
+Digests/Vol4/10Nov1995V4I130_files/themedata.xml
+    linked from: Digests/Vol4/10Nov1995V4I130.htm
+Digests/Vol4/10Oct1995V4I178_files/filelist.xml
+    linked from: Digests/Vol4/10Oct1995V4I178.htm
+Digests/Vol4/10Oct1995V4I178_files/themedata.xml
+    linked from: Digests/Vol4/10Oct1995V4I178.htm
+Digests/Vol4/10Oct1995V4I179_files/filelist.xml
+    linked from: Digests/Vol4/10Oct1995V4I179.htm
+Digests/Vol4/10Oct1995V4I179_files/themedata.xml
+    linked from: Digests/Vol4/10Oct1995V4I179.htm
+Digests/Vol4/10Sep1995V4I33_files/filelist.xml
+    linked from: Digests/Vol4/10Sep1995V4I33.htm
+Digests/Vol4/10Sep1995V4I33_files/themedata.xml
+    linked from: Digests/Vol4/10Sep1995V4I33.htm
+Digests/Vol4/11Apr1996V4I341_files/filelist.xml
+    linked from: Digests/Vol4/11Apr1996V4I341.htm
+Digests/Vol4/11Apr1996V4I341_files/themedata.xml
+    linked from: Digests/Vol4/11Apr1996V4I341.htm
+Digests/Vol4/11Aug1995V3I139_files/filelist.xml
+    linked from: Digests/Vol4/11Aug1995V3I139.htm
+Digests/Vol4/11Aug1995V3I139_files/themedata.xml
+    linked from: Digests/Vol4/11Aug1995V3I139.htm
+Digests/Vol4/11Aug1995_files/filelist.xml
+    linked from: Digests/Vol4/11Aug1995.htm
+Digests/Vol4/11Aug1995_files/themedata.xml
+    linked from: Digests/Vol4/11Aug1995.htm
+Digests/Vol4/11Dec1995V4I172_files/filelist.xml
+    linked from: Digests/Vol4/11Dec1995V4I172.htm
+Digests/Vol4/11Dec1995V4I172_files/themedata.xml
+    linked from: Digests/Vol4/11Dec1995V4I172.htm
+Digests/Vol4/11Feb1996V4I236_files/filelist.xml
+    linked from: Digests/Vol4/11Feb1996V4I236.htm
+Digests/Vol4/11Feb1996V4I236_files/themedata.xml
+    linked from: Digests/Vol4/11Feb1996V4I236.htm
+Digests/Vol4/11Jan1996V4I204_files/filelist.xml
+    linked from: Digests/Vol4/11Jan1996V4I204.htm
+Digests/Vol4/11Jan1996V4I204_files/themedata.xml
+    linked from: Digests/Vol4/11Jan1996V4I204.htm
+Digests/Vol4/11Jul1996V4I492_files/filelist.xml
+    linked from: Digests/Vol4/11Jul1996V4I492.htm
+Digests/Vol4/11Jul1996V4I492_files/themedata.xml
+    linked from: Digests/Vol4/11Jul1996V4I492.htm
+Digests/Vol4/11Jul1996V4I493_files/filelist.xml
+    linked from: Digests/Vol4/11Jul1996V4I493.htm
+Digests/Vol4/11Jul1996V4I493_files/themedata.xml
+    linked from: Digests/Vol4/11Jul1996V4I493.htm
+Digests/Vol4/11Jul1996V4I494_files/filelist.xml
+    linked from: Digests/Vol4/11Jul1996V4I494.htm
+Digests/Vol4/11Jul1996V4I494_files/themedata.xml
+    linked from: Digests/Vol4/11Jul1996V4I494.htm
+Digests/Vol4/11Jun1996V4I437_files/filelist.xml
+    linked from: Digests/Vol4/11Jun1996V4I437.htm
+Digests/Vol4/11Jun1996V4I437_files/themedata.xml
+    linked from: Digests/Vol4/11Jun1996V4I437.htm
+Digests/Vol4/11Jun1996V4I438_files/filelist.xml
+    linked from: Digests/Vol4/11Jun1996V4I438.htm
+Digests/Vol4/11Jun1996V4I438_files/themedata.xml
+    linked from: Digests/Vol4/11Jun1996V4I438.htm
+Digests/Vol4/11Jun1996V4I439_files/filelist.xml
+    linked from: Digests/Vol4/11Jun1996V4I439.htm
+Digests/Vol4/11Jun1996V4I439_files/themedata.xml
+    linked from: Digests/Vol4/11Jun1996V4I439.htm
+Digests/Vol4/11Mar1996V4I283_files/filelist.xml
+    linked from: Digests/Vol4/11Mar1996V4I283.htm
+Digests/Vol4/11Mar1996V4I283_files/themedata.xml
+    linked from: Digests/Vol4/11Mar1996V4I283.htm
+Digests/Vol4/11Mar1996V4I284_files/filelist.xml
+    linked from: Digests/Vol4/11Mar1996V4I284.htm
+Digests/Vol4/11Mar1996V4I284_files/themedata.xml
+    linked from: Digests/Vol4/11Mar1996V4I284.htm
+Digests/Vol4/11Mar1996V4I285_files/filelist.xml
+    linked from: Digests/Vol4/11Mar1996V4I285.htm
+Digests/Vol4/11Mar1996V4I285_files/themedata.xml
+    linked from: Digests/Vol4/11Mar1996V4I285.htm
+Digests/Vol4/11May1996V4I390_files/filelist.xml
+    linked from: Digests/Vol4/11May1996V4I390.htm
+Digests/Vol4/11May1996V4I390_files/themedata.xml
+    linked from: Digests/Vol4/11May1996V4I390.htm
+Digests/Vol4/11Nov1995V4I131_files/filelist.xml
+    linked from: Digests/Vol4/11Nov1995V4I131.htm
+Digests/Vol4/11Nov1995V4I131_files/themedata.xml
+    linked from: Digests/Vol4/11Nov1995V4I131.htm
+Digests/Vol4/11Nov1995V4I132_files/filelist.xml
+    linked from: Digests/Vol4/11Nov1995V4I132.htm
+Digests/Vol4/11Nov1995V4I132_files/themedata.xml
+    linked from: Digests/Vol4/11Nov1995V4I132.htm
+Digests/Vol4/11Oct1995V4I180_files/filelist.xml
+    linked from: Digests/Vol4/11Oct1995V4I180.htm
+Digests/Vol4/11Oct1995V4I180_files/themedata.xml
+    linked from: Digests/Vol4/11Oct1995V4I180.htm
+Digests/Vol4/11Sep1995V4I34_files/filelist.xml
+    linked from: Digests/Vol4/11Sep1995V4I34.htm
+Digests/Vol4/11Sep1995V4I34_files/themedata.xml
+    linked from: Digests/Vol4/11Sep1995V4I34.htm
+Digests/Vol4/12Aug1995V4I1_files/filelist.xml
+    linked from: Digests/Vol4/12Aug1995V4I1.htm
+Digests/Vol4/12Aug1995V4I1_files/themedata.xml
+    linked from: Digests/Vol4/12Aug1995V4I1.htm
+Digests/Vol4/12Dec1995V4I173_files/filelist.xml
+    linked from: Digests/Vol4/12Dec1995V4I173.htm
+Digests/Vol4/12Dec1995V4I173_files/themedata.xml
+    linked from: Digests/Vol4/12Dec1995V4I173.htm
+Digests/Vol4/12Feb1996V4I237_files/filelist.xml
+    linked from: Digests/Vol4/12Feb1996V4I237.htm
+Digests/Vol4/12Feb1996V4I237_files/themedata.xml
+    linked from: Digests/Vol4/12Feb1996V4I237.htm
+Digests/Vol4/12Jan1996V4I205_files/filelist.xml
+    linked from: Digests/Vol4/12Jan1996V4I205.htm
+Digests/Vol4/12Jan1996V4I205_files/themedata.xml
+    linked from: Digests/Vol4/12Jan1996V4I205.htm
+Digests/Vol4/12Jul1996V4I495_files/filelist.xml
+    linked from: Digests/Vol4/12Jul1996V4I495.htm
+Digests/Vol4/12Jul1996V4I495_files/themedata.xml
+    linked from: Digests/Vol4/12Jul1996V4I495.htm
+Digests/Vol4/12Jul1996V4I496_files/filelist.xml
+    linked from: Digests/Vol4/12Jul1996V4I496.htm
+Digests/Vol4/12Jul1996V4I496_files/themedata.xml
+    linked from: Digests/Vol4/12Jul1996V4I496.htm
+Digests/Vol4/12Jun1996V4I440_files/filelist.xml
+    linked from: Digests/Vol4/12Jun1996V4I440.htm
+Digests/Vol4/12Jun1996V4I440_files/themedata.xml
+    linked from: Digests/Vol4/12Jun1996V4I440.htm
+Digests/Vol4/12Mar1996V4I287_files/filelist.xml
+    linked from: Digests/Vol4/12Mar1996V4I287.htm
+Digests/Vol4/12Mar1996V4I287_files/themedata.xml
+    linked from: Digests/Vol4/12Mar1996V4I287.htm
+Digests/Vol4/12Mar1996V4I288_files/filelist.xml
+    linked from: Digests/Vol4/12Mar1996V4I288.htm
+Digests/Vol4/12Mar1996V4I288_files/themedata.xml
+    linked from: Digests/Vol4/12Mar1996V4I288.htm
+Digests/Vol4/12May1996V4I391_files/filelist.xml
+    linked from: Digests/Vol4/12May1996V4I391.htm
+Digests/Vol4/12May1996V4I391_files/themedata.xml
+    linked from: Digests/Vol4/12May1996V4I391.htm
+Digests/Vol4/12Nov1995V4I133_files/filelist.xml
+    linked from: Digests/Vol4/12Nov1995V4I133.htm
+Digests/Vol4/12Nov1995V4I133_files/themedata.xml
+    linked from: Digests/Vol4/12Nov1995V4I133.htm
+Digests/Vol4/12Oct1995V4I181_files/filelist.xml
+    linked from: Digests/Vol4/12Oct1995V4I181.htm
+Digests/Vol4/12Oct1995V4I181_files/themedata.xml
+    linked from: Digests/Vol4/12Oct1995V4I181.htm
+Digests/Vol4/12Sep1995V4I35_files/filelist.xml
+    linked from: Digests/Vol4/12Sep1995V4I35.htm
+Digests/Vol4/12Sep1995V4I35_files/themedata.xml
+    linked from: Digests/Vol4/12Sep1995V4I35.htm
+Digests/Vol4/13Apr1996V4I342_files/filelist.xml
+    linked from: Digests/Vol4/13Apr1996V4I342.htm
+Digests/Vol4/13Apr1996V4I342_files/themedata.xml
+    linked from: Digests/Vol4/13Apr1996V4I342.htm
+Digests/Vol4/13Aug1995V4I2_files/filelist.xml
+    linked from: Digests/Vol4/13Aug1995V4I2.htm
+Digests/Vol4/13Aug1995V4I2_files/themedata.xml
+    linked from: Digests/Vol4/13Aug1995V4I2.htm
+Digests/Vol4/13Aug1995_files/filelist.xml
+    linked from: Digests/Vol4/13Aug1995.htm
+Digests/Vol4/13Aug1995_files/themedata.xml
+    linked from: Digests/Vol4/13Aug1995.htm
+Digests/Vol4/13Dec1995V4I174_files/filelist.xml
+    linked from: Digests/Vol4/13Dec1995V4I174.htm
+Digests/Vol4/13Dec1995V4I174_files/themedata.xml
+    linked from: Digests/Vol4/13Dec1995V4I174.htm
+Digests/Vol4/13Feb1996V4I238_files/filelist.xml
+    linked from: Digests/Vol4/13Feb1996V4I238.htm
+Digests/Vol4/13Feb1996V4I238_files/themedata.xml
+    linked from: Digests/Vol4/13Feb1996V4I238.htm
+Digests/Vol4/13Jan1996V4I206_files/filelist.xml
+    linked from: Digests/Vol4/13Jan1996V4I206.htm
+Digests/Vol4/13Jan1996V4I206_files/themedata.xml
+    linked from: Digests/Vol4/13Jan1996V4I206.htm
+Digests/Vol4/13Jul1996V4I497_files/filelist.xml
+    linked from: Digests/Vol4/13Jul1996V4I497.htm
+Digests/Vol4/13Jul1996V4I497_files/themedata.xml
+    linked from: Digests/Vol4/13Jul1996V4I497.htm
+Digests/Vol4/13Jul1996V4I498_files/filelist.xml
+    linked from: Digests/Vol4/13Jul1996V4I498.htm
+Digests/Vol4/13Jul1996V4I498_files/themedata.xml
+    linked from: Digests/Vol4/13Jul1996V4I498.htm
+Digests/Vol4/13Jun1996V4I441_files/filelist.xml
+    linked from: Digests/Vol4/13Jun1996V4I441.htm
+Digests/Vol4/13Jun1996V4I441_files/themedata.xml
+    linked from: Digests/Vol4/13Jun1996V4I441.htm
+Digests/Vol4/13Mar1996V4I289_files/filelist.xml
+    linked from: Digests/Vol4/13Mar1996V4I289.htm
+Digests/Vol4/13Mar1996V4I289_files/themedata.xml
+    linked from: Digests/Vol4/13Mar1996V4I289.htm
+Digests/Vol4/13May1996V4I392_files/filelist.xml
+    linked from: Digests/Vol4/13May1996V4I392.htm
+Digests/Vol4/13May1996V4I392_files/themedata.xml
+    linked from: Digests/Vol4/13May1996V4I392.htm
+Digests/Vol4/13Nov1995V4I134_files/filelist.xml
+    linked from: Digests/Vol4/13Nov1995V4I134.htm
+Digests/Vol4/13Nov1995V4I134_files/themedata.xml
+    linked from: Digests/Vol4/13Nov1995V4I134.htm
+Digests/Vol4/13Oct1995V4I182_files/filelist.xml
+    linked from: Digests/Vol4/13Oct1995V4I182.htm
+Digests/Vol4/13Oct1995V4I182_files/themedata.xml
+    linked from: Digests/Vol4/13Oct1995V4I182.htm
+Digests/Vol4/13Oct1995V4I183_files/filelist.xml
+    linked from: Digests/Vol4/13Oct1995V4I183.htm
+Digests/Vol4/13Oct1995V4I183_files/themedata.xml
+    linked from: Digests/Vol4/13Oct1995V4I183.htm
+Digests/Vol4/13Sep1995V4I35_files/filelist.xml
+    linked from: Digests/Vol4/13Sep1995V4I35.htm
+Digests/Vol4/13Sep1995V4I35_files/themedata.xml
+    linked from: Digests/Vol4/13Sep1995V4I35.htm
+Digests/Vol4/14Apr1996V4I343_files/filelist.xml
+    linked from: Digests/Vol4/14Apr1996V4I343.htm
+Digests/Vol4/14Apr1996V4I343_files/themedata.xml
+    linked from: Digests/Vol4/14Apr1996V4I343.htm
+Digests/Vol4/14Apr1996V4I344_files/filelist.xml
+    linked from: Digests/Vol4/14Apr1996V4I344.htm
+Digests/Vol4/14Apr1996V4I344_files/themedata.xml
+    linked from: Digests/Vol4/14Apr1996V4I344.htm
+Digests/Vol4/14Aug1005_files/filelist.xml
+    linked from: Digests/Vol4/14Aug1005.htm
+Digests/Vol4/14Aug1005_files/themedata.xml
+    linked from: Digests/Vol4/14Aug1005.htm
+Digests/Vol4/14Aug1995V4I3_files/filelist.xml
+    linked from: Digests/Vol4/14Aug1995V4I3.htm
+Digests/Vol4/14Aug1995V4I3_files/themedata.xml
+    linked from: Digests/Vol4/14Aug1995V4I3.htm
+Digests/Vol4/14Dec1995V4I175_files/filelist.xml
+    linked from: Digests/Vol4/14Dec1995V4I175.htm
+Digests/Vol4/14Dec1995V4I175_files/themedata.xml
+    linked from: Digests/Vol4/14Dec1995V4I175.htm
+Digests/Vol4/14Feb1996V4I239_files/filelist.xml
+    linked from: Digests/Vol4/14Feb1996V4I239.htm
+Digests/Vol4/14Feb1996V4I239_files/themedata.xml
+    linked from: Digests/Vol4/14Feb1996V4I239.htm
+Digests/Vol4/14Jan1996V4I207_files/filelist.xml
+    linked from: Digests/Vol4/14Jan1996V4I207.htm
+Digests/Vol4/14Jan1996V4I207_files/themedata.xml
+    linked from: Digests/Vol4/14Jan1996V4I207.htm
+Digests/Vol4/14Jul1996V4I499_files/filelist.xml
+    linked from: Digests/Vol4/14Jul1996V4I499.htm
+Digests/Vol4/14Jul1996V4I499_files/themedata.xml
+    linked from: Digests/Vol4/14Jul1996V4I499.htm
+Digests/Vol4/14Jun1996V4I442_files/filelist.xml
+    linked from: Digests/Vol4/14Jun1996V4I442.htm
+Digests/Vol4/14Jun1996V4I442_files/themedata.xml
+    linked from: Digests/Vol4/14Jun1996V4I442.htm
+Digests/Vol4/14May1996V4I393_files/filelist.xml
+    linked from: Digests/Vol4/14May1996V4I393.htm
+Digests/Vol4/14May1996V4I393_files/themedata.xml
+    linked from: Digests/Vol4/14May1996V4I393.htm
+Digests/Vol4/14Nov1995V4I135_files/filelist.xml
+    linked from: Digests/Vol4/14Nov1995V4I135.htm
+Digests/Vol4/14Nov1995V4I135_files/themedata.xml
+    linked from: Digests/Vol4/14Nov1995V4I135.htm
+Digests/Vol4/14Nov1995V4I136_files/filelist.xml
+    linked from: Digests/Vol4/14Nov1995V4I136.htm
+Digests/Vol4/14Nov1995V4I136_files/themedata.xml
+    linked from: Digests/Vol4/14Nov1995V4I136.htm
+Digests/Vol4/14Oct1995V4I184_files/filelist.xml
+    linked from: Digests/Vol4/14Oct1995V4I184.htm
+Digests/Vol4/14Oct1995V4I184_files/themedata.xml
+    linked from: Digests/Vol4/14Oct1995V4I184.htm
+Digests/Vol4/14Oct1995V4I185_files/filelist.xml
+    linked from: Digests/Vol4/14Oct1995V4I185.htm
+Digests/Vol4/14Oct1995V4I185_files/themedata.xml
+    linked from: Digests/Vol4/14Oct1995V4I185.htm
+Digests/Vol4/14Sep1995V4I36_files/filelist.xml
+    linked from: Digests/Vol4/14Sep1995V4I36.htm
+Digests/Vol4/14Sep1995V4I36_files/themedata.xml
+    linked from: Digests/Vol4/14Sep1995V4I36.htm
+Digests/Vol4/15Apr1996V4I344_files/filelist.xml
+    linked from: Digests/Vol4/15Apr1996V4I344.htm
+Digests/Vol4/15Apr1996V4I344_files/themedata.xml
+    linked from: Digests/Vol4/15Apr1996V4I344.htm
+Digests/Vol4/15Apr1996V4I345_files/filelist.xml
+    linked from: Digests/Vol4/15Apr1996V4I345.htm
+Digests/Vol4/15Apr1996V4I345_files/themedata.xml
+    linked from: Digests/Vol4/15Apr1996V4I345.htm
+Digests/Vol4/15Aug1995V4I4_files/filelist.xml
+    linked from: Digests/Vol4/15Aug1995V4I4.htm
+Digests/Vol4/15Aug1995V4I4_files/themedata.xml
+    linked from: Digests/Vol4/15Aug1995V4I4.htm
+Digests/Vol4/15Aug1995_files/filelist.xml
+    linked from: Digests/Vol4/15Aug1995.htm
+Digests/Vol4/15Aug1995_files/themedata.xml
+    linked from: Digests/Vol4/15Aug1995.htm
+Digests/Vol4/15Dec1995V4I176_files/filelist.xml
+    linked from: Digests/Vol4/15Dec1995V4I176.htm
+Digests/Vol4/15Dec1995V4I176_files/themedata.xml
+    linked from: Digests/Vol4/15Dec1995V4I176.htm
+Digests/Vol4/15Feb1996V4I240_files/filelist.xml
+    linked from: Digests/Vol4/15Feb1996V4I240.htm
+Digests/Vol4/15Feb1996V4I240_files/themedata.xml
+    linked from: Digests/Vol4/15Feb1996V4I240.htm
+Digests/Vol4/15Jan1996V4I208_files/filelist.xml
+    linked from: Digests/Vol4/15Jan1996V4I208.htm
+Digests/Vol4/15Jan1996V4I208_files/themedata.xml
+    linked from: Digests/Vol4/15Jan1996V4I208.htm
+Digests/Vol4/15Jul1996V4I500_files/filelist.xml
+    linked from: Digests/Vol4/15Jul1996V4I500.htm
+Digests/Vol4/15Jul1996V4I500_files/themedata.xml
+    linked from: Digests/Vol4/15Jul1996V4I500.htm
+Digests/Vol4/15Jul1996V4I501_files/filelist.xml
+    linked from: Digests/Vol4/15Jul1996V4I501.htm
+Digests/Vol4/15Jul1996V4I501_files/themedata.xml
+    linked from: Digests/Vol4/15Jul1996V4I501.htm
+Digests/Vol4/15Jun1996V4I443_files/filelist.xml
+    linked from: Digests/Vol4/15Jun1996V4I443.htm
+Digests/Vol4/15Jun1996V4I443_files/themedata.xml
+    linked from: Digests/Vol4/15Jun1996V4I443.htm
+Digests/Vol4/15Jun1996V4I444_files/filelist.xml
+    linked from: Digests/Vol4/15Jun1996V4I444.htm
+Digests/Vol4/15Jun1996V4I444_files/themedata.xml
+    linked from: Digests/Vol4/15Jun1996V4I444.htm
+Digests/Vol4/15Jun1996V4I445_files/filelist.xml
+    linked from: Digests/Vol4/15Jun1996V4I445.htm
+Digests/Vol4/15Jun1996V4I445_files/themedata.xml
+    linked from: Digests/Vol4/15Jun1996V4I445.htm
+Digests/Vol4/15Mar1996V4I290_files/filelist.xml
+    linked from: Digests/Vol4/15Mar1996V4I290.htm
+Digests/Vol4/15Mar1996V4I290_files/themedata.xml
+    linked from: Digests/Vol4/15Mar1996V4I290.htm
+Digests/Vol4/15May1996V4I394_files/filelist.xml
+    linked from: Digests/Vol4/15May1996V4I394.htm
+Digests/Vol4/15May1996V4I394_files/themedata.xml
+    linked from: Digests/Vol4/15May1996V4I394.htm
+Digests/Vol4/15Nov1995V4I137_files/filelist.xml
+    linked from: Digests/Vol4/15Nov1995V4I137.htm
+Digests/Vol4/15Nov1995V4I137_files/themedata.xml
+    linked from: Digests/Vol4/15Nov1995V4I137.htm
+Digests/Vol4/15Nov1995V4I138_files/filelist.xml
+    linked from: Digests/Vol4/15Nov1995V4I138.htm
+Digests/Vol4/15Nov1995V4I138_files/themedata.xml
+    linked from: Digests/Vol4/15Nov1995V4I138.htm
+Digests/Vol4/15Oct1995V4I186_files/filelist.xml
+    linked from: Digests/Vol4/15Oct1995V4I186.htm
+Digests/Vol4/15Oct1995V4I186_files/themedata.xml
+    linked from: Digests/Vol4/15Oct1995V4I186.htm
+Digests/Vol4/15Oct1995V4I187_files/filelist.xml
+    linked from: Digests/Vol4/15Oct1995V4I187.htm
+Digests/Vol4/15Oct1995V4I187_files/themedata.xml
+    linked from: Digests/Vol4/15Oct1995V4I187.htm
+Digests/Vol4/15Sep1995V4I37_files/filelist.xml
+    linked from: Digests/Vol4/15Sep1995V4I37.htm
+Digests/Vol4/15Sep1995V4I37_files/themedata.xml
+    linked from: Digests/Vol4/15Sep1995V4I37.htm
+Digests/Vol4/16Apr1996V4I346_files/filelist.xml
+    linked from: Digests/Vol4/16Apr1996V4I346.htm
+Digests/Vol4/16Apr1996V4I346_files/themedata.xml
+    linked from: Digests/Vol4/16Apr1996V4I346.htm
+Digests/Vol4/16Aug1995V4I5_files/filelist.xml
+    linked from: Digests/Vol4/16Aug1995V4I5.htm
+Digests/Vol4/16Aug1995V4I5_files/themedata.xml
+    linked from: Digests/Vol4/16Aug1995V4I5.htm
+Digests/Vol4/16Aug1995_files/filelist.xml
+    linked from: Digests/Vol4/16Aug1995.htm
+Digests/Vol4/16Aug1995_files/themedata.xml
+    linked from: Digests/Vol4/16Aug1995.htm
+Digests/Vol4/16Dec1995V4I177_files/filelist.xml
+    linked from: Digests/Vol4/16Dec1995V4I177.htm
+Digests/Vol4/16Dec1995V4I177_files/themedata.xml
+    linked from: Digests/Vol4/16Dec1995V4I177.htm
+Digests/Vol4/16Feb1996V4I241_files/filelist.xml
+    linked from: Digests/Vol4/16Feb1996V4I241.htm
+Digests/Vol4/16Feb1996V4I241_files/themedata.xml
+    linked from: Digests/Vol4/16Feb1996V4I241.htm
+Digests/Vol4/16Jan1996V4I209_files/filelist.xml
+    linked from: Digests/Vol4/16Jan1996V4I209.htm
+Digests/Vol4/16Jan1996V4I209_files/themedata.xml
+    linked from: Digests/Vol4/16Jan1996V4I209.htm
+Digests/Vol4/16Jun1996V4I446_files/filelist.xml
+    linked from: Digests/Vol4/16Jun1996V4I446.htm
+Digests/Vol4/16Jun1996V4I446_files/themedata.xml
+    linked from: Digests/Vol4/16Jun1996V4I446.htm
+Digests/Vol4/16Jun1996V4I447_files/filelist.xml
+    linked from: Digests/Vol4/16Jun1996V4I447.htm
+Digests/Vol4/16Jun1996V4I447_files/themedata.xml
+    linked from: Digests/Vol4/16Jun1996V4I447.htm
+Digests/Vol4/16Jun1996V4I448_files/filelist.xml
+    linked from: Digests/Vol4/16Jun1996V4I448.htm
+Digests/Vol4/16Jun1996V4I448_files/themedata.xml
+    linked from: Digests/Vol4/16Jun1996V4I448.htm
+Digests/Vol4/16Mar1996V4I291.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/16Mar1996V4I292.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/16May1996V4I395_files/filelist.xml
+    linked from: Digests/Vol4/16May1996V4I395.htm
+Digests/Vol4/16May1996V4I395_files/themedata.xml
+    linked from: Digests/Vol4/16May1996V4I395.htm
+Digests/Vol4/16Nov1995V4I139_files/filelist.xml
+    linked from: Digests/Vol4/16Nov1995V4I139.htm
+Digests/Vol4/16Nov1995V4I139_files/themedata.xml
+    linked from: Digests/Vol4/16Nov1995V4I139.htm
+Digests/Vol4/16Oct1995V4I188_files/filelist.xml
+    linked from: Digests/Vol4/16Oct1995V4I188.htm
+Digests/Vol4/16Oct1995V4I188_files/themedata.xml
+    linked from: Digests/Vol4/16Oct1995V4I188.htm
+Digests/Vol4/16Oct1995V4I189_files/filelist.xml
+    linked from: Digests/Vol4/16Oct1995V4I189.htm
+Digests/Vol4/16Oct1995V4I189_files/themedata.xml
+    linked from: Digests/Vol4/16Oct1995V4I189.htm
+Digests/Vol4/16Sep1995V4I38_files/filelist.xml
+    linked from: Digests/Vol4/16Sep1995V4I38.htm
+Digests/Vol4/16Sep1995V4I38_files/themedata.xml
+    linked from: Digests/Vol4/16Sep1995V4I38.htm
+Digests/Vol4/17Apr1996V4I348_files/filelist.xml
+    linked from: Digests/Vol4/17Apr1996V4I348.htm
+Digests/Vol4/17Apr1996V4I348_files/themedata.xml
+    linked from: Digests/Vol4/17Apr1996V4I348.htm
+Digests/Vol4/17Apr1996V4I349_files/filelist.xml
+    linked from: Digests/Vol4/17Apr1996V4I349.htm
+Digests/Vol4/17Apr1996V4I349_files/themedata.xml
+    linked from: Digests/Vol4/17Apr1996V4I349.htm
+Digests/Vol4/17Aug1995V4I6_files/filelist.xml
+    linked from: Digests/Vol4/17Aug1995V4I6.htm
+Digests/Vol4/17Aug1995V4I6_files/themedata.xml
+    linked from: Digests/Vol4/17Aug1995V4I6.htm
+Digests/Vol4/17Aug1995_files/filelist.xml
+    linked from: Digests/Vol4/17Aug1995.htm
+Digests/Vol4/17Aug1995_files/themedata.xml
+    linked from: Digests/Vol4/17Aug1995.htm
+Digests/Vol4/17Dec1995V4I178_files/filelist.xml
+    linked from: Digests/Vol4/17Dec1995V4I178.htm
+Digests/Vol4/17Dec1995V4I178_files/themedata.xml
+    linked from: Digests/Vol4/17Dec1995V4I178.htm
+Digests/Vol4/17Feb1996V4I242_files/filelist.xml
+    linked from: Digests/Vol4/17Feb1996V4I242.htm
+Digests/Vol4/17Feb1996V4I242_files/themedata.xml
+    linked from: Digests/Vol4/17Feb1996V4I242.htm
+Digests/Vol4/17Jan1996V4I210_files/filelist.xml
+    linked from: Digests/Vol4/17Jan1996V4I210.htm
+Digests/Vol4/17Jan1996V4I210_files/themedata.xml
+    linked from: Digests/Vol4/17Jan1996V4I210.htm
+Digests/Vol4/17Jul1996V4I502_files/filelist.xml
+    linked from: Digests/Vol4/17Jul1996V4I502.htm
+Digests/Vol4/17Jul1996V4I502_files/themedata.xml
+    linked from: Digests/Vol4/17Jul1996V4I502.htm
+Digests/Vol4/17Jul1996V4I503.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/17Jul1996V4I506_files/filelist.xml
+    linked from: Digests/Vol4/17Jul1996V4I506.htm
+Digests/Vol4/17Jul1996V4I506_files/themedata.xml
+    linked from: Digests/Vol4/17Jul1996V4I506.htm
+Digests/Vol4/17Jun1996V4I449_files/filelist.xml
+    linked from: Digests/Vol4/17Jun1996V4I449.htm
+Digests/Vol4/17Jun1996V4I449_files/themedata.xml
+    linked from: Digests/Vol4/17Jun1996V4I449.htm
+Digests/Vol4/17Jun1996V4I450_files/filelist.xml
+    linked from: Digests/Vol4/17Jun1996V4I450.htm
+Digests/Vol4/17Jun1996V4I450_files/themedata.xml
+    linked from: Digests/Vol4/17Jun1996V4I450.htm
+Digests/Vol4/17Mar1996V4I293.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/17Mar1996V4I296.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/17May1996V4I396_files/filelist.xml
+    linked from: Digests/Vol4/17May1996V4I396.htm
+Digests/Vol4/17May1996V4I396_files/themedata.xml
+    linked from: Digests/Vol4/17May1996V4I396.htm
+Digests/Vol4/17May1996V4I397_files/filelist.xml
+    linked from: Digests/Vol4/17May1996V4I397.htm
+Digests/Vol4/17May1996V4I397_files/themedata.xml
+    linked from: Digests/Vol4/17May1996V4I397.htm
+Digests/Vol4/17Nov1995V4I140_files/filelist.xml
+    linked from: Digests/Vol4/17Nov1995V4I140.htm
+Digests/Vol4/17Nov1995V4I140_files/themedata.xml
+    linked from: Digests/Vol4/17Nov1995V4I140.htm
+Digests/Vol4/17Nov1995V4I141_files/filelist.xml
+    linked from: Digests/Vol4/17Nov1995V4I141.htm
+Digests/Vol4/17Nov1995V4I141_files/themedata.xml
+    linked from: Digests/Vol4/17Nov1995V4I141.htm
+Digests/Vol4/17Oct1995V4I190_files/filelist.xml
+    linked from: Digests/Vol4/17Oct1995V4I190.htm
+Digests/Vol4/17Oct1995V4I190_files/themedata.xml
+    linked from: Digests/Vol4/17Oct1995V4I190.htm
+Digests/Vol4/17Oct1995V4I191_files/filelist.xml
+    linked from: Digests/Vol4/17Oct1995V4I191.htm
+Digests/Vol4/17Oct1995V4I191_files/themedata.xml
+    linked from: Digests/Vol4/17Oct1995V4I191.htm
+Digests/Vol4/17Sep1995V4I39_files/filelist.xml
+    linked from: Digests/Vol4/17Sep1995V4I39.htm
+Digests/Vol4/17Sep1995V4I39_files/themedata.xml
+    linked from: Digests/Vol4/17Sep1995V4I39.htm
+Digests/Vol4/18Apr1996V4I350_files/filelist.xml
+    linked from: Digests/Vol4/18Apr1996V4I350.htm
+Digests/Vol4/18Apr1996V4I350_files/themedata.xml
+    linked from: Digests/Vol4/18Apr1996V4I350.htm
+Digests/Vol4/18Apr1996V4I351_files/filelist.xml
+    linked from: Digests/Vol4/18Apr1996V4I351.htm
+Digests/Vol4/18Apr1996V4I351_files/themedata.xml
+    linked from: Digests/Vol4/18Apr1996V4I351.htm
+Digests/Vol4/18Apr1996V4I352_files/filelist.xml
+    linked from: Digests/Vol4/18Apr1996V4I352.htm
+Digests/Vol4/18Apr1996V4I352_files/themedata.xml
+    linked from: Digests/Vol4/18Apr1996V4I352.htm
+Digests/Vol4/18Aug1995V4I7_files/filelist.xml
+    linked from: Digests/Vol4/18Aug1995V4I7.htm
+Digests/Vol4/18Aug1995V4I7_files/themedata.xml
+    linked from: Digests/Vol4/18Aug1995V4I7.htm
+Digests/Vol4/18Dec1995V4I179_files/filelist.xml
+    linked from: Digests/Vol4/18Dec1995V4I179.htm
+Digests/Vol4/18Dec1995V4I179_files/themedata.xml
+    linked from: Digests/Vol4/18Dec1995V4I179.htm
+Digests/Vol4/18Dec1995V4I180_files/filelist.xml
+    linked from: Digests/Vol4/18Dec1995V4I180.htm
+Digests/Vol4/18Dec1995V4I180_files/themedata.xml
+    linked from: Digests/Vol4/18Dec1995V4I180.htm
+Digests/Vol4/18Feb1996V4I243_files/filelist.xml
+    linked from: Digests/Vol4/18Feb1996V4I243.htm
+Digests/Vol4/18Feb1996V4I243_files/themedata.xml
+    linked from: Digests/Vol4/18Feb1996V4I243.htm
+Digests/Vol4/18Jan1996V4I211_files/filelist.xml
+    linked from: Digests/Vol4/18Jan1996V4I211.htm
+Digests/Vol4/18Jan1996V4I211_files/themedata.xml
+    linked from: Digests/Vol4/18Jan1996V4I211.htm
+Digests/Vol4/18Jul1996V4I504_files/filelist.xml
+    linked from: Digests/Vol4/18Jul1996V4I504.htm
+Digests/Vol4/18Jul1996V4I504_files/themedata.xml
+    linked from: Digests/Vol4/18Jul1996V4I504.htm
+Digests/Vol4/18Jul1996V4I507_files/filelist.xml
+    linked from: Digests/Vol4/18Jul1996V4I507.htm
+Digests/Vol4/18Jul1996V4I507_files/themedata.xml
+    linked from: Digests/Vol4/18Jul1996V4I507.htm
+Digests/Vol4/18Jul1996V4I508_files/filelist.xml
+    linked from: Digests/Vol4/18Jul1996V4I508.htm
+Digests/Vol4/18Jul1996V4I508_files/themedata.xml
+    linked from: Digests/Vol4/18Jul1996V4I508.htm
+Digests/Vol4/18Jun1996V4I152_files/filelist.xml
+    linked from: Digests/Vol4/18Jun1996V4I152.htm
+Digests/Vol4/18Jun1996V4I152_files/themedata.xml
+    linked from: Digests/Vol4/18Jun1996V4I152.htm
+Digests/Vol4/18Jun1996V4I451_files/filelist.xml
+    linked from: Digests/Vol4/18Jun1996V4I451.htm
+Digests/Vol4/18Jun1996V4I451_files/themedata.xml
+    linked from: Digests/Vol4/18Jun1996V4I451.htm
+Digests/Vol4/18Mar1996V4I294.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/18Mar1996V4I295.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/18May1996V4I398_files/filelist.xml
+    linked from: Digests/Vol4/18May1996V4I398.htm
+Digests/Vol4/18May1996V4I398_files/themedata.xml
+    linked from: Digests/Vol4/18May1996V4I398.htm
+Digests/Vol4/18Nov1995V4I142_files/filelist.xml
+    linked from: Digests/Vol4/18Nov1995V4I142.htm
+Digests/Vol4/18Nov1995V4I142_files/themedata.xml
+    linked from: Digests/Vol4/18Nov1995V4I142.htm
+Digests/Vol4/18Nov1995V4I143_files/filelist.xml
+    linked from: Digests/Vol4/18Nov1995V4I143.htm
+Digests/Vol4/18Nov1995V4I143_files/themedata.xml
+    linked from: Digests/Vol4/18Nov1995V4I143.htm
+Digests/Vol4/18Oct1995V4I192-DNP_files/filelist.xml
+    linked from: Digests/Vol4/18Oct1995V4I192-DNP.htm
+Digests/Vol4/18Oct1995V4I192-DNP_files/themedata.xml
+    linked from: Digests/Vol4/18Oct1995V4I192-DNP.htm
+Digests/Vol4/18Oct1995V4I193-DNP_files/filelist.xml
+    linked from: Digests/Vol4/18Oct1995V4I193-DNP.htm
+Digests/Vol4/18Oct1995V4I193-DNP_files/themedata.xml
+    linked from: Digests/Vol4/18Oct1995V4I193-DNP.htm
+Digests/Vol4/18Sep1995V4I140_files/filelist.xml
+    linked from: Digests/Vol4/18Sep1995V4I140.htm
+Digests/Vol4/18Sep1995V4I140_files/themedata.xml
+    linked from: Digests/Vol4/18Sep1995V4I140.htm
+Digests/Vol4/19Apr1996V4I353_files/filelist.xml
+    linked from: Digests/Vol4/19Apr1996V4I353.htm
+Digests/Vol4/19Apr1996V4I353_files/themedata.xml
+    linked from: Digests/Vol4/19Apr1996V4I353.htm
+Digests/Vol4/19Aprf1996V4I354_files/filelist.xml
+    linked from: Digests/Vol4/19Aprf1996V4I354.htm
+Digests/Vol4/19Aprf1996V4I354_files/themedata.xml
+    linked from: Digests/Vol4/19Aprf1996V4I354.htm
+Digests/Vol4/19Aug1995V4I8_files/filelist.xml
+    linked from: Digests/Vol4/19Aug1995V4I8.htm
+Digests/Vol4/19Aug1995V4I8_files/themedata.xml
+    linked from: Digests/Vol4/19Aug1995V4I8.htm
+Digests/Vol4/19Aug1995V4I9_files/filelist.xml
+    linked from: Digests/Vol4/19Aug1995V4I9.htm
+Digests/Vol4/19Aug1995V4I9_files/themedata.xml
+    linked from: Digests/Vol4/19Aug1995V4I9.htm
+Digests/Vol4/19Dec1995V4I181_files/filelist.xml
+    linked from: Digests/Vol4/19Dec1995V4I181.htm
+Digests/Vol4/19Dec1995V4I181_files/themedata.xml
+    linked from: Digests/Vol4/19Dec1995V4I181.htm
+Digests/Vol4/19Feb1996V4I244_files/filelist.xml
+    linked from: Digests/Vol4/19Feb1996V4I244.htm
+Digests/Vol4/19Feb1996V4I244_files/themedata.xml
+    linked from: Digests/Vol4/19Feb1996V4I244.htm
+Digests/Vol4/19Jan1996V4I212_files/filelist.xml
+    linked from: Digests/Vol4/19Jan1996V4I212.htm
+Digests/Vol4/19Jan1996V4I212_files/themedata.xml
+    linked from: Digests/Vol4/19Jan1996V4I212.htm
+Digests/Vol4/19Jul1996V4I509_files/filelist.xml
+    linked from: Digests/Vol4/19Jul1996V4I509.htm
+Digests/Vol4/19Jul1996V4I509_files/themedata.xml
+    linked from: Digests/Vol4/19Jul1996V4I509.htm
+Digests/Vol4/19Jun1996V4I453_files/filelist.xml
+    linked from: Digests/Vol4/19Jun1996V4I453.htm
+Digests/Vol4/19Jun1996V4I453_files/themedata.xml
+    linked from: Digests/Vol4/19Jun1996V4I453.htm
+Digests/Vol4/19Mar1996V4I297.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/19Mar1996V4I298.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/19Mar1996V4I299.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/19May1996V4I399_files/filelist.xml
+    linked from: Digests/Vol4/19May1996V4I399.htm
+Digests/Vol4/19May1996V4I399_files/themedata.xml
+    linked from: Digests/Vol4/19May1996V4I399.htm
+Digests/Vol4/19May1996V4I400_files/filelist.xml
+    linked from: Digests/Vol4/19May1996V4I400.htm
+Digests/Vol4/19May1996V4I400_files/themedata.xml
+    linked from: Digests/Vol4/19May1996V4I400.htm
+Digests/Vol4/19Nov1995V4I144_files/filelist.xml
+    linked from: Digests/Vol4/19Nov1995V4I144.htm
+Digests/Vol4/19Nov1995V4I144_files/themedata.xml
+    linked from: Digests/Vol4/19Nov1995V4I144.htm
+Digests/Vol4/19Nov1995V4I145_files/filelist.xml
+    linked from: Digests/Vol4/19Nov1995V4I145.htm
+Digests/Vol4/19Nov1995V4I145_files/themedata.xml
+    linked from: Digests/Vol4/19Nov1995V4I145.htm
+Digests/Vol4/19Oct1995V4I194_files/filelist.xml
+    linked from: Digests/Vol4/19Oct1995V4I194.htm
+Digests/Vol4/19Oct1995V4I194_files/themedata.xml
+    linked from: Digests/Vol4/19Oct1995V4I194.htm
+Digests/Vol4/19Oct1995V4I195_files/filelist.xml
+    linked from: Digests/Vol4/19Oct1995V4I195.htm
+Digests/Vol4/19Oct1995V4I195_files/themedata.xml
+    linked from: Digests/Vol4/19Oct1995V4I195.htm
+Digests/Vol4/19Sep1995V4I41_files/filelist.xml
+    linked from: Digests/Vol4/19Sep1995V4I41.htm
+Digests/Vol4/19Sep1995V4I41_files/themedata.xml
+    linked from: Digests/Vol4/19Sep1995V4I41.htm
+Digests/Vol4/19Sep1995V4I42_files/filelist.xml
+    linked from: Digests/Vol4/19Sep1995V4I42.htm
+Digests/Vol4/19Sep1995V4I42_files/themedata.xml
+    linked from: Digests/Vol4/19Sep1995V4I42.htm
+Digests/Vol4/20Apr1996V4I355_files/filelist.xml
+    linked from: Digests/Vol4/20Apr1996V4I355.htm
+Digests/Vol4/20Apr1996V4I355_files/themedata.xml
+    linked from: Digests/Vol4/20Apr1996V4I355.htm
+Digests/Vol4/20Aug1995V4I10_files/filelist.xml
+    linked from: Digests/Vol4/20Aug1995V4I10.htm
+Digests/Vol4/20Aug1995V4I10_files/themedata.xml
+    linked from: Digests/Vol4/20Aug1995V4I10.htm
+Digests/Vol4/20Aug1995V4I11_files/filelist.xml
+    linked from: Digests/Vol4/20Aug1995V4I11.htm
+Digests/Vol4/20Aug1995V4I11_files/themedata.xml
+    linked from: Digests/Vol4/20Aug1995V4I11.htm
+Digests/Vol4/20Dec1995V4I182_files/filelist.xml
+    linked from: Digests/Vol4/20Dec1995V4I182.htm
+Digests/Vol4/20Dec1995V4I182_files/themedata.xml
+    linked from: Digests/Vol4/20Dec1995V4I182.htm
+Digests/Vol4/20Feb1996V4I245_files/filelist.xml
+    linked from: Digests/Vol4/20Feb1996V4I245.htm
+Digests/Vol4/20Feb1996V4I245_files/themedata.xml
+    linked from: Digests/Vol4/20Feb1996V4I245.htm
+Digests/Vol4/20Jan1996V4I213_files/filelist.xml
+    linked from: Digests/Vol4/20Jan1996V4I213.htm
+Digests/Vol4/20Jan1996V4I213_files/themedata.xml
+    linked from: Digests/Vol4/20Jan1996V4I213.htm
+Digests/Vol4/20Jul1996V4I510_files/filelist.xml
+    linked from: Digests/Vol4/20Jul1996V4I510.htm
+Digests/Vol4/20Jul1996V4I510_files/themedata.xml
+    linked from: Digests/Vol4/20Jul1996V4I510.htm
+Digests/Vol4/20Jul1996V4I511_files/filelist.xml
+    linked from: Digests/Vol4/20Jul1996V4I511.htm
+Digests/Vol4/20Jul1996V4I511_files/themedata.xml
+    linked from: Digests/Vol4/20Jul1996V4I511.htm
+Digests/Vol4/20Jul1996V4I512_files/filelist.xml
+    linked from: Digests/Vol4/20Jul1996V4I512.htm
+Digests/Vol4/20Jul1996V4I512_files/themedata.xml
+    linked from: Digests/Vol4/20Jul1996V4I512.htm
+Digests/Vol4/20Jul1996V4I513_files/filelist.xml
+    linked from: Digests/Vol4/20Jul1996V4I513.htm
+Digests/Vol4/20Jul1996V4I513_files/themedata.xml
+    linked from: Digests/Vol4/20Jul1996V4I513.htm
+Digests/Vol4/20Jun1996V4I454_files/filelist.xml
+    linked from: Digests/Vol4/20Jun1996V4I454.htm
+Digests/Vol4/20Jun1996V4I454_files/themedata.xml
+    linked from: Digests/Vol4/20Jun1996V4I454.htm
+Digests/Vol4/20Mar1996V4I300.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/20Mar1996V4I301.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/20May1996V4I402_files/filelist.xml
+    linked from: Digests/Vol4/20May1996V4I402.htm
+Digests/Vol4/20May1996V4I402_files/themedata.xml
+    linked from: Digests/Vol4/20May1996V4I402.htm
+Digests/Vol4/20May1996V4I403_files/filelist.xml
+    linked from: Digests/Vol4/20May1996V4I403.htm
+Digests/Vol4/20May1996V4I403_files/themedata.xml
+    linked from: Digests/Vol4/20May1996V4I403.htm
+Digests/Vol4/20May1996V4I404_files/filelist.xml
+    linked from: Digests/Vol4/20May1996V4I404.htm
+Digests/Vol4/20May1996V4I404_files/themedata.xml
+    linked from: Digests/Vol4/20May1996V4I404.htm
+Digests/Vol4/20May1996V4I405_files/filelist.xml
+    linked from: Digests/Vol4/20May1996V4I405.htm
+Digests/Vol4/20May1996V4I405_files/themedata.xml
+    linked from: Digests/Vol4/20May1996V4I405.htm
+Digests/Vol4/20Nov1995V4I146_files/filelist.xml
+    linked from: Digests/Vol4/20Nov1995V4I146.htm
+Digests/Vol4/20Nov1995V4I146_files/themedata.xml
+    linked from: Digests/Vol4/20Nov1995V4I146.htm
+Digests/Vol4/20Nov1995V4I147_files/filelist.xml
+    linked from: Digests/Vol4/20Nov1995V4I147.htm
+Digests/Vol4/20Nov1995V4I147_files/themedata.xml
+    linked from: Digests/Vol4/20Nov1995V4I147.htm
+Digests/Vol4/20Oct1995V4I196_files/filelist.xml
+    linked from: Digests/Vol4/20Oct1995V4I196.htm
+Digests/Vol4/20Oct1995V4I196_files/themedata.xml
+    linked from: Digests/Vol4/20Oct1995V4I196.htm
+Digests/Vol4/20Oct1995V4I197_files/filelist.xml
+    linked from: Digests/Vol4/20Oct1995V4I197.htm
+Digests/Vol4/20Oct1995V4I197_files/themedata.xml
+    linked from: Digests/Vol4/20Oct1995V4I197.htm
+Digests/Vol4/20Sep1995V4I43_files/filelist.xml
+    linked from: Digests/Vol4/20Sep1995V4I43.htm
+Digests/Vol4/20Sep1995V4I43_files/themedata.xml
+    linked from: Digests/Vol4/20Sep1995V4I43.htm
+Digests/Vol4/20Sep1995V4I44_files/filelist.xml
+    linked from: Digests/Vol4/20Sep1995V4I44.htm
+Digests/Vol4/20Sep1995V4I44_files/themedata.xml
+    linked from: Digests/Vol4/20Sep1995V4I44.htm
+Digests/Vol4/21Apr1996V4I356_files/filelist.xml
+    linked from: Digests/Vol4/21Apr1996V4I356.htm
+Digests/Vol4/21Apr1996V4I356_files/themedata.xml
+    linked from: Digests/Vol4/21Apr1996V4I356.htm
+Digests/Vol4/21Aug1995V4I12_files/filelist.xml
+    linked from: Digests/Vol4/21Aug1995V4I12.htm
+Digests/Vol4/21Aug1995V4I12_files/themedata.xml
+    linked from: Digests/Vol4/21Aug1995V4I12.htm
+Digests/Vol4/21Aug1995V4I13_files/filelist.xml
+    linked from: Digests/Vol4/21Aug1995V4I13.htm
+Digests/Vol4/21Aug1995V4I13_files/themedata.xml
+    linked from: Digests/Vol4/21Aug1995V4I13.htm
+Digests/Vol4/21Dec1995V4I183_files/filelist.xml
+    linked from: Digests/Vol4/21Dec1995V4I183.htm
+Digests/Vol4/21Dec1995V4I183_files/themedata.xml
+    linked from: Digests/Vol4/21Dec1995V4I183.htm
+Digests/Vol4/21Feb1996V4I246_files/filelist.xml
+    linked from: Digests/Vol4/21Feb1996V4I246.htm
+Digests/Vol4/21Feb1996V4I246_files/themedata.xml
+    linked from: Digests/Vol4/21Feb1996V4I246.htm
+Digests/Vol4/21Jan1996V4I214_files/filelist.xml
+    linked from: Digests/Vol4/21Jan1996V4I214.htm
+Digests/Vol4/21Jan1996V4I214_files/themedata.xml
+    linked from: Digests/Vol4/21Jan1996V4I214.htm
+Digests/Vol4/21Jul1996V4I514_files/filelist.xml
+    linked from: Digests/Vol4/21Jul1996V4I514.htm
+Digests/Vol4/21Jul1996V4I514_files/themedata.xml
+    linked from: Digests/Vol4/21Jul1996V4I514.htm
+Digests/Vol4/21Jul1996V4I515_files/filelist.xml
+    linked from: Digests/Vol4/21Jul1996V4I515.htm
+Digests/Vol4/21Jul1996V4I515_files/themedata.xml
+    linked from: Digests/Vol4/21Jul1996V4I515.htm
+Digests/Vol4/21Jun1996V4I455_files/filelist.xml
+    linked from: Digests/Vol4/21Jun1996V4I455.htm
+Digests/Vol4/21Jun1996V4I455_files/themedata.xml
+    linked from: Digests/Vol4/21Jun1996V4I455.htm
+Digests/Vol4/21Mar1996V4I302.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/21May1996V4I401_files/filelist.xml
+    linked from: Digests/Vol4/21May1996V4I401.htm
+Digests/Vol4/21May1996V4I401_files/themedata.xml
+    linked from: Digests/Vol4/21May1996V4I401.htm
+Digests/Vol4/21May1996V4I406_files/filelist.xml
+    linked from: Digests/Vol4/21May1996V4I406.htm
+Digests/Vol4/21May1996V4I406_files/themedata.xml
+    linked from: Digests/Vol4/21May1996V4I406.htm
+Digests/Vol4/21Nov1995V4I148_files/filelist.xml
+    linked from: Digests/Vol4/21Nov1995V4I148.htm
+Digests/Vol4/21Nov1995V4I148_files/themedata.xml
+    linked from: Digests/Vol4/21Nov1995V4I148.htm
+Digests/Vol4/21Nov1995V4I149_files/filelist.xml
+    linked from: Digests/Vol4/21Nov1995V4I149.htm
+Digests/Vol4/21Nov1995V4I149_files/themedata.xml
+    linked from: Digests/Vol4/21Nov1995V4I149.htm
+Digests/Vol4/21Oct1995V4I198_files/filelist.xml
+    linked from: Digests/Vol4/21Oct1995V4I198.htm
+Digests/Vol4/21Oct1995V4I198_files/themedata.xml
+    linked from: Digests/Vol4/21Oct1995V4I198.htm
+Digests/Vol4/21Oct1995V4I199_files/filelist.xml
+    linked from: Digests/Vol4/21Oct1995V4I199.htm
+Digests/Vol4/21Oct1995V4I199_files/themedata.xml
+    linked from: Digests/Vol4/21Oct1995V4I199.htm
+Digests/Vol4/21Sep1995V4I45_files/filelist.xml
+    linked from: Digests/Vol4/21Sep1995V4I45.htm
+Digests/Vol4/21Sep1995V4I45_files/themedata.xml
+    linked from: Digests/Vol4/21Sep1995V4I45.htm
+Digests/Vol4/22Apr1996V4I357_files/filelist.xml
+    linked from: Digests/Vol4/22Apr1996V4I357.htm
+Digests/Vol4/22Apr1996V4I357_files/themedata.xml
+    linked from: Digests/Vol4/22Apr1996V4I357.htm
+Digests/Vol4/22Apr1996V4I358_files/filelist.xml
+    linked from: Digests/Vol4/22Apr1996V4I358.htm
+Digests/Vol4/22Apr1996V4I358_files/themedata.xml
+    linked from: Digests/Vol4/22Apr1996V4I358.htm
+Digests/Vol4/22Aug1995V4I14_files/filelist.xml
+    linked from: Digests/Vol4/22Aug1995V4I14.htm
+Digests/Vol4/22Aug1995V4I14_files/themedata.xml
+    linked from: Digests/Vol4/22Aug1995V4I14.htm
+Digests/Vol4/22Feb1996V4I247_files/filelist.xml
+    linked from: Digests/Vol4/22Feb1996V4I247.htm
+Digests/Vol4/22Feb1996V4I247_files/themedata.xml
+    linked from: Digests/Vol4/22Feb1996V4I247.htm
+Digests/Vol4/22Jan1996V4I215_files/filelist.xml
+    linked from: Digests/Vol4/22Jan1996V4I215.htm
+Digests/Vol4/22Jan1996V4I215_files/themedata.xml
+    linked from: Digests/Vol4/22Jan1996V4I215.htm
+Digests/Vol4/22Jul1996V4I516_files/filelist.xml
+    linked from: Digests/Vol4/22Jul1996V4I516.htm
+Digests/Vol4/22Jul1996V4I516_files/themedata.xml
+    linked from: Digests/Vol4/22Jul1996V4I516.htm
+Digests/Vol4/22Jul1996V4I517_files/filelist.xml
+    linked from: Digests/Vol4/22Jul1996V4I517.htm
+Digests/Vol4/22Jul1996V4I517_files/themedata.xml
+    linked from: Digests/Vol4/22Jul1996V4I517.htm
+Digests/Vol4/22Jul1996V4I518_files/filelist.xml
+    linked from: Digests/Vol4/22Jul1996V4I518.htm
+Digests/Vol4/22Jul1996V4I518_files/themedata.xml
+    linked from: Digests/Vol4/22Jul1996V4I518.htm
+Digests/Vol4/22Jul1996V4I519_files/filelist.xml
+    linked from: Digests/Vol4/22Jul1996V4I519.htm
+Digests/Vol4/22Jul1996V4I519_files/themedata.xml
+    linked from: Digests/Vol4/22Jul1996V4I519.htm
+Digests/Vol4/22Jun1996V4I456_files/filelist.xml
+    linked from: Digests/Vol4/22Jun1996V4I456.htm
+Digests/Vol4/22Jun1996V4I456_files/themedata.xml
+    linked from: Digests/Vol4/22Jun1996V4I456.htm
+Digests/Vol4/22Jun1996V4I457_files/filelist.xml
+    linked from: Digests/Vol4/22Jun1996V4I457.htm
+Digests/Vol4/22Jun1996V4I457_files/themedata.xml
+    linked from: Digests/Vol4/22Jun1996V4I457.htm
+Digests/Vol4/22Mar1996V4I303.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/22May1996V4I407_files/filelist.xml
+    linked from: Digests/Vol4/22May1996V4I407.htm
+Digests/Vol4/22May1996V4I407_files/themedata.xml
+    linked from: Digests/Vol4/22May1996V4I407.htm
+Digests/Vol4/22May1996V4I408_files/filelist.xml
+    linked from: Digests/Vol4/22May1996V4I408.htm
+Digests/Vol4/22May1996V4I408_files/themedata.xml
+    linked from: Digests/Vol4/22May1996V4I408.htm
+Digests/Vol4/22Nov1995V4I150_files/filelist.xml
+    linked from: Digests/Vol4/22Nov1995V4I150.htm
+Digests/Vol4/22Nov1995V4I150_files/themedata.xml
+    linked from: Digests/Vol4/22Nov1995V4I150.htm
+Digests/Vol4/22Nov1995V4I151_files/filelist.xml
+    linked from: Digests/Vol4/22Nov1995V4I151.htm
+Digests/Vol4/22Nov1995V4I151_files/themedata.xml
+    linked from: Digests/Vol4/22Nov1995V4I151.htm
+Digests/Vol4/22Oct1995V4I200_files/filelist.xml
+    linked from: Digests/Vol4/22Oct1995V4I200.htm
+Digests/Vol4/22Oct1995V4I200_files/themedata.xml
+    linked from: Digests/Vol4/22Oct1995V4I200.htm
+Digests/Vol4/22Oct1995V4I201_files/filelist.xml
+    linked from: Digests/Vol4/22Oct1995V4I201.htm
+Digests/Vol4/22Oct1995V4I201_files/themedata.xml
+    linked from: Digests/Vol4/22Oct1995V4I201.htm
+Digests/Vol4/22Sep1995V4I46_files/filelist.xml
+    linked from: Digests/Vol4/22Sep1995V4I46.htm
+Digests/Vol4/22Sep1995V4I46_files/themedata.xml
+    linked from: Digests/Vol4/22Sep1995V4I46.htm
+Digests/Vol4/23Apr1996V4I359_files/filelist.xml
+    linked from: Digests/Vol4/23Apr1996V4I359.htm
+Digests/Vol4/23Apr1996V4I359_files/themedata.xml
+    linked from: Digests/Vol4/23Apr1996V4I359.htm
+Digests/Vol4/23Aug1995V4I15_files/filelist.xml
+    linked from: Digests/Vol4/23Aug1995V4I15.htm
+Digests/Vol4/23Aug1995V4I15_files/themedata.xml
+    linked from: Digests/Vol4/23Aug1995V4I15.htm
+Digests/Vol4/23Dec1995V4I184_files/filelist.xml
+    linked from: Digests/Vol4/23Dec1995V4I184.htm
+Digests/Vol4/23Dec1995V4I184_files/themedata.xml
+    linked from: Digests/Vol4/23Dec1995V4I184.htm
+Digests/Vol4/23Feb1996V4I248_files/filelist.xml
+    linked from: Digests/Vol4/23Feb1996V4I248.htm
+Digests/Vol4/23Feb1996V4I248_files/themedata.xml
+    linked from: Digests/Vol4/23Feb1996V4I248.htm
+Digests/Vol4/23Jan1996V4I216_files/filelist.xml
+    linked from: Digests/Vol4/23Jan1996V4I216.htm
+Digests/Vol4/23Jan1996V4I216_files/themedata.xml
+    linked from: Digests/Vol4/23Jan1996V4I216.htm
+Digests/Vol4/23Jul1996V4I520_files/filelist.xml
+    linked from: Digests/Vol4/23Jul1996V4I520.htm
+Digests/Vol4/23Jul1996V4I520_files/themedata.xml
+    linked from: Digests/Vol4/23Jul1996V4I520.htm
+Digests/Vol4/23Jul1996V4I521_files/filelist.xml
+    linked from: Digests/Vol4/23Jul1996V4I521.htm
+Digests/Vol4/23Jul1996V4I521_files/themedata.xml
+    linked from: Digests/Vol4/23Jul1996V4I521.htm
+Digests/Vol4/23Jul1996V4I523_files/filelist.xml
+    linked from: Digests/Vol4/23Jul1996V4I523.htm
+Digests/Vol4/23Jul1996V4I523_files/themedata.xml
+    linked from: Digests/Vol4/23Jul1996V4I523.htm
+Digests/Vol4/23Jul1996V4I524_files/filelist.xml
+    linked from: Digests/Vol4/23Jul1996V4I524.htm
+Digests/Vol4/23Jul1996V4I524_files/themedata.xml
+    linked from: Digests/Vol4/23Jul1996V4I524.htm
+Digests/Vol4/23Jun1996V45I459_files/filelist.xml
+    linked from: Digests/Vol4/23Jun1996V45I459.htm
+Digests/Vol4/23Jun1996V45I459_files/themedata.xml
+    linked from: Digests/Vol4/23Jun1996V45I459.htm
+Digests/Vol4/23Jun1996V4I458_files/filelist.xml
+    linked from: Digests/Vol4/23Jun1996V4I458.htm
+Digests/Vol4/23Jun1996V4I458_files/themedata.xml
+    linked from: Digests/Vol4/23Jun1996V4I458.htm
+Digests/Vol4/23Mar1996V4I304.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/23Mar1996V4I305.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/23May1996V4I409_files/filelist.xml
+    linked from: Digests/Vol4/23May1996V4I409.htm
+Digests/Vol4/23May1996V4I409_files/themedata.xml
+    linked from: Digests/Vol4/23May1996V4I409.htm
+Digests/Vol4/23May1996V4I410_files/filelist.xml
+    linked from: Digests/Vol4/23May1996V4I410.htm
+Digests/Vol4/23May1996V4I410_files/themedata.xml
+    linked from: Digests/Vol4/23May1996V4I410.htm
+Digests/Vol4/23Nov1995V4I152_files/filelist.xml
+    linked from: Digests/Vol4/23Nov1995V4I152.htm
+Digests/Vol4/23Nov1995V4I152_files/themedata.xml
+    linked from: Digests/Vol4/23Nov1995V4I152.htm
+Digests/Vol4/23Oct1995V4I202_files/filelist.xml
+    linked from: Digests/Vol4/23Oct1995V4I202.htm
+Digests/Vol4/23Oct1995V4I202_files/themedata.xml
+    linked from: Digests/Vol4/23Oct1995V4I202.htm
+Digests/Vol4/23Oct1995V4I203_files/filelist.xml
+    linked from: Digests/Vol4/23Oct1995V4I203.htm
+Digests/Vol4/23Oct1995V4I203_files/themedata.xml
+    linked from: Digests/Vol4/23Oct1995V4I203.htm
+Digests/Vol4/23Sep1995V4I47_files/filelist.xml
+    linked from: Digests/Vol4/23Sep1995V4I47.htm
+Digests/Vol4/23Sep1995V4I47_files/themedata.xml
+    linked from: Digests/Vol4/23Sep1995V4I47.htm
+Digests/Vol4/24Apr1996V4I360_files/filelist.xml
+    linked from: Digests/Vol4/24Apr1996V4I360.htm
+Digests/Vol4/24Apr1996V4I360_files/themedata.xml
+    linked from: Digests/Vol4/24Apr1996V4I360.htm
+Digests/Vol4/24Apr1996V4I361_files/filelist.xml
+    linked from: Digests/Vol4/24Apr1996V4I361.htm
+Digests/Vol4/24Apr1996V4I361_files/themedata.xml
+    linked from: Digests/Vol4/24Apr1996V4I361.htm
+Digests/Vol4/24Apr1996V4I362_files/filelist.xml
+    linked from: Digests/Vol4/24Apr1996V4I362.htm
+Digests/Vol4/24Apr1996V4I362_files/themedata.xml
+    linked from: Digests/Vol4/24Apr1996V4I362.htm
+Digests/Vol4/24Aug1995V4I16_files/filelist.xml
+    linked from: Digests/Vol4/24Aug1995V4I16.htm
+Digests/Vol4/24Aug1995V4I16_files/themedata.xml
+    linked from: Digests/Vol4/24Aug1995V4I16.htm
+Digests/Vol4/24Dec1995V4I185_files/filelist.xml
+    linked from: Digests/Vol4/24Dec1995V4I185.htm
+Digests/Vol4/24Dec1995V4I185_files/themedata.xml
+    linked from: Digests/Vol4/24Dec1995V4I185.htm
+Digests/Vol4/24Feb1996V4I249_files/filelist.xml
+    linked from: Digests/Vol4/24Feb1996V4I249.htm
+Digests/Vol4/24Feb1996V4I249_files/themedata.xml
+    linked from: Digests/Vol4/24Feb1996V4I249.htm
+Digests/Vol4/24Jan1996V4I217_files/filelist.xml
+    linked from: Digests/Vol4/24Jan1996V4I217.htm
+Digests/Vol4/24Jan1996V4I217_files/themedata.xml
+    linked from: Digests/Vol4/24Jan1996V4I217.htm
+Digests/Vol4/24Jul1996V4I525_files/filelist.xml
+    linked from: Digests/Vol4/24Jul1996V4I525.htm
+Digests/Vol4/24Jul1996V4I525_files/themedata.xml
+    linked from: Digests/Vol4/24Jul1996V4I525.htm
+Digests/Vol4/24Jul1996V4I526_files/filelist.xml
+    linked from: Digests/Vol4/24Jul1996V4I526.htm
+Digests/Vol4/24Jul1996V4I526_files/themedata.xml
+    linked from: Digests/Vol4/24Jul1996V4I526.htm
+Digests/Vol4/24Jul1996V4I528_files/filelist.xml
+    linked from: Digests/Vol4/24Jul1996V4I528.htm
+Digests/Vol4/24Jul1996V4I528_files/themedata.xml
+    linked from: Digests/Vol4/24Jul1996V4I528.htm
+Digests/Vol4/24Jul1996V4I529_files/filelist.xml
+    linked from: Digests/Vol4/24Jul1996V4I529.htm
+Digests/Vol4/24Jul1996V4I529_files/themedata.xml
+    linked from: Digests/Vol4/24Jul1996V4I529.htm
+Digests/Vol4/24Jul1996V4I530_files/filelist.xml
+    linked from: Digests/Vol4/24Jul1996V4I530.htm
+Digests/Vol4/24Jul1996V4I530_files/themedata.xml
+    linked from: Digests/Vol4/24Jul1996V4I530.htm
+Digests/Vol4/24Jul1996V4I531_files/filelist.xml
+    linked from: Digests/Vol4/24Jul1996V4I531.htm
+Digests/Vol4/24Jul1996V4I531_files/themedata.xml
+    linked from: Digests/Vol4/24Jul1996V4I531.htm
+Digests/Vol4/24Jun1996V4I460_files/filelist.xml
+    linked from: Digests/Vol4/24Jun1996V4I460.htm
+Digests/Vol4/24Jun1996V4I460_files/themedata.xml
+    linked from: Digests/Vol4/24Jun1996V4I460.htm
+Digests/Vol4/24Jun1996V4I461_files/filelist.xml
+    linked from: Digests/Vol4/24Jun1996V4I461.htm
+Digests/Vol4/24Jun1996V4I461_files/themedata.xml
+    linked from: Digests/Vol4/24Jun1996V4I461.htm
+Digests/Vol4/24Mar1996V4I306.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/24Mar1996V4I307.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/24May1996V4I411_files/filelist.xml
+    linked from: Digests/Vol4/24May1996V4I411.htm
+Digests/Vol4/24May1996V4I411_files/themedata.xml
+    linked from: Digests/Vol4/24May1996V4I411.htm
+Digests/Vol4/24Nov1995V4I153_files/filelist.xml
+    linked from: Digests/Vol4/24Nov1995V4I153.htm
+Digests/Vol4/24Nov1995V4I153_files/themedata.xml
+    linked from: Digests/Vol4/24Nov1995V4I153.htm
+Digests/Vol4/24Oct1995V4I204_files/filelist.xml
+    linked from: Digests/Vol4/24Oct1995V4I204.htm
+Digests/Vol4/24Oct1995V4I204_files/themedata.xml
+    linked from: Digests/Vol4/24Oct1995V4I204.htm
+Digests/Vol4/24Oct1995V4I205_files/filelist.xml
+    linked from: Digests/Vol4/24Oct1995V4I205.htm
+Digests/Vol4/24Oct1995V4I205_files/themedata.xml
+    linked from: Digests/Vol4/24Oct1995V4I205.htm
+Digests/Vol4/24Sep1995V4I48_files/filelist.xml
+    linked from: Digests/Vol4/24Sep1995V4I48.htm
+Digests/Vol4/24Sep1995V4I48_files/themedata.xml
+    linked from: Digests/Vol4/24Sep1995V4I48.htm
+Digests/Vol4/25Apr1996V4I363_files/filelist.xml
+    linked from: Digests/Vol4/25Apr1996V4I363.htm
+Digests/Vol4/25Apr1996V4I363_files/themedata.xml
+    linked from: Digests/Vol4/25Apr1996V4I363.htm
+Digests/Vol4/25Apr1996V4I364_files/filelist.xml
+    linked from: Digests/Vol4/25Apr1996V4I364.htm
+Digests/Vol4/25Apr1996V4I364_files/themedata.xml
+    linked from: Digests/Vol4/25Apr1996V4I364.htm
+Digests/Vol4/25Aug1995V4I17_files/filelist.xml
+    linked from: Digests/Vol4/25Aug1995V4I17.htm
+Digests/Vol4/25Aug1995V4I17_files/themedata.xml
+    linked from: Digests/Vol4/25Aug1995V4I17.htm
+Digests/Vol4/25Dec1995V4I186_files/filelist.xml
+    linked from: Digests/Vol4/25Dec1995V4I186.htm
+Digests/Vol4/25Dec1995V4I186_files/themedata.xml
+    linked from: Digests/Vol4/25Dec1995V4I186.htm
+Digests/Vol4/25Feb1996V4I251_files/filelist.xml
+    linked from: Digests/Vol4/25Feb1996V4I251.htm
+Digests/Vol4/25Feb1996V4I251_files/themedata.xml
+    linked from: Digests/Vol4/25Feb1996V4I251.htm
+Digests/Vol4/25Jan1996V4I218_files/filelist.xml
+    linked from: Digests/Vol4/25Jan1996V4I218.htm
+Digests/Vol4/25Jan1996V4I218_files/themedata.xml
+    linked from: Digests/Vol4/25Jan1996V4I218.htm
+Digests/Vol4/25Jul1996V4I532_files/filelist.xml
+    linked from: Digests/Vol4/25Jul1996V4I532.htm
+Digests/Vol4/25Jul1996V4I532_files/themedata.xml
+    linked from: Digests/Vol4/25Jul1996V4I532.htm
+Digests/Vol4/25Jul1996V4I533_files/filelist.xml
+    linked from: Digests/Vol4/25Jul1996V4I533.htm
+Digests/Vol4/25Jul1996V4I533_files/themedata.xml
+    linked from: Digests/Vol4/25Jul1996V4I533.htm
+Digests/Vol4/25Jul1996V4I534_files/filelist.xml
+    linked from: Digests/Vol4/25Jul1996V4I534.htm
+Digests/Vol4/25Jul1996V4I534_files/themedata.xml
+    linked from: Digests/Vol4/25Jul1996V4I534.htm
+Digests/Vol4/25Jul1996V4I535_files/filelist.xml
+    linked from: Digests/Vol4/25Jul1996V4I535.htm
+Digests/Vol4/25Jul1996V4I535_files/themedata.xml
+    linked from: Digests/Vol4/25Jul1996V4I535.htm
+Digests/Vol4/25Jul1996V4I536_files/filelist.xml
+    linked from: Digests/Vol4/25Jul1996V4I536.htm
+Digests/Vol4/25Jul1996V4I536_files/themedata.xml
+    linked from: Digests/Vol4/25Jul1996V4I536.htm
+Digests/Vol4/25Jul1996V4I537_files/filelist.xml
+    linked from: Digests/Vol4/25Jul1996V4I537.htm
+Digests/Vol4/25Jul1996V4I537_files/themedata.xml
+    linked from: Digests/Vol4/25Jul1996V4I537.htm
+Digests/Vol4/25Jul1996V4I538_files/filelist.xml
+    linked from: Digests/Vol4/25Jul1996V4I538.htm
+Digests/Vol4/25Jul1996V4I538_files/themedata.xml
+    linked from: Digests/Vol4/25Jul1996V4I538.htm
+Digests/Vol4/25Jun1996V4I462_files/filelist.xml
+    linked from: Digests/Vol4/25Jun1996V4I462.htm
+Digests/Vol4/25Jun1996V4I462_files/themedata.xml
+    linked from: Digests/Vol4/25Jun1996V4I462.htm
+Digests/Vol4/25Jun1996V4I463_files/filelist.xml
+    linked from: Digests/Vol4/25Jun1996V4I463.htm
+Digests/Vol4/25Jun1996V4I463_files/themedata.xml
+    linked from: Digests/Vol4/25Jun1996V4I463.htm
+Digests/Vol4/25Mar1996V4I308.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/25Mar1996V4I309.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/25May1996V4I412_files/filelist.xml
+    linked from: Digests/Vol4/25May1996V4I412.htm
+Digests/Vol4/25May1996V4I412_files/themedata.xml
+    linked from: Digests/Vol4/25May1996V4I412.htm
+Digests/Vol4/25Nov1995V4I154_files/filelist.xml
+    linked from: Digests/Vol4/25Nov1995V4I154.htm
+Digests/Vol4/25Nov1995V4I154_files/themedata.xml
+    linked from: Digests/Vol4/25Nov1995V4I154.htm
+Digests/Vol4/25Oct1995V4I206_files/filelist.xml
+    linked from: Digests/Vol4/25Oct1995V4I206.htm
+Digests/Vol4/25Oct1995V4I206_files/themedata.xml
+    linked from: Digests/Vol4/25Oct1995V4I206.htm
+Digests/Vol4/25Oct1995V4I207_files/filelist.xml
+    linked from: Digests/Vol4/25Oct1995V4I207.htm
+Digests/Vol4/25Oct1995V4I207_files/themedata.xml
+    linked from: Digests/Vol4/25Oct1995V4I207.htm
+Digests/Vol4/26Apr1996V4I366_files/filelist.xml
+    linked from: Digests/Vol4/26Apr1996V4I366.htm
+Digests/Vol4/26Apr1996V4I366_files/themedata.xml
+    linked from: Digests/Vol4/26Apr1996V4I366.htm
+Digests/Vol4/26Apr1996V4I367_files/filelist.xml
+    linked from: Digests/Vol4/26Apr1996V4I367.htm
+Digests/Vol4/26Apr1996V4I367_files/themedata.xml
+    linked from: Digests/Vol4/26Apr1996V4I367.htm
+Digests/Vol4/26Apr1996V4I368_files/filelist.xml
+    linked from: Digests/Vol4/26Apr1996V4I368.htm
+Digests/Vol4/26Apr1996V4I368_files/themedata.xml
+    linked from: Digests/Vol4/26Apr1996V4I368.htm
+Digests/Vol4/26Aug1995V4I18_files/filelist.xml
+    linked from: Digests/Vol4/26Aug1995V4I18.htm
+Digests/Vol4/26Aug1995V4I18_files/themedata.xml
+    linked from: Digests/Vol4/26Aug1995V4I18.htm
+Digests/Vol4/26Dec1995V4I187_files/filelist.xml
+    linked from: Digests/Vol4/26Dec1995V4I187.htm
+Digests/Vol4/26Dec1995V4I187_files/themedata.xml
+    linked from: Digests/Vol4/26Dec1995V4I187.htm
+Digests/Vol4/26Dec1995V4I188_files/filelist.xml
+    linked from: Digests/Vol4/26Dec1995V4I188.htm
+Digests/Vol4/26Dec1995V4I188_files/themedata.xml
+    linked from: Digests/Vol4/26Dec1995V4I188.htm
+Digests/Vol4/26Feb1996V4I250_files/filelist.xml
+    linked from: Digests/Vol4/26Feb1996V4I250.htm
+Digests/Vol4/26Feb1996V4I250_files/themedata.xml
+    linked from: Digests/Vol4/26Feb1996V4I250.htm
+Digests/Vol4/26Feb1996V4I252_files/filelist.xml
+    linked from: Digests/Vol4/26Feb1996V4I252.htm
+Digests/Vol4/26Feb1996V4I252_files/themedata.xml
+    linked from: Digests/Vol4/26Feb1996V4I252.htm
+Digests/Vol4/26Jan1996V4I219_files/filelist.xml
+    linked from: Digests/Vol4/26Jan1996V4I219.htm
+Digests/Vol4/26Jan1996V4I219_files/themedata.xml
+    linked from: Digests/Vol4/26Jan1996V4I219.htm
+Digests/Vol4/26Jul1996V4I539_files/filelist.xml
+    linked from: Digests/Vol4/26Jul1996V4I539.htm
+Digests/Vol4/26Jul1996V4I539_files/themedata.xml
+    linked from: Digests/Vol4/26Jul1996V4I539.htm
+Digests/Vol4/26Jul1996V4I540-inc_files/filelist.xml
+    linked from: Digests/Vol4/26Jul1996V4I540-inc.htm
+Digests/Vol4/26Jul1996V4I540-inc_files/themedata.xml
+    linked from: Digests/Vol4/26Jul1996V4I540-inc.htm
+Digests/Vol4/26Jul1996V4I540_files/filelist.xml
+    linked from: Digests/Vol4/26Jul1996V4I540.htm
+Digests/Vol4/26Jul1996V4I540_files/themedata.xml
+    linked from: Digests/Vol4/26Jul1996V4I540.htm
+Digests/Vol4/26Jul1996V4I541_files/filelist.xml
+    linked from: Digests/Vol4/26Jul1996V4I541.htm
+Digests/Vol4/26Jul1996V4I541_files/themedata.xml
+    linked from: Digests/Vol4/26Jul1996V4I541.htm
+Digests/Vol4/26Jul1996V4I542_files/filelist.xml
+    linked from: Digests/Vol4/26Jul1996V4I542.htm
+Digests/Vol4/26Jul1996V4I542_files/themedata.xml
+    linked from: Digests/Vol4/26Jul1996V4I542.htm
+Digests/Vol4/26Jul1996V4I543_files/filelist.xml
+    linked from: Digests/Vol4/26Jul1996V4I543.htm
+Digests/Vol4/26Jul1996V4I543_files/themedata.xml
+    linked from: Digests/Vol4/26Jul1996V4I543.htm
+Digests/Vol4/26Jun1996V4I464_files/filelist.xml
+    linked from: Digests/Vol4/26Jun1996V4I464.htm
+Digests/Vol4/26Jun1996V4I464_files/themedata.xml
+    linked from: Digests/Vol4/26Jun1996V4I464.htm
+Digests/Vol4/26Mar1996V4I310.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/26May1996V4I413_files/filelist.xml
+    linked from: Digests/Vol4/26May1996V4I413.htm
+Digests/Vol4/26May1996V4I413_files/themedata.xml
+    linked from: Digests/Vol4/26May1996V4I413.htm
+Digests/Vol4/26Nov1995V4I155_files/filelist.xml
+    linked from: Digests/Vol4/26Nov1995V4I155.htm
+Digests/Vol4/26Nov1995V4I155_files/themedata.xml
+    linked from: Digests/Vol4/26Nov1995V4I155.htm
+Digests/Vol4/26Nov1995V4I156_files/filelist.xml
+    linked from: Digests/Vol4/26Nov1995V4I156.htm
+Digests/Vol4/26Nov1995V4I156_files/themedata.xml
+    linked from: Digests/Vol4/26Nov1995V4I156.htm
+Digests/Vol4/26Oct1995V4I208_files/filelist.xml
+    linked from: Digests/Vol4/26Oct1995V4I208.htm
+Digests/Vol4/26Oct1995V4I208_files/themedata.xml
+    linked from: Digests/Vol4/26Oct1995V4I208.htm
+Digests/Vol4/26Sep1995V4I50_files/filelist.xml
+    linked from: Digests/Vol4/26Sep1995V4I50.htm
+Digests/Vol4/26Sep1995V4I50_files/themedata.xml
+    linked from: Digests/Vol4/26Sep1995V4I50.htm
+Digests/Vol4/26Sep1995V4I51_files/filelist.xml
+    linked from: Digests/Vol4/26Sep1995V4I51.htm
+Digests/Vol4/26Sep1995V4I51_files/themedata.xml
+    linked from: Digests/Vol4/26Sep1995V4I51.htm
+Digests/Vol4/27Apr1996V4I369_files/filelist.xml
+    linked from: Digests/Vol4/27Apr1996V4I369.htm
+Digests/Vol4/27Apr1996V4I369_files/themedata.xml
+    linked from: Digests/Vol4/27Apr1996V4I369.htm
+Digests/Vol4/27Aug1995V4I19_files/filelist.xml
+    linked from: Digests/Vol4/27Aug1995V4I19.htm
+Digests/Vol4/27Aug1995V4I19_files/themedata.xml
+    linked from: Digests/Vol4/27Aug1995V4I19.htm
+Digests/Vol4/27Dec1995V4I189_files/filelist.xml
+    linked from: Digests/Vol4/27Dec1995V4I189.htm
+Digests/Vol4/27Dec1995V4I189_files/themedata.xml
+    linked from: Digests/Vol4/27Dec1995V4I189.htm
+Digests/Vol4/27Feb1996V4I256_files/filelist.xml
+    linked from: Digests/Vol4/27Feb1996V4I256.htm
+Digests/Vol4/27Feb1996V4I256_files/themedata.xml
+    linked from: Digests/Vol4/27Feb1996V4I256.htm
+Digests/Vol4/27Jan1996V4I220_files/filelist.xml
+    linked from: Digests/Vol4/27Jan1996V4I220.htm
+Digests/Vol4/27Jan1996V4I220_files/themedata.xml
+    linked from: Digests/Vol4/27Jan1996V4I220.htm
+Digests/Vol4/27Jul1996V4I544_files/filelist.xml
+    linked from: Digests/Vol4/27Jul1996V4I544.htm
+Digests/Vol4/27Jul1996V4I544_files/themedata.xml
+    linked from: Digests/Vol4/27Jul1996V4I544.htm
+Digests/Vol4/27Jul1996V4I545_files/filelist.xml
+    linked from: Digests/Vol4/27Jul1996V4I545.htm
+Digests/Vol4/27Jul1996V4I545_files/themedata.xml
+    linked from: Digests/Vol4/27Jul1996V4I545.htm
+Digests/Vol4/27Jun1996V4I465_files/filelist.xml
+    linked from: Digests/Vol4/27Jun1996V4I465.htm
+Digests/Vol4/27Jun1996V4I465_files/themedata.xml
+    linked from: Digests/Vol4/27Jun1996V4I465.htm
+Digests/Vol4/27Mar1996V4I311.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/27Mar1996V4I312.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/27May1996V4I414_files/filelist.xml
+    linked from: Digests/Vol4/27May1996V4I414.htm
+Digests/Vol4/27May1996V4I414_files/themedata.xml
+    linked from: Digests/Vol4/27May1996V4I414.htm
+Digests/Vol4/27Nov1995V4I157_files/filelist.xml
+    linked from: Digests/Vol4/27Nov1995V4I157.htm
+Digests/Vol4/27Nov1995V4I157_files/themedata.xml
+    linked from: Digests/Vol4/27Nov1995V4I157.htm
+Digests/Vol4/27Oct1995V4I209_files/filelist.xml
+    linked from: Digests/Vol4/27Oct1995V4I209.htm
+Digests/Vol4/27Oct1995V4I209_files/themedata.xml
+    linked from: Digests/Vol4/27Oct1995V4I209.htm
+Digests/Vol4/27Sep1995V4I53_files/filelist.xml
+    linked from: Digests/Vol4/27Sep1995V4I53.htm
+Digests/Vol4/27Sep1995V4I53_files/themedata.xml
+    linked from: Digests/Vol4/27Sep1995V4I53.htm
+Digests/Vol4/28Apr1996V4I370_files/filelist.xml
+    linked from: Digests/Vol4/28Apr1996V4I370.htm
+Digests/Vol4/28Apr1996V4I370_files/themedata.xml
+    linked from: Digests/Vol4/28Apr1996V4I370.htm
+Digests/Vol4/28Apr1996V4I371_files/filelist.xml
+    linked from: Digests/Vol4/28Apr1996V4I371.htm
+Digests/Vol4/28Apr1996V4I371_files/themedata.xml
+    linked from: Digests/Vol4/28Apr1996V4I371.htm
+Digests/Vol4/28Aug1995V4I20_files/filelist.xml
+    linked from: Digests/Vol4/28Aug1995V4I20.htm
+Digests/Vol4/28Aug1995V4I20_files/themedata.xml
+    linked from: Digests/Vol4/28Aug1995V4I20.htm
+Digests/Vol4/28Dec1995V4I190_files/filelist.xml
+    linked from: Digests/Vol4/28Dec1995V4I190.htm
+Digests/Vol4/28Dec1995V4I190_files/themedata.xml
+    linked from: Digests/Vol4/28Dec1995V4I190.htm
+Digests/Vol4/28Feb1996V4I257_files/filelist.xml
+    linked from: Digests/Vol4/28Feb1996V4I257.htm
+Digests/Vol4/28Feb1996V4I257_files/themedata.xml
+    linked from: Digests/Vol4/28Feb1996V4I257.htm
+Digests/Vol4/28Feb1996V4I258_files/filelist.xml
+    linked from: Digests/Vol4/28Feb1996V4I258.htm
+Digests/Vol4/28Feb1996V4I258_files/themedata.xml
+    linked from: Digests/Vol4/28Feb1996V4I258.htm
+Digests/Vol4/28Jan1996V4I221_files/filelist.xml
+    linked from: Digests/Vol4/28Jan1996V4I221.htm
+Digests/Vol4/28Jan1996V4I221_files/themedata.xml
+    linked from: Digests/Vol4/28Jan1996V4I221.htm
+Digests/Vol4/28Jul1996V4I546_files/filelist.xml
+    linked from: Digests/Vol4/28Jul1996V4I546.htm
+Digests/Vol4/28Jul1996V4I546_files/themedata.xml
+    linked from: Digests/Vol4/28Jul1996V4I546.htm
+Digests/Vol4/28Jul1996V4I547_files/filelist.xml
+    linked from: Digests/Vol4/28Jul1996V4I547.htm
+Digests/Vol4/28Jul1996V4I547_files/themedata.xml
+    linked from: Digests/Vol4/28Jul1996V4I547.htm
+Digests/Vol4/28Jun1996V4I466_files/filelist.xml
+    linked from: Digests/Vol4/28Jun1996V4I466.htm
+Digests/Vol4/28Jun1996V4I466_files/themedata.xml
+    linked from: Digests/Vol4/28Jun1996V4I466.htm
+Digests/Vol4/28Mar1996V4I313.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/28Mar1996V4I314.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/28May1996V4I415_files/filelist.xml
+    linked from: Digests/Vol4/28May1996V4I415.htm
+Digests/Vol4/28May1996V4I415_files/themedata.xml
+    linked from: Digests/Vol4/28May1996V4I415.htm
+Digests/Vol4/28Nov1995V4I158_files/filelist.xml
+    linked from: Digests/Vol4/28Nov1995V4I158.htm
+Digests/Vol4/28Nov1995V4I158_files/themedata.xml
+    linked from: Digests/Vol4/28Nov1995V4I158.htm
+Digests/Vol4/28Oct1995V4I210_files/filelist.xml
+    linked from: Digests/Vol4/28Oct1995V4I210.htm
+Digests/Vol4/28Oct1995V4I210_files/themedata.xml
+    linked from: Digests/Vol4/28Oct1995V4I210.htm
+Digests/Vol4/28Sep1995V4I54_files/filelist.xml
+    linked from: Digests/Vol4/28Sep1995V4I54.htm
+Digests/Vol4/28Sep1995V4I54_files/themedata.xml
+    linked from: Digests/Vol4/28Sep1995V4I54.htm
+Digests/Vol4/29Apr1996V4I372_files/filelist.xml
+    linked from: Digests/Vol4/29Apr1996V4I372.htm
+Digests/Vol4/29Apr1996V4I372_files/themedata.xml
+    linked from: Digests/Vol4/29Apr1996V4I372.htm
+Digests/Vol4/29Apr1996V4I373_files/filelist.xml
+    linked from: Digests/Vol4/29Apr1996V4I373.htm
+Digests/Vol4/29Apr1996V4I373_files/themedata.xml
+    linked from: Digests/Vol4/29Apr1996V4I373.htm
+Digests/Vol4/29Aug21995V4I21_files/filelist.xml
+    linked from: Digests/Vol4/29Aug21995V4I21.htm
+Digests/Vol4/29Aug21995V4I21_files/themedata.xml
+    linked from: Digests/Vol4/29Aug21995V4I21.htm
+Digests/Vol4/29Dec1995V4I191_files/filelist.xml
+    linked from: Digests/Vol4/29Dec1995V4I191.htm
+Digests/Vol4/29Dec1995V4I191_files/themedata.xml
+    linked from: Digests/Vol4/29Dec1995V4I191.htm
+Digests/Vol4/29Dec1995V4I192_files/filelist.xml
+    linked from: Digests/Vol4/29Dec1995V4I192.htm
+Digests/Vol4/29Dec1995V4I192_files/themedata.xml
+    linked from: Digests/Vol4/29Dec1995V4I192.htm
+Digests/Vol4/29Feb1996V4I160_files/filelist.xml
+    linked from: Digests/Vol4/29Feb1996V4I160.htm
+Digests/Vol4/29Feb1996V4I160_files/themedata.xml
+    linked from: Digests/Vol4/29Feb1996V4I160.htm
+Digests/Vol4/29Feb1996V4I259_files/filelist.xml
+    linked from: Digests/Vol4/29Feb1996V4I259.htm
+Digests/Vol4/29Feb1996V4I259_files/themedata.xml
+    linked from: Digests/Vol4/29Feb1996V4I259.htm
+Digests/Vol4/29Jan1996V4I222_files/filelist.xml
+    linked from: Digests/Vol4/29Jan1996V4I222.htm
+Digests/Vol4/29Jan1996V4I222_files/themedata.xml
+    linked from: Digests/Vol4/29Jan1996V4I222.htm
+Digests/Vol4/29Jul1996V4I548_files/filelist.xml
+    linked from: Digests/Vol4/29Jul1996V4I548.htm
+Digests/Vol4/29Jul1996V4I548_files/themedata.xml
+    linked from: Digests/Vol4/29Jul1996V4I548.htm
+Digests/Vol4/29Jul1996V4I549_files/filelist.xml
+    linked from: Digests/Vol4/29Jul1996V4I549.htm
+Digests/Vol4/29Jul1996V4I549_files/themedata.xml
+    linked from: Digests/Vol4/29Jul1996V4I549.htm
+Digests/Vol4/29Jul1996V4I550_files/filelist.xml
+    linked from: Digests/Vol4/29Jul1996V4I550.htm
+Digests/Vol4/29Jul1996V4I550_files/themedata.xml
+    linked from: Digests/Vol4/29Jul1996V4I550.htm
+Digests/Vol4/29Jun1996V4I467_files/filelist.xml
+    linked from: Digests/Vol4/29Jun1996V4I467.htm
+Digests/Vol4/29Jun1996V4I467_files/themedata.xml
+    linked from: Digests/Vol4/29Jun1996V4I467.htm
+Digests/Vol4/29Mar1996V4I315.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/29May1996V4I416_files/filelist.xml
+    linked from: Digests/Vol4/29May1996V4I416.htm
+Digests/Vol4/29May1996V4I416_files/themedata.xml
+    linked from: Digests/Vol4/29May1996V4I416.htm
+Digests/Vol4/29Nov1995V4I159_files/filelist.xml
+    linked from: Digests/Vol4/29Nov1995V4I159.htm
+Digests/Vol4/29Nov1995V4I159_files/themedata.xml
+    linked from: Digests/Vol4/29Nov1995V4I159.htm
+Digests/Vol4/29Oct1995V4I211_files/filelist.xml
+    linked from: Digests/Vol4/29Oct1995V4I211.htm
+Digests/Vol4/29Oct1995V4I211_files/themedata.xml
+    linked from: Digests/Vol4/29Oct1995V4I211.htm
+Digests/Vol4/29Oct1995V4I212_files/filelist.xml
+    linked from: Digests/Vol4/29Oct1995V4I212.htm
+Digests/Vol4/29Oct1995V4I212_files/themedata.xml
+    linked from: Digests/Vol4/29Oct1995V4I212.htm
+Digests/Vol4/29Sep1995V4I55_files/filelist.xml
+    linked from: Digests/Vol4/29Sep1995V4I55.htm
+Digests/Vol4/29Sep1995V4I55_files/themedata.xml
+    linked from: Digests/Vol4/29Sep1995V4I55.htm
+Digests/Vol4/30Apr1996V4I374_files/filelist.xml
+    linked from: Digests/Vol4/30Apr1996V4I374.htm
+Digests/Vol4/30Apr1996V4I374_files/themedata.xml
+    linked from: Digests/Vol4/30Apr1996V4I374.htm
+Digests/Vol4/30Apr1996V4I375_files/filelist.xml
+    linked from: Digests/Vol4/30Apr1996V4I375.htm
+Digests/Vol4/30Apr1996V4I375_files/themedata.xml
+    linked from: Digests/Vol4/30Apr1996V4I375.htm
+Digests/Vol4/30Aug1995V4I22_files/filelist.xml
+    linked from: Digests/Vol4/30Aug1995V4I22.htm
+Digests/Vol4/30Aug1995V4I22_files/themedata.xml
+    linked from: Digests/Vol4/30Aug1995V4I22.htm
+Digests/Vol4/30Jan1996V4I223_files/filelist.xml
+    linked from: Digests/Vol4/30Jan1996V4I223.htm
+Digests/Vol4/30Jan1996V4I223_files/themedata.xml
+    linked from: Digests/Vol4/30Jan1996V4I223.htm
+Digests/Vol4/30Jul1996V4I551_files/filelist.xml
+    linked from: Digests/Vol4/30Jul1996V4I551.htm
+Digests/Vol4/30Jul1996V4I551_files/themedata.xml
+    linked from: Digests/Vol4/30Jul1996V4I551.htm
+Digests/Vol4/30Jul1996V4I552_files/filelist.xml
+    linked from: Digests/Vol4/30Jul1996V4I552.htm
+Digests/Vol4/30Jul1996V4I552_files/themedata.xml
+    linked from: Digests/Vol4/30Jul1996V4I552.htm
+Digests/Vol4/30Jul1996V4I553_files/filelist.xml
+    linked from: Digests/Vol4/30Jul1996V4I553.htm
+Digests/Vol4/30Jul1996V4I553_files/themedata.xml
+    linked from: Digests/Vol4/30Jul1996V4I553.htm
+Digests/Vol4/30Jul1996V4I554_files/filelist.xml
+    linked from: Digests/Vol4/30Jul1996V4I554.htm
+Digests/Vol4/30Jul1996V4I554_files/themedata.xml
+    linked from: Digests/Vol4/30Jul1996V4I554.htm
+Digests/Vol4/30Mar1996V4I316.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/30Mar1996V4I317.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/30May1996V4I417_files/filelist.xml
+    linked from: Digests/Vol4/30May1996V4I417.htm
+Digests/Vol4/30May1996V4I417_files/themedata.xml
+    linked from: Digests/Vol4/30May1996V4I417.htm
+Digests/Vol4/30Nov1995V4I160_files/filelist.xml
+    linked from: Digests/Vol4/30Nov1995V4I160.htm
+Digests/Vol4/30Nov1995V4I160_files/themedata.xml
+    linked from: Digests/Vol4/30Nov1995V4I160.htm
+Digests/Vol4/30Oct1995V4I213_files/filelist.xml
+    linked from: Digests/Vol4/30Oct1995V4I213.htm
+Digests/Vol4/30Oct1995V4I213_files/themedata.xml
+    linked from: Digests/Vol4/30Oct1995V4I213.htm
+Digests/Vol4/30Oct1995V4I214_files/filelist.xml
+    linked from: Digests/Vol4/30Oct1995V4I214.htm
+Digests/Vol4/30Oct1995V4I214_files/themedata.xml
+    linked from: Digests/Vol4/30Oct1995V4I214.htm
+Digests/Vol4/30Sep1995V4I56_files/filelist.xml
+    linked from: Digests/Vol4/30Sep1995V4I56.htm
+Digests/Vol4/30Sep1995V4I56_files/themedata.xml
+    linked from: Digests/Vol4/30Sep1995V4I56.htm
+Digests/Vol4/31Aug1995V4I23_files/filelist.xml
+    linked from: Digests/Vol4/31Aug1995V4I23.htm
+Digests/Vol4/31Aug1995V4I23_files/themedata.xml
+    linked from: Digests/Vol4/31Aug1995V4I23.htm
+Digests/Vol4/31Dec1995V4I193_files/filelist.xml
+    linked from: Digests/Vol4/31Dec1995V4I193.htm
+Digests/Vol4/31Dec1995V4I193_files/themedata.xml
+    linked from: Digests/Vol4/31Dec1995V4I193.htm
+Digests/Vol4/31Jan1996V4I224_files/filelist.xml
+    linked from: Digests/Vol4/31Jan1996V4I224.htm
+Digests/Vol4/31Jan1996V4I224_files/themedata.xml
+    linked from: Digests/Vol4/31Jan1996V4I224.htm
+Digests/Vol4/31Jan1996V4I225_files/filelist.xml
+    linked from: Digests/Vol4/31Jan1996V4I225.htm
+Digests/Vol4/31Jan1996V4I225_files/themedata.xml
+    linked from: Digests/Vol4/31Jan1996V4I225.htm
+Digests/Vol4/31Jul1996V4I555_files/filelist.xml
+    linked from: Digests/Vol4/31Jul1996V4I555.htm
+Digests/Vol4/31Jul1996V4I555_files/themedata.xml
+    linked from: Digests/Vol4/31Jul1996V4I555.htm
+Digests/Vol4/31Jul1996V4I556_files/filelist.xml
+    linked from: Digests/Vol4/31Jul1996V4I556.htm
+Digests/Vol4/31Jul1996V4I556_files/themedata.xml
+    linked from: Digests/Vol4/31Jul1996V4I556.htm
+Digests/Vol4/31Jul1996V4I557_files/filelist.xml
+    linked from: Digests/Vol4/31Jul1996V4I557.htm
+Digests/Vol4/31Jul1996V4I557_files/themedata.xml
+    linked from: Digests/Vol4/31Jul1996V4I557.htm
+Digests/Vol4/31Jul1996V4I558_files/filelist.xml
+    linked from: Digests/Vol4/31Jul1996V4I558.htm
+Digests/Vol4/31Jul1996V4I558_files/themedata.xml
+    linked from: Digests/Vol4/31Jul1996V4I558.htm
+Digests/Vol4/31Mar1996V4I318.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/31Mar1996V4I319.htm
+    linked from: Digests/Digests_Vol4.html
+Digests/Vol4/31May1996V4I418_files/filelist.xml
+    linked from: Digests/Vol4/31May1996V4I418.htm
+Digests/Vol4/31May1996V4I418_files/themedata.xml
+    linked from: Digests/Vol4/31May1996V4I418.htm
+Digests/Vol4/31May1996V4I419_files/filelist.xml
+    linked from: Digests/Vol4/31May1996V4I419.htm
+Digests/Vol4/31May1996V4I419_files/themedata.xml
+    linked from: Digests/Vol4/31May1996V4I419.htm
+Digests/Vol4/31Oct1995V4I215_files/filelist.xml
+    linked from: Digests/Vol4/31Oct1995V4I215.htm
+Digests/Vol4/31Oct1995V4I215_files/themedata.xml
+    linked from: Digests/Vol4/31Oct1995V4I215.htm
+Digests/Vol4/31Oct1995V4I216_files/filelist.xml
+    linked from: Digests/Vol4/31Oct1995V4I216.htm
+Digests/Vol4/31Oct1995V4I216_files/themedata.xml
+    linked from: Digests/Vol4/31Oct1995V4I216.htm
+Miscellaneous/URS_Awards.html
+    linked from: junk_drawer.html
+Results/Cottbus/Men/2006_ef.html
+    linked from: Results/cottbus-results.html
+Results/Cottbus/Women/2006_ef.html
+    linked from: Results/cottbus-results.html
+Results/EYOD/2010_CenAmer_Games.html
+    linked from: Results/misc2010s.html
+Results/FIG-W-Chal-Cup/Men/2019_Baku.html
+    linked from: Results/FIG-W-Chal-Cup-results.html
+Results/JEuros/96WTeam.html
+    linked from: Results/jeuro-results.html
+Results/JEuros/mje-98aa_1.html
+    linked from: Results/jeuro-results.html
+Results/JONatls/Women/2005.html
+    linked from: Results/jo-nationals-results.html
+Results/JONatls/Women/2005_sr.html
+    linked from: Results/jo-nationals-results.html
+Results/Jr-Duals-1/Men/1971_GDR-POL.html
+    linked from: Results/jr-duals-results.html
+Results/Jr-Duals-1/Men/1984_GDR-URS.html
+    linked from: Results/jr-duals-results.html
+Results/Jr-Duals-1/Women/1962_Jr_TCH-GDR
+    linked from: Results/jr-duals-results.html
+Results/Jr-Duals-1/Women/1972_ITA-HUN.html
+    linked from: whats_new.html
+Results/Jr-Duals-1/Women/1981_GDR-BUL.html
+    linked from: Results/jr-duals-results.html
+Results/Jr-Duals-1/Women/1982_GDR-TCH.html
+    linked from: Results/jr-duals-results.html
+Results/Jr-Duals-1/jrgeus91m.html
+    linked from: Results/jr-duals-results.html
+Results/JunUSA/Women/2021.html
+    linked from: Results/usnat-results.html
+Results/Massilia/1995.html
+    linked from: Results/massilia-results.html
+Results/Misc/1960s/Men/1967_TCH-GDR.html
+    linked from: Results/duals-60s.html, Results/duals-results.html
+Results/Misc/1970s/Men/1971_GDR-URS.htm
+    linked from: whats_new.html
+Results/Misc/1970s/Men/1978_FRA-BUL-URS.htm
+    linked from: Results/duals-results.html
+Results/Misc/1970s/Men/images/gymnhead.gif
+    linked from: Results/VariousNatls/Men/1975_ITA.html
+Results/Misc/1970s/Women/1973_GDR-NOR.html
+    linked from: Results/duals-70s.html, Results/duals-results.html
+Results/Misc/1970s/Women/1974TCH-CAN.htm
+    linked from: Results/duals-70s.html, Results/duals-results.html
+Results/Misc/1970s/Women/1974_SUI-HUN.htm
+    linked from: Results/duals-70s.html, Results/duals-results.html
+Results/Misc/1970s/Women/1975_GDR-NOR-SWE.html
+    linked from: Results/duals-70s.html, Results/duals-results.html
+Results/Misc/1970s/Women/1975_ParisGP.htm
+    linked from: whats_new.html
+Results/Misc/1970s/Women/1978_FRA-ITA.html
+    linked from: Results/duals-70s.html, Results/duals-results.html
+Results/Misc/1970s/Women/1979_USSR_Spartakiade.html
+    linked from: Results/ussr-spartakiade-results.html
+Results/Misc/1980s/Men/1982_Sappinen.html
+    linked from: Results/misc80s.html
+Results/Misc/1980s/Men/1983_UCLA.html
+    linked from: Results/misc80s.html
+Results/Misc/1980s/Men/1984_Espoo_Intl.html
+    linked from: Results/misc80s.html
+Results/Misc/1980s/Men/1989_Baghdad.html
+    linked from: Results/misc80s.html
+Results/Misc/1980s/Men/1989_Tucson.html
+    linked from: Results/misc80s.html
+Results/Misc/1980s/Women/1981_Orleans.html
+    linked from: Results/misc80s.html
+Results/Misc/1980s/Women/1983_GDR-SWE-NOR.html
+    linked from: Results/duals-80s.html, Results/duals-results.html
+Results/Misc/1980s/Women/1983_NED-BUL.htm
+    linked from: Results/duals-80s.html, Results/duals-results.html
+Results/Misc/1980s/Women/1983_UCLA.html
+    linked from: Results/misc80s.html
+Results/Misc/1980s/Women/1986_USAIGC.html
+    linked from: Results/misc80s.html
+Results/Misc/1980s/Women/1987_FLIPS.html
+    linked from: Results/misc80s.html
+Results/Misc/1980s/Women/1989_PNOI.html
+    linked from: Results/misc80s.html
+Results/Misc/1990s/1992_RusFedCupM.html
+    linked from: Results/misc90s.html
+Results/Misc/1990s/Men/1997_GER-FRA-SUI-GBR.html
+    linked from: Results/duals-90s.html, Results/duals-results.html
+Results/Misc/1990s/Women/1996_BLR-ITA-ROM-RUS.html
+    linked from: Results/duals-90s.html, Results/duals-results.html
+Results/Misc/1990s/Women/1997_GBR-RUS.html
+    linked from: Results/duals-90s.html, Results/duals-results.html
+Results/Misc/2000s/Men/2003_Artistic_Gym_Cup.html
+    linked from: Results/misc00s.html
+Results/Misc/2000s/Men/2004_La_Serena.html
+    linked from: Results/misc00s.html
+Results/Misc/2000s/Men/2005_Asian_Games.html
+    linked from: Results/misc00s.html
+Results/Misc/2000s/Men/2006_Pac_Alliance.html
+    linked from: Results/misc00s.html
+Results/Misc/2000s/Men/2009_African_Champs.html
+    linked from: Results/misc00s.html
+Results/Misc/2000s/Women/2002_US_Challenge.html
+    linked from: Results/misc00s.html
+Results/Misc/2000s/Women/2003_Bluewater.html
+    linked from: Results/misc00s.html
+Results/Misc/2000s/Women/2009_KanyoCup.html
+    linked from: Results/misc00s.html
+Results/Misc/2010s/2010_WildRose.html
+    linked from: Results/misc2010s.html
+Results/Misc/2010s/2011_JrTrnavaAA.html
+    linked from: Results/misc2010s.html
+Results/Misc/2010s/2013_Dityatin-Cup.html
+    linked from: Results/misc2010s.html
+Results/Misc/2010s/2013_JrDityatin-Cup.html
+    linked from: Results/misc2010s.html
+Results/Misc/2010s/2019_JrWCH_W.html
+    linked from: Results/misc2010s.html
+Results/Misc/2010s/Men/2014_ROM-GER-SUI_M.html
+    linked from: Results/duals-2000s.html, Results/duals-results.html
+Results/Misc/99EYOD-AA.html
+    linked from: Results/eyod-results.html
+Results/Misc/99EYOD-EF.html
+    linked from: Results/eyod-results.html
+Results/Misc/99EYOD.html
+    linked from: Results/eyod-results.html
+Results/Misc/images/gymnhead.gif
+    linked from: Results/Misc/2000s/Men/2004_ESP-ROM.html
+Results/Misc2/97EYOD-aa.html
+    linked from: Results/eyod-results.html
+Results/Moncada/Men/1974_Moncada.html
+    linked from: whats_new.html
+Results/Moncada/Women/1974_Moncada.html
+    linked from: whats_new.html
+Results/NCAA-M/2012-aa.html
+    linked from: Results/ncaa-results.html
+Results/NatSports/m82.html
+    linked from: Results/oly-festival-results.html
+Results/Olympics/OlyChampMen.html
+    linked from: Results/oly-results.html
+Results/Olympics/OlyChampWomen.html
+    linked from: Results/oly-results.html
+Results/Olympics/gymnhead.gif
+    linked from: Results/Olympics/1992_Barcelona/1992_men_team_ROM_KOR_HUN.html
+Results/Olympics/images/gymnhead.gif
+    linked from: Results/Olympics/1956_Melbourne/1956_ef_mainpage.html, Results/Olympics/1956_Melbourne/1956_men_aa.html, Results/Olympics/1956_Melbourne/1956_men_ef.html, Results/Olympics/1956_Melbourne/1956_women_aa.html, Results/Olympics/1956_Melbourne/1956_women_ef.html
+Results/RSG/Misc/1980s/1984_Silentnight.html
+    linked from: Results/RSG/rsg-misc80s.htm
+Results/RSG/Misc/1990s/1998_FRA_Telecom.html
+    linked from: Results/RSG/rsg-misc90s.htm
+Results/RSG/Misc/1990s/1998_Opal_Cup.html
+    linked from: Results/RSG/rsg-misc90s.htm
+Results/RSG/Misc/1990s/1998_SF_Intl.html
+    linked from: Results/RSG/rsg-misc90s.htm
+Results/RSG/Misc/2000s/2003_VItry_Cup.html
+    linked from: Results/RSG/rsg-misc00s.htm
+Results/RSG/Misc/2000s/2004_Berlin_Masters.html
+    linked from: Results/RSG/rsg-misc00s.htm
+Results/SiskaIntl/2004_Siska.html
+    linked from: Results/siska-results.html
+Results/SwissCup/Men/1983_Mixed_Pairs.html
+    linked from: Results/swiss-cup-results.html
+Results/SwissCup/Men/1992_Swiss_Cup_Mixed_Pairs.html
+    linked from: Results/swiss-cup-results.html
+Results/SwissCup/Men/1993_Swiss_Cup_Mixed_Pairs.html
+    linked from: Results/swiss-cup-results.html
+Results/USClassic/Juniors/1989_a.html
+    linked from: Results/us-classic-results.html
+Results/USClassic/Juniors/1989_b.html
+    linked from: Results/us-classic-results.html
+Results/USNat/Men/1998.html
+    linked from: Results/usnat-results.html
+Results/USNat/Men/2008.html
+    linked from: Results/usnat-results.html
+Results/USOly/Men/2008.html
+    linked from: Results/usoly-results.html
+Results/USOly/Women/2008.html
+    linked from: Results/usoly-results.html
+Results/VariousNatls/Men/1985_JrHUN.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Men/1995_AUS.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Men/1995_CAN.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Men/1996_AUS.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Men/1996_FRA.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Men/1996_JPN.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Men/1996_SUI.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Men/1997_CAN.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Men/1997_SUI.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Men/1998_RUS.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Men/2000_RUS.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Men/2001_BEL.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Men/2001_RUS.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Men/2002_RUS.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Women/1961_CAN.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Women/1974_TCH.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Women/1995_AUS.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Women/1995_CAN.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Women/1996_AUS.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Women/1996_FRA.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Women/1996_GBR.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Women/1996_JPN.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Women/1996_SUI.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Women/1997_CAN.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Women/1997_GBR.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Women/1998_RUS.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Women/1999_ESP.htm
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Women/1999_JPN.htm
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Women/1999_RUS.htm
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Women/2000_JPN.htm
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Women/2000_RUS.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Women/2001_BEL.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Women/2001_JPN.htm
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Women/2001_RUS.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Women/2002_AUS.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Women/2002_RUS.html
+    linked from: Results/VariousNatls.html
+Results/VariousNatls/Women/2018_ITA.html
+    linked from: Results/VariousNatls.html
+Results/WorldTrials/Men/1995.html
+    linked from: Results/us-world-trials-results.html
+Results/WorldTrials/Women/1995.html
+    linked from: Results/us-world-trials-results.html
+Results/Worlds/Statistics/1954_statistics.html
+    linked from: Results/wch-results.html
+Results/Worlds/Statistics/1958_statistics.html
+    linked from: Results/wch-results.html
+Results/Worlds/Statistics/1962_statistics.html
+    linked from: Results/wch-results.html
+Results/Worlds/Statistics/1966_statistics.html
+    linked from: Results/wch-results.html
+Results/Worlds/Statistics/1970_statistics.html
+    linked from: Results/wch-results.html
+Results/Worlds/Statistics/1974_statistics.html
+    linked from: Results/wch-results.html
+Results/Worlds/Statistics/1978_statistics.html
+    linked from: Results/wch-results.html
+Results/Worlds/Statistics/1979_statistics.html
+    linked from: Results/wch-results.html
+Results/Worlds/Statistics/1981_statistics.html
+    linked from: Results/wch-results.html
+Results/Worlds/Statistics/1983_statistics.html
+    linked from: Results/wch-results.html
+Results/Worlds/Statistics/1985_statistics.html
+    linked from: Results/wch-results.html
+Results/Worlds/Statistics/1987_statistics.html
+    linked from: Results/wch-results.html
+Results/Worlds/Statistics/1989_statistics.html
+    linked from: Results/wch-results.html
+Results/Worlds/Women/1974_teams_17-18.html
+    linked from: Results/Worlds/Women/1974_team.html
+Results/Worlds/Women/1992_fx_semis.html
+    linked from: Results/wch-results.html
+Results/Worlds/gymnhead.gif
+    linked from: Results/Worlds/Women/1994_team_worlds_prelims_1-4.html, Results/Worlds/Women/1994_team_worlds_prelims_13-16.html, Results/Worlds/Women/1994_team_worlds_prelims_5-8.html, Results/Worlds/Women/1994_team_worlds_prelims_9-12.html
+Results/css_gymnforum.css
+    linked from: Results/Misc/1970s/Women/1974_ITA-ROM.html
+Trivia/1999/contest1.html
+    linked from: trivia.html
+Trivia/1999/contest2.html
+    linked from: trivia.html
+Trivia/1999/contest3.html
+    linked from: trivia.html
+bios/Turisch.html
+    linked from: bios/women/shaposhnikova.html
+bios/amanar.html
+    linked from: Results/EChamps/Women/1996_aa.html, Results/Worlds/Women/1995_aa.html
+bios/bogin.html
+    linked from: Results/EChamps/Women/1996_aa.html, Results/Worlds/Women/1995_aa.html
+bios/bruckner.html
+    linked from: Results/EChamps/Men/1981_aa.html
+bios/chusovit.html
+    linked from: Results/Worlds/Women/1995_aa.html
+bios/comaneci.html
+    linked from: bios/men/conner.html
+bios/davydova.html
+    linked from: bios/women/wu_jiani.html
+bios/gienger.html
+    linked from: Results/EChamps/Men/1981_aa.html
+bios/gnauck.html
+    linked from: bios/women/kersten.html
+bios/gogean.html
+    linked from: Results/EChamps/Women/1994_aa.html, Results/Worlds/Women/1995_aa.html
+bios/janz_1.html
+    linked from: bios/women/kersten.html
+bios/khorkina.html
+    linked from: Results/EChamps/Women/1994_aa.html, Results/EChamps/Women/1996_aa.html
+bios/kochetko.html
+    linked from: Results/EChamps/Women/1994_aa.html, Results/EChamps/Women/1996_aa.html, Results/Worlds/Women/1994_aa.html, Results/Worlds/Women/1995_aa.html
+bios/kormann_1.html
+    linked from: bios/men/grossfeld.html
+bios/men/www.sabrinavega.com
+    linked from: bios/men/cepoi.html
+bios/milosovi.html
+    linked from: Results/EChamps/Women/1994_aa.html, Results/EChamps/Women/1996_aa.html, Results/Worlds/Women/1994_aa.html
+bios/piskun.html
+    linked from: Results/EChamps/Women/1994_aa.html, Results/EChamps/Women/1996_aa.html, Results/Worlds/Women/1995_aa.html
+bios/pix/e-mack.jpg
+    linked from: bios/men/e-mack.html
+bios/pix/flander.jpg
+    linked from: bios/women/flander.html
+bios/pix/kharkov.JPG
+    linked from: bios/men/kharkov.html
+bios/pix/l-grayson.JPG
+    linked from: bios/women/grayson.html
+bios/podkop.html
+    linked from: Results/EChamps/Women/1994_aa.html, Results/EChamps/Women/1996_aa.html
+bios/retton_1.html
+    linked from: bios/women/durham.html
+bios/shaposhnikova.html
+    linked from: bios/women/kim_n.html
+bios/shishova.html
+    linked from: bios/women/shaposhnikova.html
+bios/women/gymnhead.gif
+    linked from: bios/women/naimushina.html
+bios/yurchenko.html
+    linked from: bios/women/shaposhnikova.html
+images/DTurnerBio.png
+    linked from: bios/women/d_turner.html
+images/es.JPG
+    linked from: bios/women/schlegel.html
+index.htm
+    linked from: Birthdates/December.html, Birthdates/birthdates.html, Birthdates/february.html, Birthdates/january.html, Birthdates/march.html
+results/Olympics/mog-76t_1.html
+    linked from: centurions.html
+results/Olympics/mog-84t_1.html
+    linked from: centurions.html
+results/Olympics/mog84-team1-3.html
+    linked from: centurions.html
+results/Olympics/wog-84ef_1.html
+    linked from: centurions.html
+results/Worlds/INDY91-WAA_1.html
+    linked from: centurions.html
+results/Worlds/M-AA1954_1.html
+    linked from: centurions.html
+results/Worlds/M-Team1978_1.html
+    linked from: centurions.html
+results/Worlds/M-Team1979_1.html
+    linked from: centurions.html
+results/Worlds/M-Team1981_1.html
+    linked from: centurions.html
+results/Worlds/M-Team1983_1.html
+    linked from: centurions.html
+results/Worlds/STRASBOURG78-WEF_1.html
+    linked from: centurions.html
+
+== Case-only mismatches (6) — file exists with different capitalization ==
+bios/pix/ekman1.JPG  ->  bios/pix/ekman1.jpg
+bios/pix/furst3.JPG  ->  bios/pix/furst3.jpg
+bios/pix/jjokiel.JPG  ->  bios/pix/jjokiel.jpg
+bios/pix/r_neri.JPG  ->  bios/pix/r_neri.jpg
+bios/pix/tousek.JPG  ->  bios/pix/tousek.jpg
+results/AltGames/Women/1984_aa.html  ->  Results/AltGames/Women/1984_aa.html

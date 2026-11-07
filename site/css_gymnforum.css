@@ -1,0 +1,15 @@
+@charset "UTF-8";
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	background-color: #FFF;
+	list-style-type: disc;
+	text-align: justify-all;
+	margin-left: 150px;
+	margin-right:150px;
+}
+
+.oneColFixCtrHdr #container #mainContent h1 {
+	font-family: Verdana, Geneva, sans-serif;
+}
